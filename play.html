@@ -1,0 +1,282 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <title>Chobots.com - Your Family Game!</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="keywords" content="family virtual world, kids and parents, kids education, learn by playing, fun online games for children, fun games for children, online games for kids, games on line for kids, children online games, online games for children, online games for preschool, online games for preschoolers, online games for preschool children, educational online games for children, free online games for young children, online games for small children"/>
+    <meta name="description" content="Chobots.com is an entertaining virtual world, a family game aimed at creating an interesting, safe and learning environment for your kids."/>
+    <meta http-equiv="Pragma" content="no-cache"/>
+    <meta http-equiv="Expires" content="-1"/>
+    <link rel="icon" href="favicon.png" type="image/png">
+    <link rel="stylesheet" href="stylesheets/style.css" type="text/css" media="screen" title="no title" charset="utf-8"/>
+    <link rel="stylesheet" href="stylesheets/private-world.css" type="text/css" media="screen"/>
+    <style>
+        #flashContent {
+            width: 1182px;
+            height: 670px;
+            border: solid #FFF 5px;
+            border-radius: 7px;
+            margin: 10px auto;
+        }
+    </style>
+    <script>
+        var ch_locale = 'enUS';
+        var ch_language = 'en';
+        window.RufflePlayer = window.RufflePlayer || {};
+        window.RufflePlayer.config = {
+            autoplay: "on",
+            allowScriptAccess: true,
+            unmuteOverlay: "hidden",
+            warnOnUnsupportedContent: true,
+            preloader: false,
+            splashScreen: false,
+            contextMenu: false,
+            wmode: "transparent"
+        };
+    </script>
+    <script src="javascripts/game.js" type="text/javascript"></script>
+    <script src="javascripts/ruffle-ws-bridge.js" type="text/javascript"></script>
+    <script src="javascripts/chobots-relay-config.js" type="text/javascript"></script>
+    <script src="javascripts/chobots-play-mode.js" type="text/javascript"></script>
+    <script src="javascripts/chobots-play-choice.js" type="text/javascript"></script>
+    <script src="javascripts/chobots-browser-host.js" type="text/javascript"></script>
+    <script src="javascripts/chobots-relay-host.js" type="text/javascript"></script>
+    <script src="ruffle/ruffle.js" type="text/javascript"></script>
+</head>
+<body>
+
+<div class="wrapper">
+    <div class="content ingame onblue">
+        <div class="menu">
+            <ul>
+                <li><span><span><a href="/index.html"><span><span>Home</span></span></a></li>
+                <li><span><span><a href="/membership.html"><span><span>Membership</span></span></a></li>
+                <li><span><span><a href="/blog"><span><span>Community</span></span></a></li>
+                <li><span><span><a href="/contact_us.html"><span><span>Contact us</span></span></a></li>
+                <li class="play"><a href="/play.html#login"></a></li>
+            </ul>
+        </div>
+        <script>
+            $('.menu li:has(a[href$='+window.location.pathname+window.location.hash+']),.menu li:first').eq(0).addClass('current');
+            $('div.menu > ul > li a').click(function(){
+                $('.menu li.current').removeClass('current');
+                $('.menu li:has(a[href$='+this.pathname+this.hash+'])').addClass('current');
+            })
+        </script>
+    </div>
+</div>
+
+<div id="chobotsGameStage">
+    <div id="flashContent"></div>
+    <section id="chobotsPlayChooser" role="dialog" aria-modal="true" aria-labelledby="chobotsPlayChooserTitle" hidden>
+        <div class="play-chooser-card">
+            <h1 id="chobotsPlayChooserTitle">How would you like to play?</h1>
+            <p>Choose how this browser world should start. You can change it later.</p>
+            <div class="play-chooser-options">
+                <button id="chobotsPlayPrivate" type="button"><strong>Play privately</strong><span>Only this browser can connect.</span></button>
+                <button id="chobotsPlayPublic" type="button"><strong>Open to public</strong><span>Create sharing links for friends.</span></button>
+            </div>
+            <form id="chobotsJoinForm">
+                <label for="chobotsJoinCode">Join a friend's server</label>
+                <div class="play-chooser-join">
+                    <input id="chobotsJoinCode" type="text" maxlength="2048" autocomplete="off" placeholder="Sharing code or full link"/>
+                    <button id="chobotsJoinFriend" type="submit">Join</button>
+                </div>
+                <p id="chobotsJoinError" role="alert" hidden></p>
+            </form>
+        </div>
+    </section>
+</div>
+<div class="wrapper">
+    <div id="chobotsHostDiagnostics" hidden>
+        <span id="chobotsHostModeStatus">Choose mode</span>
+        <span id="chobotsBrowserStatus" aria-live="polite">loading</span>
+        <span id="chobotsStorageStatus">storage checking</span>
+        <span id="chobotsRelaySummary" hidden>
+            <span id="chobotsRelayStatus" aria-live="polite">sharing offline</span>
+            <span id="chobotsRelayPeerCount">0</span>
+        </span>
+    </div>
+    <section id="chobotsHostWorld" hidden>
+        <div class="private-world-body">
+            <section id="chobotsRelayControls" class="private-world-section" hidden>
+                <h2>Share this world</h2>
+                <label for="chobotsShareLink">Sharing link</label>
+                <input id="chobotsShareLink" type="text" readonly="readonly"/>
+                <div class="private-world-actions">
+                    <button id="chobotsShareCopyLink" type="button">Copy link</button>
+                    <button id="chobotsShareCopyCode" type="button">Copy code</button>
+                </div>
+                <p>Making the world private disconnects guests and invalidates this link.</p>
+            </section>
+            <section id="chobotsDatabaseControls" class="private-world-section" hidden>
+                <h2>World database</h2>
+                <span id="chobotsPersistenceWarning">Browser storage persistence is not guaranteed; export backups regularly.</span>
+                <div class="private-world-actions">
+                    <button id="chobotsExportDatabase" type="button">Export backup</button>
+                    <label class="private-world-file">Import backup <input id="chobotsImportDatabase" type="file" accept=".sqlite3,application/vnd.sqlite3"/></label>
+                    <button id="chobotsResetDatabase" type="button">Reset world</button>
+                </div>
+                <p>OPFS data survives ordinary restarts, but clearing site data removes it. Keep exported backups.</p>
+            </section>
+            <section id="chobotsModeControls" class="private-world-section" hidden>
+                <h2>Hosting mode</h2>
+                <div class="private-world-actions">
+                    <button id="chobotsOpenPublic" type="button" hidden>Open to public</button>
+                    <button id="chobotsMakePrivate" type="button" hidden>Make private</button>
+                    <button id="chobotsJoinServer" type="button">Join server via link</button>
+                </div>
+            </section>
+        </div>
+    </section>
+    <div id="chobotsRelayGuestStatus" aria-live="polite" hidden>
+        <span id="chobotsRelayGuestText">Connecting to private world…</span>
+        <button id="chobotsRelayGuestLeave" type="button">Leave</button>
+    </div>
+</div>
+<script type="text/javascript">
+    (function () {
+        var params = new URLSearchParams(window.location.search);
+        var playMode = window.chobotsPlayMode;
+        var bridgeOnly = params.get("bridgeOnly") === "1";
+        window.chobotsIsBrowserHostPlayer = function () { return playMode.kind === "host"; };
+        window.chobotsRelayGuestUrl = playMode.kind === "guest" ? playMode.relayUrl : undefined;
+        var hostWorld = document.getElementById("chobotsHostWorld");
+        var guestStatus = document.getElementById("chobotsRelayGuestStatus");
+        var guestText = document.getElementById("chobotsRelayGuestText");
+        var chooser = document.getElementById("chobotsPlayChooser");
+        var joinError = document.getElementById("chobotsJoinError");
+        var databaseName = window.chobotsPlayChoice.databaseName(window.location.search);
+        var activeHostMode = null;
+        var runtimeStarted = false;
+        var playerLoaded = false;
+        if (playMode.kind === "guest") {
+            guestStatus.hidden = false;
+            guestText.textContent = "Private world invite ready";
+        } else if (playMode.kind === "invalid-guest") {
+            guestStatus.hidden = false;
+            guestText.textContent = "Invalid invite";
+        }
+        document.getElementById("chobotsRelayGuestLeave").addEventListener("click", function () {
+            window.location.href = "/play.html";
+        });
+        var flashvars = {
+            locale: params.get("locale") || ch_locale,
+            login: params.get("login") || "",
+            activationKey: params.get("activationKey") || params.get("chac") || "",
+            chatEnabled: params.get("chatEnabled") || "",
+            mode: params.get("mode") || "",
+            homeURL: window.location.href,
+            transport: "websocket",
+            wsUrl: playMode.kind === "host"
+                ? "chobots-browser://local"
+                : (playMode.relayUrl || params.get("wsUrl") || ((location.protocol === "https:" ? "wss://" : "ws://") + location.hostname + ":5080/ws/game"))
+        };
+        function loadPlayer() {
+            if (playerLoaded) return;
+            playerLoaded = true;
+            var ruffle = window.RufflePlayer.newest();
+            var player = ruffle.createPlayer();
+            player.id = "chobotsRufflePlayer";
+            player.style.width = "100%";
+            player.style.height = "100%";
+            document.getElementById("flashContent").appendChild(player);
+            window.ch_game_window = player;
+            player.load({
+                url: "/game/Main.swf",
+                allowScriptAccess: true,
+                parameters: flashvars
+            });
+        }
+        function renderHostMode(mode) {
+            activeHostMode = mode;
+            document.getElementById("chobotsHostModeStatus").textContent = mode === "public" ? "Public" : "Private";
+            hostWorld.hidden = false;
+            hostWorld.dataset.mode = mode;
+            document.getElementById("chobotsRelaySummary").hidden = mode !== "public";
+            document.getElementById("chobotsRelayControls").hidden = mode !== "public";
+            document.getElementById("chobotsDatabaseControls").hidden = false;
+            document.getElementById("chobotsModeControls").hidden = false;
+            document.getElementById("chobotsOpenPublic").hidden = mode === "public";
+            document.getElementById("chobotsMakePrivate").hidden = mode !== "public";
+        }
+        function showChooser() {
+            chooser.hidden = false;
+            document.getElementById("chobotsPlayPrivate").focus();
+        }
+        function showJoinChooser() {
+            showChooser();
+            document.getElementById("chobotsJoinCode").focus();
+        }
+        async function activateHostMode(mode) {
+            if (activeHostMode === mode && runtimeStarted) {
+                chooser.hidden = true;
+                return;
+            }
+            if (!runtimeStarted) {
+                await window.chobotsBrowserHost.start();
+                runtimeStarted = true;
+                if (!bridgeOnly) loadPlayer();
+            }
+            if (mode === "public") await window.chobotsRelayHost.start();
+            window.chobotsPlayChoice.saveHostMode(window.localStorage, databaseName, mode);
+            renderHostMode(mode);
+            chooser.hidden = true;
+        }
+        document.getElementById("chobotsPlayPrivate").addEventListener("click", function () {
+            activateHostMode("private").catch(function (error) {
+                joinError.hidden = false;
+                joinError.textContent = error.message || "Unable to start private world.";
+            });
+        });
+        document.getElementById("chobotsPlayPublic").addEventListener("click", function () {
+            activateHostMode("public").catch(function (error) {
+                joinError.hidden = false;
+                joinError.textContent = error.message || "Unable to start sharing.";
+            });
+        });
+        document.getElementById("chobotsJoinForm").addEventListener("submit", function (event) {
+            event.preventDefault();
+            var token = window.chobotsPlayChoice.inviteToken(document.getElementById("chobotsJoinCode").value, window.location.href);
+            if (!token) {
+                joinError.hidden = false;
+                joinError.textContent = "Enter a valid sharing code or link.";
+                return;
+            }
+            var target = new URL("/play.html", window.location.origin);
+            target.searchParams.set("join", token);
+            if (bridgeOnly) target.searchParams.set("bridgeOnly", "1");
+            window.location.href = target.toString();
+        });
+        document.getElementById("chobotsOpenPublic").addEventListener("click", function () {
+            activateHostMode("public").catch(function () {});
+        });
+        document.getElementById("chobotsJoinServer").addEventListener("click", showJoinChooser);
+        document.getElementById("chobotsMakePrivate").addEventListener("click", function () {
+            if (!window.confirm("Make this world private and disconnect remote players?")) return;
+            window.chobotsRelayHost.disconnect().then(function () {
+                window.chobotsPlayChoice.saveHostMode(window.localStorage, databaseName, "private");
+                renderHostMode("private");
+            }).catch(function () {});
+        });
+        if (playMode.kind === "host") {
+            var storedMode = window.chobotsPlayChoice.loadHostMode(window.localStorage, databaseName);
+            if (storedMode) activateHostMode(storedMode).catch(showChooser);
+            else showChooser();
+        } else if (playMode.kind !== "invalid-guest" && !bridgeOnly) {
+            loadPlayer();
+        }
+    })();
+</script>
+
+<div class="wrapper" align="right"><span style="padding-right:50px;"><a href="#" onclick="window.open(&quot;/bigscreenpopup.html&quot;, null, &quot;status=0, toolbar=0, directories=0, menubar=0, location=0, resizable=no, width=1100,height=624&quot;);" style="color:#666666; font-size:13px; font-weight:bold; text-decoration:none;">Big Screen Popup</a></span></div>
+<div class="wrapper">
+    <div class="footer">
+        <span class="copyright">Chobots &#8482; Vayersoft LLC &copy; 2007-2011. All rights reserved.</span><br/>
+        <a href="/privacy_policy.html" target="_blank">Privacy Policy</a>
+        <a href="/terms_and_conditions.html" target="_blank">Terms and Conditions</a>
+        <a href="#" class="lang"><img src="images/lang.gif" alt="lang"/></a>
+    </div>
+</div>
+</body>
+</html>

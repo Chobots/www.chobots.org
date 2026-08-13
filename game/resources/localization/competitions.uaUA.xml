@@ -1,0 +1,19 @@
+<messages>
+  <finishTime>Кінець {0}.{1}.{2} {3}:{4}</finishTime>
+  <noCompetitions>На даний час змагання не проводяться</noCompetitions>
+  <sweetBattle>Змагання з Солодкої Битви</sweetBattle>
+  <asteroid>Змагання з Астероїду</asteroid>
+  <choboard>Змагання з Чоборду</choboard>
+  <pinball>Змагання з Пінболу</pinball>
+  <crab>Змагання з Крабу</crab>
+  <robots>Змагання з Робозаводу</robots>
+  <spaceRacing>Змагання з Космічних Перегон</spaceRacing>
+  <garbageCollector>Змагання з Прибиральника Сміття</garbageCollector>
+  <farm>Змагання з Місії Корова</farm>
+  <rope>Змагання з Канату</rope>
+  <coins>Змагання з Монетного Дощу</coins>
+  <palm>Змагання з Пальми</palm>
+  <checkers>Змагання з Шашок</checkers>
+  <chess>Змагання з Шахів</chess>
+  <chopaj>Чопаєв</chopaj>
+</messages>

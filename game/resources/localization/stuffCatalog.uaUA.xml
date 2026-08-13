@@ -1,0 +1,36 @@
+<messages>
+  <afterBuyWarning>Після цієї покупки на твоєму рахунку залишиться {0} багзів. Ну то що, купуєш?</afterBuyWarning>
+  <bagIsFull>Твоя сумка забита! Вибач, але ти не можеш це купити.</bagIsFull>
+  <buy>Купити</buy>
+  <comingSoon>Незабаром в продажі</comingSoon>
+  <magicBalls>Поганяємо м’яча?</magicBalls>
+  <magicBevel>Ти хочеш відчути енергію чо?</magicBevel>
+  <magicBlend>Стелс режим активовано.</magicBlend>
+  <magicBlur>Хочеш відчути себе привидом? З'їж цю цукерку і одразу розчинишся в повітрі.</magicBlur>
+  <magicBottle>Бракує уваги? Чого ж ти тоді чекаєш? Одна крапля еліксиру – і ти суперстар.</magicBottle>
+  <magicBubble>Чому б не зробити собі свято? Як тільки ця цукерка потрапить до твого пуза, у твоїх руках опиниться кулька.</magicBubble>
+  <magicBubbleBlue>Одна кулька – це добре, а дві - краще.</magicBubbleBlue>
+  <magicBubbleYellow>Дві кулька – це добре, а три - краще!</magicBubbleYellow>
+  <magicCharly>Ти коли-небудь видів фільми Чарлі Чапліна? Та та, той чорно-білий гумор!</magicCharly>
+  <magicFlame>Обережно, ти можеш поранитися цукеркою!</magicFlame>
+  <magicGhost>І тільки тінь залишиться.</magicGhost>
+  <magicHue>Диско 80х? Так, відриваємось!</magicHue>
+  <magicInvert>Чорна діра – що це таке?</magicInvert>
+  <magicLarge>Ану назви мені найпопулярнішого велетня? Так, правильно – Гулівер. Хочеш спробувати?</magicLarge>
+  <magicNearest>Розширити дію магії</magicNearest>
+  <magicPromotion>Акція</magicPromotion>
+  <magicScale>З’їж цю цукерку і станеш Гулівером в країні велетнів – малесеньким, як мурашка.</magicScale>
+  <magicSpeed>Ця цукерка допоможе тобі бігати, як антилопа.</magicSpeed>
+  <magicStar>Оскільки ти в нас суперстар, треба тобі зірку над головою.</magicStar>
+  <magicTeleport>Телепорт</magicTeleport>
+  <magicToxic>Ти був в Чорнобилі?</magicToxic>
+  <magicUmnik>Гей, хочеш відчути великі мізки у своїй голові?</magicUmnik>
+  <magicZhurdyai>100 гамбургерів всередині!</magicZhurdyai>
+  <magic_buben>Дощ</magic_buben>
+  <magic_lightning>Блискавка</magic_lightning>
+  <magic_rainbow>Веселка</magic_rainbow>
+  <magic_snow>Сніг</magic_snow>
+  <moonWalk>Місячна Хода</moonWalk>
+  <notEnoughMoney>На твоєму рахунку недостатньо коштів, щоб це купити.</notEnoughMoney>
+  <null/>
+</messages>

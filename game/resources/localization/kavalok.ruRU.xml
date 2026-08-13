@@ -1,0 +1,378 @@
+<messages>
+  <StuffCatalog>Каталог товаров</StuffCatalog>
+  <academy>Академия</academy>
+  <accept>Принять</accept>
+  <acceptRequests>Принимать все входные сообщения.</acceptRequests>
+  <actionForCitizens>Эта функция является доступной только для граждан</actionForCitizens>
+  <addFriend>Добавить друга</addFriend>
+  <addFriendSent>Просьба отослана</addFriendSent>
+  <adminBanDate>Ваш чат отключен нашими модераторами. Пожалуйста, свяжитесь с поддержкой, для более подробной информации</adminBanDate>
+  <adminMsg>Отправить сообщение разработчикам</adminMsg>
+  <all>Всем</all>
+  <angry>Злой</angry>
+  <back>Назад</back>
+  <badEmail>Неверный электронный адрес</badEmail>
+  <badLogin>Неверный логин</badLogin>
+  <badPassw>Неверный пароль</badPassw>
+  <badWord>Ты сказал плохое слово, поэтому твой чат будет недоступен.</badWord>
+  <badWordWithInterval>Ты сказал нехорошое слово, потому твой чат будет недоступен в течение {1} минут. {0} плохое слово!</badWordWithInterval>
+  <badWordWithIntervalHours>Ты сказал нехорошое слово, потому твой чат будет недоступен в течение {1} часов. {0} плохое слово!</badWordWithIntervalHours>
+  <bag>Сумка</bag>
+  <bagIsFull>Твоя сумка переполненная! Извини, но ты не можешь это купить.</bagIsFull>
+  <blushing>Смущенный</blushing>
+  <btnMessageFilter>Фильтр</btnMessageFilter>
+  <bugs>Багсов</bugs>
+  <bugsBought>Невероятно! Ты внезапно разбогател. Ты получаешь {0} багсов.</bugsBought>
+  <buyAccountCaption>Купить статус гражданина</buyAccountCaption>
+  <buyAccountCountry>Страна</buyAccountCountry>
+  <buyAccountProvider>Мобильный Оператор</buyAccountProvider>
+  <buyAccountText>Чтобы купить статус гражданина на месяц выбери страну и (если нужно - мобильного оператора) и нажми кнопку дальше.</buyAccountText>
+  <buyNow>Приобрести немедленно!</buyNow>
+  <buyPaidStuffCaption>Купить костюм</buyPaidStuffCaption>
+  <buyPaidStuffSMSChooseProviderText>Выбери свой мобильный оператор и нажми кнопку 'Дальше'.</buyPaidStuffSMSChooseProviderText>
+  <buyPaidStuffSMSNoProviderText>Чтобы приобрести костюм нажми кнопку 'Дальше'.</buyPaidStuffSMSNoProviderText>
+  <buyPaidStuffSMSText>Kostjum kuplen</buyPaidStuffSMSText>
+  <buyPaidStuffText>Чтобы купить костюм, выбери страну и следуй подсказкам.</buyPaidStuffText>
+  <buyStuff>После этой покупки на твоем счету останется {0} багзов. Ты точно хочешь купить?</buyStuff>
+  <c_CHOOSE>Выбери...</c_CHOOSE>
+  <c_RU>Россия</c_RU>
+  <c_UA>Украина</c_UA>
+  <c_US>Остальной мир</c_US>
+  <cancel>Отменить</cancel>
+  <catalogUnavailable>Этот каталог сейчас недоступен.</catalogUnavailable>
+  <cannotDeletePaidItem>Ты не можешь выкинуть ету вещ</cannotDeletePaidItem>
+  <changeColorPrice>Цена: {0} багзов.</changeColorPrice>
+  <changePassword>Изменить пароль</changePassword>
+  <charAge>Возраст {0}</charAge>
+  <charBody>Цветной душ</charBody>
+  <charWindow>Окно чара</charWindow>
+  <chatDisabled>Текстовый чат недоступный.</chatDisabled>
+  <chatDisabledByAdmin>Твой чат был отключенным модератором Чоботов. Ты не можешь использовать полный чат {0} минут. Для получения более детальной информации свяжись с поддержкой</chatDisabledByAdmin>
+  <chatDisabledByAdminHours>Твой чат был отключенным модератором Чоботов. Ты не можешь использовать полный чат {0} часов. Для получения более детальной информации свяжись с поддержкой</chatDisabledByAdminHours>
+  <chatHistory>История чата</chatHistory>
+  <checkAll>Выбрать/Не выбрать Всех</checkAll>
+  <chobot>Чобот</chobot>
+  <chobotsTeam>Команда Чоботов</chobotsTeam>
+  <chooseRecipient>Кому отправить</chooseRecipient>
+  <citizenConfirmation>Ты хочешь стать гражданином?</citizenConfirmation>
+  <citizenFurnitureShop>Продажа мебели!</citizenFurnitureShop>
+  <citizenFutureShop>Скоро в продаже!</citizenFutureShop>
+  <citizenHousesShop>Продажа домов!</citizenHousesShop>
+  <citizenMagicShop>Магазин Всё для Магии для граждан</citizenMagicShop>
+  <citizenshipMessageCaption>Гражданство</citizenshipMessageCaption>
+  <clickHereToStartTheGame>Щелкни здесь, чтобы немедленно начать игру</clickHereToStartTheGame>
+  <close>Закрыть</close>
+  <comboLoginItemMessage>Ты заходил в чоботы {0} дней подряд. Вот твое вознаграждение!</comboLoginItemMessage>
+  <confirmPassword>Подтверди пароль</confirmPassword>
+  <connecting>Соединение...</connecting>
+  <connectionError>Ошибка! Наверно у тебя проблемы c нетом, проверь есть ли подключение!</connectionError>
+  <connectionErrorRedirect>Подключение разорвано. 
+Ты будешь направлен на домашнюю страницу Чоботов через несколько секунд</connectionErrorRedirect>
+  <continue>Продолжить</continue>
+  <currentPassword>Твой действующий пароль</currentPassword>
+  <dance>Танцевать!</dance>
+  <danceButton>Танцевать!</danceButton>
+  <daysAgo>дней назад</daysAgo>
+  <deleteLast>Аннулировать последнюю иконку</deleteLast>
+  <drawingDisabledByMod>Возможность рисовать была отключена модераторами Чоботов</drawingDisabledByMod>
+  <editDance>Редактировать танец</editDance>
+  <embrassed>Сбитый с толку</embrassed>
+  <emoIcons>Емо смайлы</emoIcons>
+  <englishAcademy>Словопад</englishAcademy>
+  <error>Что-то не так, попробуй обновить страницу.</error>
+  <exchangeShop>Обмен Валют</exchangeShop>
+  <exit>Выход</exit>
+  <extendAccountCaption>Продлить статус гражданина</extendAccountCaption>
+  <extendAccountText>Дата окончания твоего статуса гражданина: {0}-{1}-{2} {3}:{4}. Чтобы продлить статус гражданина еще на 1 месяц, выбери страну (и если нужно - мобильного оператора) и нажми кнопку дальше.</extendAccountText>
+  <family>Семья</family>
+  <financeReport>Ваш финансовый отчет</financeReport>
+  <financeReportText>Сколько ты денег заработал: {0} Багзов
+Сколько ты потратил: {1} Багзов
+
+Сколько денег заработали твои приглашенные: {2} Багзов
+Твой бонус: {3} Багзов</financeReportText>
+  <finish>Финиш</finish>
+  <flirtatious>Флиртую</flirtatious>
+  <friendAdded>У тебя есть новый друг {0}.</friendAdded>
+  <friendCanceled>{0} не хочет быть твоим другом.</friendCanceled>
+  <friendListFull>Его список друзей полон</friendListFull>
+  <friendRemoved>{0} забыл тебя.</friendRemoved>
+  <friends>Друзья</friends>
+  <friendsListFull>Список друзей полный</friendsListFull>
+  <friendsOffline>Все друзья</friendsOffline>
+  <friendsOnline>Друзья в твоём городе</friendsOnline>
+  <friendsOthers>Друзья в твоём и в других городах</friendsOthers>
+  <frightened>Испуган</frightened>
+  <fullChat>Полный чат</fullChat>
+  <gameAsteroid>Астероид</gameAsteroid>
+  <gameChoboard>Чоборд</gameChoboard>
+  <gameChobotsRacer>Chobots Racer</gameChobotsRacer>
+  <gameChodoard>Чоборд</gameChodoard>
+  <gameChopixAdventure>Chopix Adventure</gameChopixAdventure>
+  <gameCrab>Краб</gameCrab>
+  <gameHunting>Кидалки</gameHunting>
+  <gameMenu>Игровое Меню</gameMenu>
+  <gameMoney>Монетный Дождь</gameMoney>
+  <gamePinball>Пинбол</gamePinball>
+  <gameRobots>Робозавод</gameRobots>
+  <gameSafeModeOff>Мир Чоботс переходит в полный режим. Ты можешь использовать текстовый чат и граффити.</gameSafeModeOff>
+  <gameSafeModeOn>Мир Чоботс переходит в безопасный режим. Текстовый чат и граффити будут не доступны несколько часов. Но ты можешь играть в игры и веселиться с друзьями</gameSafeModeOn>
+  <giftButton>Подарить</giftButton>
+  <giftClothesPut>В шкаф</giftClothesPut>
+  <giftClothesUse>Надеть</giftClothesUse>
+  <giftMessage>Тебе сделали подарок!</giftMessage>
+  <giftStuffPut>В сумку</giftStuffPut>
+  <giftStuffUse>Заюзать</giftStuffUse>
+  <guestStartup>Сообщение от Администрации# Дорогой Гость,
+Спасибо что зашел в мир Чоботов! Гости могут играть вместе с другими Чоботами, но чтобы иметь возможность использовать чат, получать подарки и добавлять друзей тебе надо зарегистрироваться. 
+С уважением, Команда Чоботов</guestStartup>
+  <happy>Счастливый</happy>
+  <help>Помощь</help>
+  <hilarious>Веселый</hilarious>
+  <home>Домой</home>
+  <homeClothes>Шкаф</homeClothes>
+  <idleTimeout>Это автоматический кик аут, вызванный тем, что ты простоял без дела 30 минут.</idleTimeout>
+  <ignore>Перестать игнорировать</ignore>
+  <ignoreAdded>Сделано</ignoreAdded>
+  <ignoreRemoved>Сделано</ignoreRemoved>
+  <ignoreText>{0} добавил тебя в игнор список</ignoreText>
+  <ignoreUser>Игнорировать</ignoreUser>
+  <ignoreUserConfirm>Игнорировать этого пользователя?</ignoreUserConfirm>
+  <inLove>Влюбленный</inLove>
+  <insertName>Введи имя</insertName>
+  <invalidCurrentPassword>Твой действительный пароль неверный</invalidCurrentPassword>
+  <invitation>Приглашение</invitation>
+  <invite>Пригласить</invite>
+  <inviteFriend>Пригласи друга</inviteFriend>
+  <inviteFriendText1>Пригласи друга и получи 7% бонуса за все багсы, что зарабатывает твой друг! Чем больше друзей ты пригласил, тем больше у тебя будет багсов!</inviteFriendText1>
+  <inviteFriendText2>Просто попроси своего друга, чтобы он ввел имя твоего чобота на странице регистрации!</inviteFriendText2>
+  <inviteFriendTitle>Пригласи друга</inviteFriendTitle>
+  <inviteText>{0} хочет быть твоим другом.</inviteText>
+  <inviteToPlace>Пригласить сюда</inviteToPlace>
+  <itemForCitizens>Это действие доступна только гражданам</itemForCitizens>
+  <itemOfTheMonthMessage>Поздравляем! Теперь ты гражданин. Это твой подарок месяца!</itemOfTheMonthMessage>
+  <kavalok_play>Играть</kavalok_play>
+  <kickOut>Тебя только что кикнули. Обнови страницу и залогинься ещё раз.</kickOut>
+  <kickOutBanned>Модератор забанил твой аккаунт. Чобот {0} теперь недоступен</kickOutBanned>
+  <kickUser>Кикнуть</kickUser>
+  <kickUserConfirmation>Вы хотите кикнуть этого юзера?</kickUserConfirmation>
+  <laboratory>Лаборатория</laboratory>
+  <lang>Язык игры</lang>
+  <laughing>Ржунимагу!</laughing>
+  <loading>Загрузка</loading>
+  <loc0>Площадь Магазинов</loc0>
+  <loc1>Космическая Набережная</loc1>
+  <loc2>Улица Миссии</loc2>
+  <loc3>Улица Кафешная</loc3>
+  <loc5>Площадь Космический Порт</loc5>
+  <locAcademy>Улица Академическая</locAcademy>
+  <locAcademyRoom>Клас</locAcademyRoom>
+  <locAccShop>Магазин</locAccShop>
+  <locAgents>Скрытая локация агентов</locAgents>
+  <locCafe>Кафе</locCafe>
+  <locCinema>Кинотеатр</locCinema>
+  <locCitizen>Тайная комната. Только для граждан!</locCitizen>
+  <locEco>Локация Эко</locEco>
+  <locEcoShop>Магазин Эко</locEcoShop>
+  <locGames>Зона игр</locGames>
+  <locGraphity>Подземка</locGraphity>
+  <locGraphityA>Подземка</locGraphityA>
+  <locHome>Дом</locHome>
+  <locHomeShop>Магазин Всё Для Дома</locHomeShop>
+  <locMagicShop>Магазин Все для Магии</locMagicShop>
+  <locMissions>Агентство Миссий</locMissions>
+  <locMusic>Улица Роковича</locMusic>
+  <locPark>Парк культуры</locPark>
+  <locPetsShop>Магазин животных</locPetsShop>
+  <locRobots>Robots Arena</locRobots>
+  <locationCinema>Чоливуд</locationCinema>
+  <locationForCitizensOnly>Извини, эта комната только для  граждан. Стань кражданином чтоб иметь возможность войти.</locationForCitizensOnly>
+  <locationFull>Вибачте, але місто заповнене. Спробуйте зайти на інше місто, або купіть громадянство</locationFull>
+  <locationRope>Улица имени Хора Верёвочки</locationRope>
+  <loginExists>Этот логин уже существует</loginExists>
+  <lostGame/>
+  <magicAction>Показать магию</magicAction>
+  <magicNotReady>Ты сможешь показаать магия через {0} минут</magicNotReady>
+  <magicPayedShop>Волшебные предметы</magicPayedShop>
+  <magicPlayButton>Показать</magicPlayButton>
+  <magicReady>Магия готова к использованию</magicReady>
+  <map>Карта</map>
+  <maskCatalog>Каталог масок для граждан</maskCatalog>
+  <me>Я!</me>
+  <membershipFinishedCaption>Твой статус гражданина исчерпался</membershipFinishedCaption>
+  <membershipFinishedText>Все твое гражданское имущество останется твоим! Но, чтобы в дальнейшем им пользоваться, ты должен снова стать гражданином. Попроси своих родителей, чтобы они приобрели статус гражданина</membershipFinishedText>
+  <membershipFinishingCaption>Твой статус гражданина скоро истечет</membershipFinishingCaption>
+  <membershipFinishingText>Проверь дату окончания твоего гражданства просто нажавши на кнопку статуса. Все твое гражданское имущество останется твоим! Но, чтобы им пользоваться, ты должен снова стать гражданином. Попроси своих родителей, чтобы они приобрели статус гражданина</membershipFinishingText>
+  <membershipPresentDays>Поздравляем! Ты получил {5} дней Гражданства за: {6}. Твой статус исчерпается: {0}-{1}-{2} {3}:{4}</membershipPresentDays>
+  <membershipPresentMonths>Поздравляем! Ты получил {5} месяцев Гражданства за: {6}. Твой статус исчерпается: {0}-{1}-{2} {3}:{4}</membershipPresentMonths>
+  <menu>Меню</menu>
+  <message>Сообщение</message>
+  <messages>Сообщения</messages>
+  <missionFarm>Мисия Корова</missionFarm>
+  <missionNichos>Миссия в царстве Ничосов</missionNichos>
+  <money>Деньги</money>
+  <monthMembershipBought>Теперь у тебя статус гражданина, который будет активен в течение месяца. Дата окончания: {0}-{1}-{2} {3}:{4}</monthMembershipBought>
+  <monthMembershipBought1>Теперь у тебя статус гражданина, который будет активен в течение месяца. Дата окончания: {0}-{1}-{2} {3}:{4}</monthMembershipBought1>
+  <monthMembershipBought12>Теперь у тебя статус гражданина, который будет активен в течение 12 месяцев. Дата окончания: {0}-{1}-{2} {3}:{4}</monthMembershipBought12>
+  <monthMembershipBought3>Теперь у тебя статус гражданина, который будет активен в течение 3 месяцев. Дата окончания: {0}-{1}-{2} {3}:{4}</monthMembershipBought3>
+  <monthMembershipBought6>Теперь у тебя статус гражданина, который будет активен в течение 6 месяцев. Дата окончания: {0}-{1}-{2} {3}:{4}</monthMembershipBought6>
+  <monthMembershipBuyText>Чтобы купить статус гражданина на месяц, перешли СМС с тектом 
+  '{1}'(без кавычек) на номер {0}. Стоимость СМС {2}{3}</monthMembershipBuyText>
+  <monthMembershipExtendText>Чтобы продолжить статус гражданина еще на 1 месяц, перешли СМС с тектом 
+  '{1}'(без кавычек) на номер {0}. Стоимость СМС {2}{3}</monthMembershipExtendText>
+  <monthMembershipExtended>Cтатус гражданина продолжено еще на 1 месяц. Он будет активен до: {0}-{1}-{2} {3}:{4}</monthMembershipExtended>
+  <monthMembershipExtended1>Cтатус гражданина продолжено еще на 1 месяц. Он будет активен до: {0}-{1}-{2} {3}:{4}</monthMembershipExtended1>
+  <monthMembershipExtended12>Cтатус гражданина продолжено еще на 12 месяцев. Он будет активен до: {0}-{1}-{2} {3}:{4}</monthMembershipExtended12>
+  <monthMembershipExtended3>Cтатус гражданина продолжено еще на 3 месяца. Он будет активен до: {0}-{1}-{2} {3}:{4}</monthMembershipExtended3>
+  <monthMembershipExtended6>Cтатус гражданина продолжено еще на 6 месяцев. Он будет активен до: {0}-{1}-{2} {3}:{4}</monthMembershipExtended6>
+  <monthMembershipExtendedSMSText>Status grazhdanina prodolzhen еsche na mesjac</monthMembershipExtendedSMSText>
+  <monthMembershipSMSText>Status grazhdanina kupleno na mesjac</monthMembershipSMSText>
+  <musicAction>Залабать!</musicAction>
+  <musicVolume>Громкость музыки</musicVolume>
+  <neverShowThis>Не показывать это</neverShowThis>
+  <newPassword>Новый пароль</newPassword>
+  <news>Новости</news>
+  <newsDialogBottomText>и не забудь оставить свои комменты! :)</newsDialogBottomText>
+  <newsDialogNoteText>* Окно должно открыться автоматически. Если этого не произошло скопируй линк и вставь его в строку ввода</newsDialogNoteText>
+  <newsDialogTitle>Новости!</newsDialogTitle>
+  <newsDialogTopText>Читай последние известия с мира Chobots на нашeм Блоге!</newsDialogTopText>
+  <next>Дальше</next>
+  <no>Нет</no>
+  <noMoney>У тебя недостаточно денег, чтобы купить это.</noMoney>
+  <notActivatedStartup>Добро пожаловать в мир Чоботов!# Теперь вы можете заводить друзей и покупать вещи для своего персонажа. Но, чтобы иметь возможность полного, текстового чата - вам надо активировать свою регистрацию и выбрать эту опцию. Вам было отослано письмо с инструкцией активации на указанный вами адрес. Если вы не получили письмо - проверьте ваш спам ящик или попробуйте переслать письмо снова. 
+
+С уважением, Руководство мира Чоботс</notActivatedStartup>
+  <nothingToTrade>Нет чем обмениваться</nothingToTrade>
+  <offline>Офлайн</offline>
+  <ok>Oк</ok>
+  <online>Онлайн</online>
+  <onlineDate>Последний логин: {0}</onlineDate>
+  <onlineNow>Сейчас онлайн!</onlineNow>
+  <onlineServer>Онлайн в другом городе</onlineServer>
+  <paidStuffBought>Поздровляю с покупкой! Теперь ты один из самых крутых чоботов</paidStuffBought>
+  <paidStuffBuyPaypalNextButtonText>Нажми кнопку ' Дальше', чтобы открыть в новом окне веб-сайт системы Paypal. На нем ты сможешь оплатить костюм.</paidStuffBuyPaypalNextButtonText>
+  <paidStuffBuyPaypalText>У тебя должен открыться веб-сайт платежной системы Paypal. После осуществления оплаты, твой костюм появиться в шкафу.</paidStuffBuyPaypalText>
+  <paidStuffBuySendText>Чтобы купить костюм, перешли СМС с тектом 
+  '{1}'(без кавычек) на номер {0}. Стоимость СМС {2}{3}</paidStuffBuySendText>
+  <paidStuffCatalog>Каталог костюмов для граждан</paidStuffCatalog>
+  <passwordChanged>Пароль успешно изменен</passwordChanged>
+  <passwordWarning>"{0}" –  это твой пароль. Здесь запрещено выдавать свой пароль! Если твой пароль является обычным словом, то измени его</passwordWarning>
+  <petFoodCatalog>Каталог корма</petFoodCatalog>
+  <petPlayCatalog>Каталог развлечений</petPlayCatalog>
+  <petRestCatalog>Каталог отдыха</petRestCatalog>
+  <pets>Конструктор животных</pets>
+  <play>Играть</play>
+  <pleaseEnterLogin>Для того, чтобы зайти в игру нужно ввести свой логин.</pleaseEnterLogin>
+  <pleaseEnterYourMessage>Пожалуйста введи сообщение.</pleaseEnterYourMessage>
+  <prezent>Подарок</prezent>
+  <priceBugs>Ціна: {0} багзів</priceBugs>
+  <privateChat>Частный Чат</privateChat>
+  <quality>Качество графики</quality>
+  <qualityHigh>Высокое качество</qualityHigh>
+  <qualityLow>Низкое качество</qualityLow>
+  <qualityMedium>Среднее качество</qualityMedium>
+  <quit>Выход</quit>
+  <recycleWarning>Ты уверен, что ты хочешь выбросить эту вещь и получить {0} багзов взамен?</recycleWarning>
+  <register>Регистрация</register>
+  <registerPlease>Чтоб играть в игры и общаться с друзьями, зарегистрируйся на {0}.  Перейти к регистрации?</registerPlease>
+  <removeFriend>Забыть Друга</removeFriend>
+  <removeFriendConf>Ты уверен, что хочешь забыть {0}?</removeFriendConf>
+  <removeFriendsConf>Ты уверен, что хочешь забыть выбранных друзей?</removeFriendsConf>
+  <replay>Ещё</replay>
+  <reply>Ответить</reply>
+  <reportAnnoy>Доложить о надоедании</reportAnnoy>
+  <reportChat>Доложить об  использовании плохих слов.</reportChat>
+  <reportGetInfo>Пользователь пытается узнать личнуюы информацию.</reportGetInfo>
+  <reportPutInfo>Пользователе выдает свою личную информацию.</reportPutInfo>
+  <reportReceived>Доклад успешно отправлен.</reportReceived>
+  <reportScamming>Доложить мошенничество.</reportScamming>
+  <reportSpam>Доложить о спаме</reportSpam>
+  <reportUser>Доклад на пользователя</reportUser>
+  <robot>Robot</robot>
+  <robotConfig>Robot Configurator</robotConfig>
+  <robotItemsShop>Special Items</robotItemsShop>
+  <robotStat>The Best Warriors</robotStat>
+  <robotStuffsShop>Robot Weapons</robotStuffsShop>
+  <robotTeam>створення команди</robotTeam>
+  <robotTeamStat>Командна статистика</robotTeamStat>
+  <robotsShop>Need a Robot?</robotsShop>
+  <rules>Ты обязан придерживаться Кодекса Правил!!! 
+
+&lt;b&gt;Чоботам запрещено:&lt;/b&gt;
+&lt;li&gt;рассказывать или спрашивать личную информацию
+высказывания сексуального или насильственного характера&amp;lt
+онлайн свидания
+обманывать или  дражнить других чоботов
+распространять линки (кроме тех, что ведут на блог о Чоботах)
+спамить других юзеров&lt;/li&gt;
+
+За нарушение этих правил ты будешь забанен или у тебя заберут чат.</rules>
+  <rulesTitle>Предупреждение от Модераторов Чоботов</rulesTitle>
+  <sad>Плачу</sad>
+  <safeChat>Чат в картинках</safeChat>
+  <safeModeTextChat>Мир Чоботс находится в безопасном режиме. Ты не можешь использовать текстовый чат и граффити</safeModeTextChat>
+  <send>Отправить</send>
+  <sendMessage>Отправить сообщение</sendMessage>
+  <sent>Письмо успешно отправлено.</sent>
+  <shock>Шок</shock>
+  <showCharNames>Показать имена чоботов</showCharNames>
+  <showIntro>Показать введение</showIntro>
+  <showTipsAtStartup>Показывать подсказки с Академии вначале.</showTipsAtStartup>
+  <skipWord>Вы используете запрещенные слова! Запрещенное слово: {0}!</skipWord>
+  <soundVolume>Громкость звука</soundVolume>
+  <standOnTheTeleport>Стань со своими друзьями на телепорт
+  и нажми эту кнопку, чтобы начать игру</standOnTheTeleport>
+  <start>Вперед!</start>
+  <status>Усовершенствование Статуса!</status>
+  <statusAgent>Агент</statusAgent>
+  <statusCitizen>Гражданин</statusCitizen>
+  <statusJunior>Младший</statusJunior>
+  <statusModerator>Модератор</statusModerator>
+  <statusUpCaption>Скоро будет возможность изменения статуса на Гражданин!</statusUpCaption>
+  <statusUpText>Граждане мира Чоботов смогут:
+  -    покупать специальные костюмы
+  -    совершенствовать свой дом
+  -    покупать домашних любимцев
+  -    играть полные версии игр в академии
+И это ещё не все, друзья! Станьте Гражданином скоро!</statusUpText>
+  <stuffCatalog>Каталог товаров</stuffCatalog>
+  <stuffExists>У тебя уже есть эта вещь, ты хочешь ещё одну купить?</stuffExists>
+  <stuffItemPresent>Вау! Ты получил подарок от Команди Чоботс за:  {0}.</stuffItemPresent>
+  <stuffsAtHome>Твоя предыдущая одежда отправлена в твой шкаф.</stuffsAtHome>
+  <submit>Составить</submit>
+  <surprised>Вау!!!</surprised>
+  <teamList>робо команди</teamList>
+  <teleportReceive>{0} пригласил тебя в {1}</teleportReceive>
+  <teleportSend>Отправить приглашение?</teleportSend>
+  <teleportText>Приветствуем в {0}</teleportText>
+  <telescop>Телескоп</telescop>
+  <today>сегодня</today>
+  <trade>Обмен</trade>
+  <tradeAccept>Согласиться</tradeAccept>
+  <tradeAccepted>Согласовано</tradeAccepted>
+  <tradeCannotChangeItems>Ты не можешь добавлять или забирать вещи после того как обмен был согласованным</tradeCannotChangeItems>
+  <tradeCannotChangeNotConnected>Ты не можешь добавлять или забирать вещи без участника обмена</tradeCannotChangeNotConnected>
+  <tradeCannotOpen2Windows>Ты не можешь открыть два окна одновременно</tradeCannotOpen2Windows>
+  <tradeClickToRemove>Кликни на предмет, чтобы забрать его из списка обмена</tradeClickToRemove>
+  <tradeClickToTrade>Кликни на предмет, чтобы его добавить в список обмена</tradeClickToTrade>
+  <tradeItemsChanged>Ты получил новые вещи – обмен будет завершенным</tradeItemsChanged>
+  <tradeLeft>вышел с обмена</tradeLeft>
+  <tradeOtherExit>вышел с обмена</tradeOtherExit>
+  <tradeSuccessfull>Обмен успешно завершен</tradeSuccessfull>
+  <tradeTraiding>Выбирает…</tradeTraiding>
+  <tradeWaiting>В ожидании согласия</tradeWaiting>
+  <tradeWith>Обменяться с</tradeWith>
+  <tryMembershipMessage>Теперь ты сможешь оценить преимущества статуса “Гражданина”. Этот статус будет длиться {5} дней.  
+Статус закончится: {0}-{1}-{2} {3}:{4}</tryMembershipMessage>
+  <unIgnoreUser>Перестать игнорировать</unIgnoreUser>
+  <unIgnoreUserConfirm>Перестать игнорировать?</unIgnoreUserConfirm>
+  <unignore>Игнорировать</unignore>
+  <unignoreText>{0} забрал тебя из игнор списка</unignoreText>
+  <updateFlashPlayer>Хочешь, чтоб игра шла быстрее?Тебе нужно просто скачать последнею версию Флэш Плеера с {0}</updateFlashPlayer>
+  <use>Заюзать</use>
+  <waitingForOtherPlayers>Ждем остальных игроков</waitingForOtherPlayers>
+  <yes>Да</yes>
+  <yesterday>вчера</yesterday>
+  <youCanCloseThisIn>Ты можешь закрыть это окно через {0} секунд</youCanCloseThisIn>
+  <yourNameHere>Твое имя</yourNameHere>
+</messages>

@@ -1,0 +1,122 @@
+<messages>
+  <entrancePic5>Допоможи спасти Землю від злих Нічос!Стань Чоботом вже зараз!</entrancePic5>
+  <pleaseEnterLogin>Поле для логіну не може бути незаповеним. Введи будь ласка логін.</pleaseEnterLogin>
+  <activateYourAccount>Активуй свій аккаунт</activateYourAccount>
+  <activationSend>Підтвердження відправлено.</activationSend>
+  <invalidActivationUrl>Неправильний активаційний ключ</invalidActivationUrl>
+  <saveLogin/>
+  <activationText>Ваш аккаунт ще не активований. Якщо ви не отримали листа підтвердження, клікніть "Відправити підтвердження". Ваша електронна скринька: {0}.</activationText>
+  <rules2>Не використовувати ніяких висловлювань з сексуальним або насильницьким підтекстом.</rules2>
+  <rule2>Не використовувати ніяких висловлювань з сексуальним або насильницьким підтекстом.</rule2>
+  <parentsReviewAgreement>Будь-ласка, попроси своїх батьків, щоб продивилися {0} з тобою.</parentsReviewAgreement>
+  <back>Назад</back>
+  <rules4>Пам’ятай: ти – ще маленький Чобот. НЕ все, що дозволено дорослим, дозволено тобі.</rules4>
+  <rule4>Пам’ятай: ти – ще маленький Чобот. НЕ все, що дозволено дорослим, дозволено тобі.</rule4>
+  <becomeAChobot>Стати Чоботом</becomeAChobot>
+  <behaviorCode>Правила поведінки і спілкування.</behaviorCode>
+  <rules>Правила поведінки</rules>
+  <child>Діти</child>
+  <chooseColor>Вибери колір</chooseColor>
+  <favoriteColor>Вибери свій улюблений колір</favoriteColor>
+  <entrancePic1>Spring! Spring! Spring!</entrancePic1>
+  <citizenship>Громадянство!</citizenship>
+  <confirmPassw>Підтверди пароль</confirmPassw>
+  <yourAccountIsActivated>Вітаємо!</yourAccountIsActivated>
+  <register>Створити новий аккаунт</register>
+  <entrancePic4>Цілодобова Модерація поєднана з новітніми технологіями!</entrancePic4>
+  <dontUseRealName>Не вводь своє справжнє ім’я.</dontUseRealName>
+  <insertParentsEmail>Електронна скринька</insertParentsEmail>
+  <insertEmail>Електронна скринька</insertEmail>
+  <enterChobotsShort>Зайти в Чоботи</enterChobotsShort>
+  <enterChobots>Ввійди в світ Чоботів.</enterChobots>
+  <parentsEmailDescription>Будь-ласка, введи коректну електронну скриньку батьків. Ми відправимо тобі лист на цю адресу, який тобі треба буде для активації аккаунта.</parentsEmailDescription>
+  <fillInInformation>Заповни інформацію про аккаунт</fillInInformation>
+  <fullChat>Повний чат</fullChat>
+  <fullChatDescription>Повний чат дозволить 
+  вашій дитині вільно спілкуватися</fullChatDescription>
+  <howToActivate>Як активувати свій аккаунт?</howToActivate>
+  <howOldAreYou>Скільки тобі років?</howOldAreYou>
+  <agreeRules>Я погоджуюсь.</agreeRules>
+  <agreeTermsParent>Я погоджуюсь з</agreeTermsParent>
+  <agreeTerms>Я погоджуюсь з правилами використання</agreeTerms>
+  <agreeToFollow>Я погоджуюсь з цими правилами.</agreeToFollow>
+  <agreeWithAgreement>Я погоджуюсь з Ліцензійним договором, який описаний вище.</agreeWithAgreement>
+  <invitedBy>Я запрошений</invitedBy>
+  <newAccountText>Якщо вказана адреса неправильна, пройдіть процес реєстрації ще раз</newAccountText>
+  <dontHaveAccount>Якщо ти досі не зареєстрований</dontHaveAccount>
+  <whyActivateDescription>Якщо ти хочеш мати доступ до повного чату, посилати повідомлення і дружні запити, давати і отримувати подарунки і ще багато іншого ти мусиш активувати свій аккаунт.</whyActivateDescription>
+  <entrancePic3>Створюй сам!Графіті, Свій Стиль, Свій Будинок і, навіть, свого домашнього улюбленця!</entrancePic3>
+  <entranceCaption>Приєднуйся до захоплюючого і веселого світу Чоботс</entranceCaption>
+  <keepPlaying>Продовжуй грати</keepPlaying>
+  <licenseAgreement>Ліцензійний договір</licenseAgreement>
+  <rules0>Як і в будь-якому іншому суспільстві, тут існують свої правила та закони, придумані задля твоєї ж безпеки. Тож уважно прочитай цей Кодекс правил поведінки і будь законослухняним Чоботом:</rules0>
+  <looksNice>Те що треба!</looksNice>
+  <agreeTermsChild>Я та мої батьки погоджуємось з</agreeTermsChild>
+  <insertName>Ім'я</insertName>
+  <newAccount>Новий аккаунт</newAccount>
+  <next>Далі</next>
+  <entranceDescription>З давніх-давен далеко-далеко у темномо всесвіті існувала енргія, що давала життя. Мешканці прилеглої планети називали її Чо...</entranceDescription>
+  <parent>Батьки</parent>
+  <childRegistration>Твій аккаунт має бути активований батьками. А поки що ти зможеш бавитись в гру під своїм йменням, але з обмеженими можливостями (як Гість).</childRegistration>
+  <locPark>Парк</locPark>
+  <insertPassw>Пароль</insertPassw>
+  <passwordSent>Пароль відіслано.</passwordSent>
+  <entrancePic2>Приєднуйся до найбільшої дитячої спільноти Дослідників Землі!Спілкуйся і знаходь друзів!</entrancePic2>
+  <guestTitle>Грати як гість</guestTitle>
+  <asGuest>Грати як гість</asGuest>
+  <playNow>Старт!</playNow>
+  <guestText>Грати як Гість підходить лише для того, щоб ознайомитися з Chobots.com, подивитися, що це таке, але для повного доступу до всіх чудових можливостей гри потрібно зареєструватися!</guestText>
+  <rules1>Не запитувати в інших і самому не розповсюджувати свої особисті дані, такі як справжнє ім’я, номер телефону чи домашню адресу. Чогось на зразок “Я живу в Києві” буде цілком достатньо.</rules1>
+  <rule1>Не запитувати в інших і самому не розповсюджувати свої особисті дані, такі як справжнє ім’я, номер телефону чи домашню адресу. Чогось на зразок “Я живу в Києві” буде цілком достатньо.</rule1>
+  <emailDescription>Будь-ласка, введіть свою електронну скриньку, щоб ми змогли відправити вам контрольний лист.</emailDescription>
+  <reviewAgreement>Будь-ласка прогляньте {0}</reviewAgreement>
+  <pleaseSelectChatMode>Будь-ласка, вибери тип спілкування</pleaseSelectChatMode>
+  <passwordRestored>Ваш пароль відправлений на вказану вами електронну адресу</passwordRestored>
+  <restorePasswordDescription>Введи будь-ласка правильну електронну адресу 
+(ту, на яку ти реєстрував свого чобота), 
+у відповідному полі, щоб відновити 
+свій пароль</restorePasswordDescription>
+  <regDisabled>Реєстрація не дозволена</regDisabled>
+  <rememberLogin>Запам'ятати мене</rememberLogin>
+  <rememberPassw>Запам'ятати мій пароль</rememberPassw>
+  <resendActivation>Ще раз відправити активаційний лист</resendActivation>
+  <forgotPassw>Забув пароль?</forgotPassw>
+  <restorePassword>Поновити пароль</restorePassword>
+  <safeChat>Безпечний чат</safeChat>
+  <safeChatDescription>Безпечний чат не дозволить 
+  вашій дитині видавати приватну інформацію</safeChatDescription>
+  <sendActivation>Відправити підтвердження</sendActivation>
+  <sendPassword>Відправити пароль</sendPassword>
+  <rules3>Не дражнити інших Чоботів ні на слові, ні на ділі.</rules3>
+  <rule3>Не дражнити інших Чоботів ні на слові, ні на ділі.</rule3>
+  <termsAndConditions>правилами використання</termsAndConditions>
+  <badEmail>Невірна електронна скринька</badEmail>
+  <familyIsFull>Немає більше вільного місця для цьої електронної скриньки</familyIsFull>
+  <pleaseEnterPassw>Пароль має бути принаймі 6 символів завдовшки і містити літери і цифри.</pleaseEnterPassw>
+  <badConfirmPassw>Підтвердіть пароль</badConfirmPassw>
+  <outdatedSwf>У тебе застаріла версія гри. Тобі потрібно почистити кеш в браузері</outdatedSwf>
+  <restoreWrongEmail>Вибачте, але немає користувачів, які були зареєстрованими на цю електронну адресу</restoreWrongEmail>
+  <emailExists>Електронна скринька вже існує.</emailExists>
+  <emailNotFount>Електронна скринька не найдена.</emailNotFount>
+  <leaveThisEmpty>Це поле може бути незаповненим</leaveThisEmpty>
+  <loginExists>Логін вже існує</loginExists>
+  <unknown>Невідома помилка. Можливо тобі потрібно почистити кеш в браузері</unknown>
+  <loginOrPasswordInvalidChars>Логін має складатись лише з букв латинського алфавіту та цифр</loginOrPasswordInvalidChars>
+  <pleaseEnterEmail>Поле для електронної скриньки не може бути незаповненим, або формат неправильний. Введи будь ласка електронну адресу.</pleaseEnterEmail>
+  <savePassword>Увага! Ваш пароль буде збереженим. Не використовуйте це, якщо ви не користуєтесь своїм комп'ютером.</savePassword>
+  <welcome>Вітаємо,</welcome>
+  <whyActivate>Чому я маю активувати свій аккаунт?</whyActivate>
+  <badLogin>Невірний логін</badLogin>
+  <badPassw>Невірний пароль</badPassw>
+  <localConnectionExists>Ти вже бавишся в чоботів. Перевір інші закладки.</localConnectionExists>
+  <parentRegistration>Ви успішно зареєстровані. Перевірте вашу електронну скриньку для підтвердження активації.</parentRegistration>
+  <youMustAgree>Ти повинен погодитись з правилами використання сперш!</youMustAgree>
+  <parentAhtung>Ви повинні бути повнолітніми. Продовжити?</parentAhtung>
+  <youShouldHaveAccount>Ти повинен мати зареєстрований аккаунт</youShouldHaveAccount>
+  <mustContain>Ніколи не видавай свій пароль. Використовуй від 6 до 20 символів.</mustContain>
+  <ipBanned>Твою IP адресу забанено</ipBanned>
+  <loginBanned>Ваш логін забанений.</loginBanned>
+  <loginDisabled>Ваш аккаунт відключений.</loginDisabled>
+  <loginNotActive>Твій аккаунт ще не активовано</loginNotActive>
+  <passwordSameAsLogin>Твій пароль не може бути таким самим як твій логін. Це небезпечно. Будь-ласка, вибери інший пароль.</passwordSameAsLogin>
+</messages>

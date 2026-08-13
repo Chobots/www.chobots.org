@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Chobots Admin Ruffle</title>
+    <link rel="icon" href="favicon.png" type="image/png">
+    <style>
+        html, body {
+            width: 100%;
+            height: 100%;
+            margin: 0;
+            background: #111;
+            overflow: hidden;
+        }
+        #flashContent {
+            width: 100%;
+            height: 100vh;
+        }
+    </style>
+    <script>
+        window.RufflePlayer = window.RufflePlayer || {};
+        window.RufflePlayer.config = {
+            autoplay: "on",
+            allowScriptAccess: true,
+            unmuteOverlay: "hidden",
+            warnOnUnsupportedContent: true,
+            preloader: false,
+            splashScreen: false,
+            contextMenu: false,
+            wmode: "transparent"
+        };
+    </script>
+    <script src="ruffle/ruffle.js"></script>
+    <script src="javascripts/ruffle-ws-bridge.js"></script>
+</head>
+<body>
+<div id="flashContent"></div>
+<script>
+    (function () {
+        var params = new URLSearchParams(window.location.search);
+        var ruffle = window.RufflePlayer.newest();
+        var player = ruffle.createPlayer();
+        var flashvars = {
+            transport: "websocket",
+            wsUrl: params.get("wsUrl") || ((location.protocol === "https:" ? "wss://" : "ws://") + location.hostname + ":5080/ws/game")
+        };
+        window.chobotsAdminFlashvars = flashvars;
+        window.chobotsGetAdminFlashvar = function (name) {
+            return window.chobotsAdminFlashvars && window.chobotsAdminFlashvars[name];
+        };
+        player.id = "chobotsAdminRufflePlayer";
+        player.style.width = "100%";
+        player.style.height = "100%";
+        document.getElementById("flashContent").appendChild(player);
+        window.ch_game_window = player;
+        player.load({
+            url: "/game/KavalokAdmin.swf",
+            allowScriptAccess: true,
+            parameters: flashvars
+        });
+    })();
+</script>
+</body>
+</html>

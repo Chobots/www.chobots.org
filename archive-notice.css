@@ -1,0 +1,114 @@
+html[data-chobots-archive-notice] {
+  background: #000 !important;
+  overflow: hidden !important;
+}
+
+html[data-chobots-archive-notice] body {
+  overflow: hidden !important;
+}
+
+html[data-chobots-archive-notice="pending"]:not([data-chobots-archive-notice-mounted]) body > * {
+  visibility: hidden !important;
+}
+
+html[data-chobots-archive-notice="rejected"] body > :not(#chobotsArchiveNoticeGate) {
+  display: none !important;
+}
+
+html[data-chobots-archive-notice] frameset {
+  visibility: hidden !important;
+}
+
+#chobotsArchiveNoticeGate,
+#chobotsArchiveNoticeGate * {
+  box-sizing: border-box;
+}
+
+#chobotsArchiveNoticeGate {
+  color: #203547;
+  font: 16px/1.5 Tahoma, Arial, sans-serif;
+  inset: 0;
+  position: fixed;
+  z-index: 2147483647;
+}
+
+.archive-notice-backdrop,
+.archive-notice-refusal {
+  align-items: center;
+  background: rgba(0, 0, 0, 0.94);
+  display: flex;
+  inset: 0;
+  justify-content: center;
+  overflow: auto;
+  padding: 24px;
+  position: absolute;
+}
+
+.archive-notice-refusal {
+  background: #000;
+}
+
+.archive-notice-card {
+  background: #f7fbff;
+  border: 4px solid #5bb9e6;
+  border-radius: 18px;
+  box-shadow: 0 12px 48px rgba(0, 0, 0, 0.55);
+  max-width: 720px;
+  padding: 28px;
+  width: 100%;
+}
+
+.archive-notice-card h1 {
+  color: #1778ad;
+  font-size: clamp(1.45rem, 4vw, 2rem);
+  line-height: 1.2;
+  margin: 0 0 18px;
+}
+
+.archive-notice-card p {
+  margin: 0 0 14px;
+}
+
+.archive-notice-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 22px;
+}
+
+#chobotsArchiveNoticeGate button {
+  background: #f28b22;
+  border: 2px solid #fff;
+  border-radius: 999px;
+  box-shadow: 0 0 0 2px #b65208;
+  color: #fff;
+  cursor: pointer;
+  font: bold 16px/1.2 Tahoma, Arial, sans-serif;
+  min-height: 44px;
+  padding: 11px 20px;
+}
+
+#chobotsArchiveNoticeGate button:focus-visible {
+  outline: 4px solid #ffdb3d;
+  outline-offset: 4px;
+}
+
+#chobotsArchiveNoticeGate [data-archive-notice-action="reject"] {
+  background: #465867;
+  box-shadow: 0 0 0 2px #1c2832;
+}
+
+@media (max-width: 560px) {
+  .archive-notice-backdrop { padding: 12px; }
+  .archive-notice-card { border-radius: 12px; padding: 20px; }
+  .archive-notice-actions { display: grid; }
+  #chobotsArchiveNoticeGate button { width: 100%; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  #chobotsArchiveNoticeGate,
+  #chobotsArchiveNoticeGate * {
+    scroll-behavior: auto !important;
+    transition: none !important;
+  }
+}

@@ -1,0 +1,65 @@
+<messages>
+  <askParentsText>Du kannst Deine Eltern bitten, für Dich den Staatsbürgerschafts-Status zu kaufen. Bezahlt werden kann mit Kreditkarte oder PayPal.</askParentsText>
+  <becomeACitizen>Staatsbürger werden!</becomeACitizen>
+  <becomeCitizenTitle>Staatsbürger werden</becomeCitizenTitle>
+  <bonusBugs>Bonus: {0} Blech</bonusBugs>
+  <buy>Kaufen</buy>
+  <buyCoolItems>Kaufe tolle Sachen!</buyCoolItems>
+  <buyNow>Jetzt kaufen</buyNow>
+  <citizenOnlyText>Exklusive Kleidung
+- Haus Upgrades
+- Lieblingstiere Upgrades
+- Zusätzliche Möbel
+- Viele tolle Sachen!</citizenOnlyText>
+  <citizenOnlyTitle>Nur für Staatsbürger:</citizenOnlyTitle>
+  <comingSoonText>Geheime Orte:
+ Städte und viel mehr!</comingSoonText>
+  <comingSoonTitle>Kommt bald:</comingSoonTitle>
+  <confirmExtendMembership>Deine Staatsbürgerschaft wird am: {0}-{1}-{2} {3}:{4}  ablaufen. Möchtest Du sie verlängern?</confirmExtendMembership>
+  <continue>Weiter</continue>
+  <drawGraffiti>Graffiti malen!</drawGraffiti>
+  <extendCitizenshipTitle>Staatsbürgerschaft verlängern!</extendCitizenshipTitle>
+  <free>Kostenlos!!!!</free>
+  <freePeriod>{0} Tage</freePeriod>
+  <itemOfTheMonthControlText>Werde noch heute Staatsbürger und erhalte ein exklusives Geschenk des Monats!</itemOfTheMonthControlText>
+  <itemOfTheMonthText>Dieser Gegenstand ist nur für die Chobots erhältlich,
+die sich im Laufe dieses Monats eine Staatsbürgerschaft kaufen!  
+Du kannst es jederzeit gegen 2000 Blech 
+eintauschen, wenn du es in den Müllkorb in deinem Schrank wirfst.</itemOfTheMonthText>
+  <joinCommunity>Schließe dich der Chobots Premium Community an!</joinCommunity>
+  <joinSecretParties>Nimm an geheimen Partys teil!</joinSecretParties>
+  <offer1>Am beliebtesten!</offer1>
+  <offer12>Weniger als {0} {1} pro Monat!</offer12>
+  <offer6>Weniger als {0} {1} pro Tag!</offer6>
+  <paymentExplanationText>Wenn Du „Jetzt kaufen!“ anklickst, wirst Du zum Zahlungssystem weitergeleitet</paymentExplanationText>
+  <paypalProductName12Months>12 Monate Chobots Staatsbürgerschaft (Premium Mitgliedschaft)</paypalProductName12Months>
+  <paypalProductName12MonthsProlong>12 Monate Chobots Staatsbürgerschaft (Premium Mitgliedschaft)</paypalProductName12MonthsProlong>
+  <paypalProductName1Month>1 Monate Chobots Staatsbürgerschaft (Premium Mitgliedschaft)</paypalProductName1Month>
+  <paypalProductName1MonthProlong>1 Monate Chobots Staatsbürgerschaft (Premium Mitgliedschaft)</paypalProductName1MonthProlong>
+  <paypalProductName3Months>3 Monate Chobots Staatsbürgerschaft (Premium Mitgliedschaft)</paypalProductName3Months>
+  <paypalProductName3MonthsProlong>3 Monate Chobots Staatsbürgerschaft (Premium Mitgliedschaft)</paypalProductName3MonthsProlong>
+  <paypalProductName6Months>6 Monate Chobots Staatsbürgerschaft (Premium Mitgliedschaft)</paypalProductName6Months>
+  <paypalProductName6MonthsProlong>6 Monate Chobots Staatsbürgerschaft (Premium Mitgliedschaft)</paypalProductName6MonthsProlong>
+  <period1>1 Monat</period1>
+  <period12>12 Monate</period12>
+  <period3>3 Monate</period3>
+  <period6>6 Monate</period6>
+  <playMoreGames>Erhalte Zugang zu mehr Spielen!</playMoreGames>
+  <priceText>Preis: {1}{0}</priceText>
+  <specialOffer>Sonderangebot!</specialOffer>
+  <statusCannotUpgradeText>Es tut uns leid, aber eine Staatsbürgerschaft für mehr als 2 Jahre ist nicht erhältlich!</statusCannotUpgradeText>
+  <statusUpgradeHistory>Verlauf deines Staatsbürgerschaftstatus:</statusUpgradeHistory>
+  <statusUpgradeText>Glückwunsch! Du bist nun Staatsbürger in der Chobotswelt. Dein Pass läuft in {0} Tagen ab. Um ihn zu verlängern, klicke "Weiter"!</statusUpgradeText>
+  <statusUpgradeTitle>Status Upgrade!</statusUpgradeTitle>
+  <try>Probieren!</try>
+  <tryTooltip>Du bist junger als 30 Tage, oder Du hast es schon probiert!</tryTooltip>
+  <wannaBeSpecial>Möchtest Du besonders sein? Mach heute mit und bekomme eines der exklusiven Geschenke!</wannaBeSpecial>
+  <bonus1/>
+  <bonus12/>
+  <bonus3/>
+  <bonus6/>
+  <price1/>
+  <price12/>
+  <price3/>
+  <price6/>
+</messages>

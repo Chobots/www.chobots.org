@@ -2,29 +2,69 @@
 <html lang="en">
 <head>
     <title>KavalokAdmin</title>
-    <meta name="chobots-game-release" content="/game/676cb9ed1adaa96c0b8881b03e8c9afefc420159">
+    <meta name="chobots-game-release" content="/game/9d0a08de1a3e367bfda00db40d3e45c50274955e">
     <link rel="stylesheet" href="/archive-notice.css" type="text/css" media="screen"/>
     <script src="/archive-notice.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="/game/9d0a08de1a3e367bfda00db40d3e45c50274955e/stylesheets/private-world.css" type="text/css"/>
     <script>
         Object.defineProperty(window, "chobotsGameAssetRoot", {
-            value: "/game/676cb9ed1adaa96c0b8881b03e8c9afefc420159",
+            value: "/game/9d0a08de1a3e367bfda00db40d3e45c50274955e",
             writable: false,
             configurable: false
         });
+        window.RufflePlayer = window.RufflePlayer || {};
+        window.RufflePlayer.config = { autoplay: "on", allowScriptAccess: true, warnOnUnsupportedContent: true, preloader: false, splashScreen: false, contextMenu: false, wmode: "transparent" };
     </script>
+    <script src="/game/9d0a08de1a3e367bfda00db40d3e45c50274955e/javascripts/chobots-play-mode.js"></script>
+    <script src="/game/9d0a08de1a3e367bfda00db40d3e45c50274955e/javascripts/chobots-play-choice.js"></script>
+    <script src="/game/9d0a08de1a3e367bfda00db40d3e45c50274955e/javascripts/chobots-relay-config.js"></script>
+    <script src="/game/9d0a08de1a3e367bfda00db40d3e45c50274955e/javascripts/chobots-browser-host.js"></script>
+    <script src="/game/9d0a08de1a3e367bfda00db40d3e45c50274955e/javascripts/chobots-relay-host.js"></script>
+    <script src="/game/9d0a08de1a3e367bfda00db40d3e45c50274955e/javascripts/ruffle-ws-bridge.js"></script>
+    <script src="/game/9d0a08de1a3e367bfda00db40d3e45c50274955e/javascripts/chobots-admin-page.js"></script>
+    <script src="/game/9d0a08de1a3e367bfda00db40d3e45c50274955e/ruffle/ruffle.js"></script>
     <style>
-        html, body, object {
-            width: 100%;
-            height: 100%;
-            padding: 0;
-            margin: 0;
-            border: 0;
-            overflow: hidden;
-        }
+        html, body { width: 100%; height: 100%; padding: 0; margin: 0; border: 0; }
+        #flashContent { width: 100%; height: 80vh; }
+        #chobotsPlayChooser, #chobotsHostWorld { max-width: 900px; margin: 1rem auto; }
     </style>
 </head>
 <body>
-<object type="application/x-shockwave-flash" data="/game/676cb9ed1adaa96c0b8881b03e8c9afefc420159/KavalokAdmin.swf"></object>
-</object>
+<div id="flashContent"></div>
+<section id="chobotsPlayChooser" class="private-world-section" hidden>
+    <h1>Choose an admin world</h1>
+    <div class="private-world-actions">
+        <button id="chobotsPlayPrivate" type="button">Host privately</button>
+        <button id="chobotsPlayPublic" type="button">Host publicly</button>
+    </div>
+    <form id="chobotsJoinForm">
+        <label for="chobotsJoinCode">Join by sharing code or link</label>
+        <input id="chobotsJoinCode" type="text" maxlength="2048" autocomplete="off"/>
+        <button id="chobotsJoinFriend" type="submit">Join</button>
+        <p id="chobotsJoinError" role="alert" hidden></p>
+    </form>
+</section>
+<section id="chobotsHostWorld" class="private-world-section" hidden>
+    <strong id="chobotsHostModeStatus">Private</strong>
+    <span id="chobotsBrowserStatus">loading</span>
+    <span id="chobotsStorageStatus">storage checking</span>
+    <div id="chobotsRelayControls" hidden>
+        <label for="chobotsShareLink">Sharing link</label>
+        <input id="chobotsShareLink" type="text" readonly="readonly"/>
+        <button id="chobotsShareCopyLink" type="button">Copy link</button>
+        <button id="chobotsShareCopyCode" type="button">Copy code</button>
+        <span id="chobotsRelayStatus">sharing offline</span><span id="chobotsRelayPeerCount">0</span>
+    </div>
+    <div id="chobotsDatabaseControls" hidden>
+        <button id="chobotsExportDatabase" type="button">Export backup</button>
+        <label>Import backup <input id="chobotsImportDatabase" type="file" accept=".sqlite3,application/vnd.sqlite3"/></label>
+        <button id="chobotsResetDatabase" type="button">Reset world</button>
+    </div>
+    <div id="chobotsModeControls" hidden>
+        <button id="chobotsOpenPublic" type="button">Open to public</button>
+        <button id="chobotsMakePrivate" type="button" hidden>Make private</button>
+        <button id="chobotsJoinServer" type="button" onclick="document.getElementById('chobotsPlayChooser').hidden=false">Join by code</button>
+    </div>
+</section>
 </body>
 </html>

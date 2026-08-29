@@ -2,13 +2,13 @@
 <html lang="en">
 <head>
     <title>KavalokAdmin</title>
-    <meta name="chobots-game-release" content="/game/af3c4c70dd0c19e62b67e1ce43ebf05d93ed38f8">
+    <meta name="chobots-game-release" content="/game/7354553cccff0aff390092e1238a073143185d08">
     <link rel="stylesheet" href="/archive-notice.css" type="text/css" media="screen"/>
     <script src="/archive-notice.js" type="text/javascript"></script>
-    <link rel="stylesheet" href="/game/af3c4c70dd0c19e62b67e1ce43ebf05d93ed38f8/stylesheets/private-world.css" type="text/css"/>
+    <link rel="stylesheet" href="/game/7354553cccff0aff390092e1238a073143185d08/stylesheets/private-world.css" type="text/css"/>
     <script>
         Object.defineProperty(window, "chobotsGameAssetRoot", {
-            value: "/game/af3c4c70dd0c19e62b67e1ce43ebf05d93ed38f8",
+            value: "/game/7354553cccff0aff390092e1238a073143185d08",
             writable: false,
             configurable: false
         });
@@ -19,26 +19,140 @@
         window.RufflePlayer = window.RufflePlayer || {};
         window.RufflePlayer.config = { autoplay: "on", allowScriptAccess: true, warnOnUnsupportedContent: true, preloader: false, splashScreen: false, contextMenu: false, wmode: "transparent" };
     </script>
-    <script src="/game/af3c4c70dd0c19e62b67e1ce43ebf05d93ed38f8/javascripts/chobots-play-mode.js"></script>
-    <script src="/game/af3c4c70dd0c19e62b67e1ce43ebf05d93ed38f8/javascripts/chobots-play-choice.js"></script>
-    <script src="/game/af3c4c70dd0c19e62b67e1ce43ebf05d93ed38f8/javascripts/chobots-relay-config.js"></script>
-    <script src="/game/af3c4c70dd0c19e62b67e1ce43ebf05d93ed38f8/javascripts/ruffle-ws-bridge.js"></script>
-    <script src="/game/af3c4c70dd0c19e62b67e1ce43ebf05d93ed38f8/javascripts/chobots-admin-page.js"></script>
-    <script src="/game/af3c4c70dd0c19e62b67e1ce43ebf05d93ed38f8/ruffle/ruffle.js"></script>
+    <script src="/game/7354553cccff0aff390092e1238a073143185d08/javascripts/chobots-play-mode.js"></script>
+    <script src="/game/7354553cccff0aff390092e1238a073143185d08/javascripts/chobots-play-choice.js"></script>
+    <script src="/game/7354553cccff0aff390092e1238a073143185d08/javascripts/chobots-relay-config.js"></script>
+    <script src="/game/7354553cccff0aff390092e1238a073143185d08/javascripts/ruffle-ws-bridge.js"></script>
+    <script src="/game/7354553cccff0aff390092e1238a073143185d08/javascripts/chobots-admin-page.js"></script>
+    <script src="/game/7354553cccff0aff390092e1238a073143185d08/ruffle/ruffle.js"></script>
     <style>
-        html, body { width: 100%; height: 100%; padding: 0; margin: 0; border: 0; }
-        #flashContent { width: 100%; height: 80vh; }
-        #chobotsPlayChooser { max-width: 900px; margin: 1rem auto; }
+        html, body {
+            width: 100%;
+            height: 100%;
+            padding: 0;
+            margin: 0;
+            border: 0;
+            overflow: hidden;
+            background: #595959;
+        }
+
+        #flashContent {
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+        }
+
+        #chobotsPlayChooser {
+            position: fixed;
+            inset: 0;
+            max-width: none;
+            margin: 0;
+            border: 0;
+            border-radius: 0;
+            padding: 24px;
+            overflow: hidden;
+            color: #242424;
+            background-color: #595959;
+            background-image:
+                radial-gradient(circle at 50% 44%, rgba(255, 255, 255, .24) 0, rgba(255, 255, 255, .08) 25%, transparent 52%),
+                linear-gradient(135deg, rgba(255, 255, 255, .10) 0 1px, transparent 1px 18px),
+                linear-gradient(#777, #484848);
+            font: 14px Tahoma, Arial, sans-serif;
+        }
+
+        #chobotsPlayChooser::before,
+        #chobotsPlayChooser::after {
+            position: absolute;
+            content: "";
+            width: 420px;
+            height: 420px;
+            border: 1px solid rgba(255, 255, 255, .08);
+            border-radius: 50%;
+            box-shadow: 0 0 0 42px rgba(0, 0, 0, .025), 0 0 0 84px rgba(255, 255, 255, .025);
+            pointer-events: none;
+        }
+
+        #chobotsPlayChooser::before { top: -245px; left: -120px; }
+        #chobotsPlayChooser::after { right: -145px; bottom: -260px; }
+
+        #chobotsJoinForm {
+            position: relative;
+            z-index: 1;
+            display: grid;
+            grid-template-columns: minmax(0, 310px) auto;
+            gap: 8px 10px;
+            width: min(430px, calc(100vw - 48px));
+            box-sizing: border-box;
+            margin: 0;
+            padding: 24px;
+            border: 1px solid rgba(255, 255, 255, .82);
+            border-radius: 9px;
+            background: linear-gradient(#e2e2e2, #bcbcbc);
+            box-shadow: 0 2px 0 rgba(255, 255, 255, .35) inset, 0 12px 30px rgba(0, 0, 0, .38);
+        }
+
+        #chobotsJoinForm label {
+            grid-column: 1 / -1;
+            color: #3d3d3d;
+            font-weight: bold;
+            text-shadow: 0 1px rgba(255, 255, 255, .75);
+        }
+
+        #chobotsJoinCode {
+            box-sizing: border-box;
+            width: 100%;
+            min-width: 0;
+            height: 34px;
+            padding: 6px 9px;
+            border: 1px solid #777;
+            border-radius: 4px;
+            color: #222;
+            background: #fff;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, .18) inset;
+            font: inherit;
+        }
+
+        #chobotsJoinFriend {
+            height: 34px;
+            padding: 0 18px;
+            border: 1px solid #555;
+            border-radius: 4px;
+            color: #292929;
+            background: linear-gradient(#fff, #c8c8c8);
+            box-shadow: 0 1px 0 rgba(255, 255, 255, .8) inset, 0 1px 2px rgba(0, 0, 0, .22);
+            font: bold 14px Tahoma, Arial, sans-serif;
+            cursor: pointer;
+        }
+
+        #chobotsJoinFriend:hover { background: linear-gradient(#fff, #dedede); }
+        #chobotsJoinFriend:active { background: linear-gradient(#aaa, #ddd); }
+
+        #chobotsJoinCode:focus-visible,
+        #chobotsJoinFriend:focus-visible {
+            outline: 3px solid rgba(255, 255, 255, .9);
+            outline-offset: 2px;
+        }
+
+        #chobotsJoinError {
+            grid-column: 1 / -1;
+            margin: 4px 0 0;
+            color: #7a1010;
+            font-weight: bold;
+        }
+
+        @media (max-width: 520px) {
+            #chobotsJoinForm { grid-template-columns: 1fr; }
+            #chobotsJoinFriend { width: 100%; }
+        }
     </style>
 </head>
 <body>
 <div id="flashContent"></div>
 <section id="chobotsPlayChooser" class="private-world-section" hidden>
-    <h1>Join a world to administer</h1>
     <form id="chobotsJoinForm">
-        <label for="chobotsJoinCode">Join by sharing code or link</label>
+        <label for="chobotsJoinCode">Sharing code or link</label>
         <input id="chobotsJoinCode" type="text" maxlength="2048" autocomplete="off"/>
-        <button id="chobotsJoinFriend" type="submit">Join</button>
+        <button id="chobotsJoinFriend" type="submit">Connect</button>
         <p id="chobotsJoinError" role="alert" hidden></p>
     </form>
 </section>

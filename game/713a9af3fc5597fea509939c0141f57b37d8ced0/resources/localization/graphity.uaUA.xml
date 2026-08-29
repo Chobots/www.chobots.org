@@ -1,0 +1,6 @@
+<messages>
+  <citizenPopup>Ти повинен бути громадянином, щоб мати можливість малювати</citizenPopup>
+  <drawingDisabled>Ти не можеш малювати</drawingDisabled>
+  <notAvailableForJuniors>Тільки Громадяни   можуть використовувати панель інструментів</notAvailableForJuniors>
+  <gameSafeMode>Світ Чоботс знаходиться в безпечному режимі. Ти не можеш користуватися текстовим чатом і графіті</gameSafeMode>
+</messages>

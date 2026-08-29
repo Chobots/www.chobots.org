@@ -1,0 +1,15 @@
+<messages>
+  <title>Твоя сім'я</title>
+  <chat>Чат</chat>
+  <permissions>Дозволи</permissions>
+  <playEnabled>Дозволити грати</playEnabled>
+  <playTime>Час гри</playTime>
+  <safe>Безпечний</safe>
+  <full>Звичайний</full>
+  <child>Дитина</child>
+  <parent>Батьки</parent>
+  <enable>Дозволено</enable>
+  <disable>Не дозволено</disable>
+  <register>Новий користувач</register>
+  <addUser>Додати користуача</addUser>
+</messages>

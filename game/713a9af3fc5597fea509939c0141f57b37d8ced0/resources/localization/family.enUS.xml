@@ -1,0 +1,15 @@
+<messages>
+  <title>Your family</title>
+  <chat>Chat</chat>
+  <permissions>Permissions</permissions>
+  <playEnabled>Allow to play</playEnabled>
+  <playTime>Play time</playTime>
+  <safe>Safe</safe>
+  <full>Full</full>
+  <child>Child</child>
+  <parent>Parents</parent>
+  <enable>Enable</enable>
+  <disable>Disable</disable>
+  <register>Register new user</register>
+  <addUser>Add user</addUser>
+</messages>

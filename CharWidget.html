@@ -2,13 +2,13 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <meta name="chobots-game-release" content="/game/9fd30a871c556bfc43154518a23d17ea8174a612">
+    <meta name="chobots-game-release" content="/game/dcc55a81acf0e3e329535348e3b5cded844068ef">
     <title>Chobots Character</title>
     <link rel="stylesheet" href="/archive-notice.css" type="text/css" media="screen"/>
     <script src="/archive-notice.js" type="text/javascript"></script>
     <script>
         Object.defineProperty(window, "chobotsGameAssetRoot", {
-            value: "/game/9fd30a871c556bfc43154518a23d17ea8174a612",
+            value: "/game/dcc55a81acf0e3e329535348e3b5cded844068ef",
             writable: false,
             configurable: false
         });
@@ -23,12 +23,27 @@
             wmode: "transparent"
         };
     </script>
-    <script src="/game/9fd30a871c556bfc43154518a23d17ea8174a612/javascripts/chobots-play-mode.js" type="text/javascript"></script>
-    <script src="/game/9fd30a871c556bfc43154518a23d17ea8174a612/javascripts/ruffle-ws-bridge.js" type="text/javascript"></script>
-    <script src="/game/9fd30a871c556bfc43154518a23d17ea8174a612/ruffle/ruffle.js" type="text/javascript"></script>
+    <script src="/game/dcc55a81acf0e3e329535348e3b5cded844068ef/javascripts/chobots-play-mode.js" type="text/javascript"></script>
+    <script src="/game/dcc55a81acf0e3e329535348e3b5cded844068ef/javascripts/ruffle-ws-bridge.js" type="text/javascript"></script>
+    <script src="/game/dcc55a81acf0e3e329535348e3b5cded844068ef/ruffle/ruffle.js" type="text/javascript"></script>
     <style>
-        html, body { margin: 0; padding: 0; background: #fff; }
-        #flashContent { width: 235px; height: 308px; }
+        html, body {
+            width: 100%;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background: #fff;
+        }
+        #flashContent {
+            width: 100%;
+            height: 100%;
+        }
+        #flashContent ruffle-player {
+            display: block;
+            width: 100%;
+            height: 100%;
+        }
     </style>
 </head>
 <body>
@@ -56,8 +71,6 @@
     };
     var ruffle = window.RufflePlayer.newest();
     var player = ruffle.createPlayer();
-    player.style.width = "235px";
-    player.style.height = "308px";
     document.getElementById("flashContent").appendChild(player);
     player.load({
         url: window.chobotsGameAssetRoot + "/CharWidget.swf",

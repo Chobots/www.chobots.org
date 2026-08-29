@@ -2,13 +2,13 @@
 <html lang="en">
 <head>
     <title>KavalokAdmin</title>
-    <meta name="chobots-game-release" content="/game/7354553cccff0aff390092e1238a073143185d08">
+    <meta name="chobots-game-release" content="/game/7df7a0ddd7a9b858afefb35de7af0c208ca33d05">
     <link rel="stylesheet" href="/archive-notice.css" type="text/css" media="screen"/>
     <script src="/archive-notice.js" type="text/javascript"></script>
-    <link rel="stylesheet" href="/game/7354553cccff0aff390092e1238a073143185d08/stylesheets/private-world.css" type="text/css"/>
+    <link rel="stylesheet" href="/game/7df7a0ddd7a9b858afefb35de7af0c208ca33d05/stylesheets/private-world.css" type="text/css"/>
     <script>
         Object.defineProperty(window, "chobotsGameAssetRoot", {
-            value: "/game/7354553cccff0aff390092e1238a073143185d08",
+            value: "/game/7df7a0ddd7a9b858afefb35de7af0c208ca33d05",
             writable: false,
             configurable: false
         });
@@ -19,12 +19,12 @@
         window.RufflePlayer = window.RufflePlayer || {};
         window.RufflePlayer.config = { autoplay: "on", allowScriptAccess: true, warnOnUnsupportedContent: true, preloader: false, splashScreen: false, contextMenu: false, wmode: "transparent" };
     </script>
-    <script src="/game/7354553cccff0aff390092e1238a073143185d08/javascripts/chobots-play-mode.js"></script>
-    <script src="/game/7354553cccff0aff390092e1238a073143185d08/javascripts/chobots-play-choice.js"></script>
-    <script src="/game/7354553cccff0aff390092e1238a073143185d08/javascripts/chobots-relay-config.js"></script>
-    <script src="/game/7354553cccff0aff390092e1238a073143185d08/javascripts/ruffle-ws-bridge.js"></script>
-    <script src="/game/7354553cccff0aff390092e1238a073143185d08/javascripts/chobots-admin-page.js"></script>
-    <script src="/game/7354553cccff0aff390092e1238a073143185d08/ruffle/ruffle.js"></script>
+    <script src="/game/7df7a0ddd7a9b858afefb35de7af0c208ca33d05/javascripts/chobots-play-mode.js"></script>
+    <script src="/game/7df7a0ddd7a9b858afefb35de7af0c208ca33d05/javascripts/chobots-play-choice.js"></script>
+    <script src="/game/7df7a0ddd7a9b858afefb35de7af0c208ca33d05/javascripts/chobots-relay-config.js"></script>
+    <script src="/game/7df7a0ddd7a9b858afefb35de7af0c208ca33d05/javascripts/ruffle-ws-bridge.js"></script>
+    <script src="/game/7df7a0ddd7a9b858afefb35de7af0c208ca33d05/javascripts/chobots-admin-page.js"></script>
+    <script src="/game/7df7a0ddd7a9b858afefb35de7af0c208ca33d05/ruffle/ruffle.js"></script>
     <style>
         html, body {
             width: 100%;
@@ -33,7 +33,7 @@
             margin: 0;
             border: 0;
             overflow: hidden;
-            background: #595959;
+            background: #6d838e linear-gradient(#94aab5, #6d838e);
         }
 
         #flashContent {
@@ -51,81 +51,65 @@
             border-radius: 0;
             padding: 24px;
             overflow: hidden;
-            color: #242424;
-            background-color: #595959;
-            background-image:
-                radial-gradient(circle at 50% 44%, rgba(255, 255, 255, .24) 0, rgba(255, 255, 255, .08) 25%, transparent 52%),
-                linear-gradient(135deg, rgba(255, 255, 255, .10) 0 1px, transparent 1px 18px),
-                linear-gradient(#777, #484848);
-            font: 14px Tahoma, Arial, sans-serif;
+            color: #253b46;
+            background: #6d838e linear-gradient(#94aab5, #6d838e);
+            font: 11px Tahoma, Arial, sans-serif;
         }
-
-        #chobotsPlayChooser::before,
-        #chobotsPlayChooser::after {
-            position: absolute;
-            content: "";
-            width: 420px;
-            height: 420px;
-            border: 1px solid rgba(255, 255, 255, .08);
-            border-radius: 50%;
-            box-shadow: 0 0 0 42px rgba(0, 0, 0, .025), 0 0 0 84px rgba(255, 255, 255, .025);
-            pointer-events: none;
-        }
-
-        #chobotsPlayChooser::before { top: -245px; left: -120px; }
-        #chobotsPlayChooser::after { right: -145px; bottom: -260px; }
 
         #chobotsJoinForm {
-            position: relative;
-            z-index: 1;
             display: grid;
-            grid-template-columns: minmax(0, 310px) auto;
-            gap: 8px 10px;
-            width: min(430px, calc(100vw - 48px));
+            grid-template-columns: 130px 180px;
+            gap: 7px 10px;
+            width: min(320px, calc(100vw - 48px));
             box-sizing: border-box;
             margin: 0;
-            padding: 24px;
-            border: 1px solid rgba(255, 255, 255, .82);
-            border-radius: 9px;
-            background: linear-gradient(#e2e2e2, #bcbcbc);
-            box-shadow: 0 2px 0 rgba(255, 255, 255, .35) inset, 0 12px 30px rgba(0, 0, 0, .38);
+            padding: 0;
+            border: 0;
+            border-radius: 0;
+            background: none;
+            box-shadow: none;
         }
 
         #chobotsJoinForm label {
-            grid-column: 1 / -1;
-            color: #3d3d3d;
-            font-weight: bold;
-            text-shadow: 0 1px rgba(255, 255, 255, .75);
+            grid-column: 1;
+            align-self: center;
+            color: #253b46;
+            font-weight: normal;
+            text-align: right;
         }
 
         #chobotsJoinCode {
+            grid-column: 2;
             box-sizing: border-box;
             width: 100%;
             min-width: 0;
-            height: 34px;
-            padding: 6px 9px;
-            border: 1px solid #777;
-            border-radius: 4px;
+            height: 25px;
+            padding: 3px 5px;
+            border: 1px solid #879aa3;
+            border-radius: 0;
             color: #222;
             background: #fff;
-            box-shadow: 0 1px 3px rgba(0, 0, 0, .18) inset;
+            box-shadow: none;
             font: inherit;
         }
 
         #chobotsJoinFriend {
-            height: 34px;
-            padding: 0 18px;
-            border: 1px solid #555;
+            grid-column: 2;
+            justify-self: start;
+            width: 72px;
+            height: 25px;
+            padding: 0 8px;
+            border: 1px solid #84969e;
             border-radius: 4px;
-            color: #292929;
-            background: linear-gradient(#fff, #c8c8c8);
-            box-shadow: 0 1px 0 rgba(255, 255, 255, .8) inset, 0 1px 2px rgba(0, 0, 0, .22);
-            font: bold 14px Tahoma, Arial, sans-serif;
+            color: #31464f;
+            background: linear-gradient(#d7e0e3, #9eafb6);
+            box-shadow: 0 1px 0 rgba(255, 255, 255, .45) inset;
+            font: 11px Tahoma, Arial, sans-serif;
             cursor: pointer;
         }
 
-        #chobotsJoinFriend:hover { background: linear-gradient(#fff, #dedede); }
-        #chobotsJoinFriend:active { background: linear-gradient(#aaa, #ddd); }
+        #chobotsJoinFriend:hover { background: linear-gradient(#e3eaec, #adbbc1); }
+        #chobotsJoinFriend:active { background: linear-gradient(#91a4ac, #c3cdd1); }
 
         #chobotsJoinCode:focus-visible,
         #chobotsJoinFriend:focus-visible {
@@ -134,7 +118,7 @@
         }
 
         #chobotsJoinError {
-            grid-column: 1 / -1;
+            grid-column: 2;
             margin: 4px 0 0;
             color: #7a1010;
             font-weight: bold;
@@ -142,6 +126,11 @@
 
         @media (max-width: 520px) {
             #chobotsJoinForm { grid-template-columns: 1fr; }
+            #chobotsJoinForm label,
+            #chobotsJoinCode,
+            #chobotsJoinFriend,
+            #chobotsJoinError { grid-column: 1; }
+            #chobotsJoinForm label { text-align: left; }
             #chobotsJoinFriend { width: 100%; }
         }
     </style>

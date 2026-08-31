@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "sourceName": "Studik_blue.swf",
+  "sha256": "10e4b452d7ea1e11a2bf514b2b73368bb31cdf243fc2e96f369f04dc24646cbe",
+  "parts": {
+    "McArmBottom": {
+      "width": 10.25,
+      "height": 8.85,
+      "registrationX": -0.05,
+      "registrationY": -1.5,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.05, 1.5)\">\n    <use height=\"8.85\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"10.25\" href=\"#clothes-Studik_blue-McArmBottom-shape0\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-Studik_blue-McArmBottom-shape0\">\n      <path d=\"M4.55 -1.0 L5.45 1.15 5.95 1.05 8.2 1.0 9.7 4.4 Q7.1 4.55 4.05 5.7 2.5 6.3 1.5 6.85 0.6 5.05 0.45 3.1 L1.2 2.75 0.65 0.55 4.55 -1.0 M5.45 1.15 Q3.1 1.6 1.2 2.75 3.1 1.6 5.45 1.15\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M4.55 -1.0 L5.45 1.15 5.95 1.05 8.2 1.0 9.7 4.4 Q7.1 4.55 4.05 5.7 2.5 6.3 1.5 6.85 0.6 5.05 0.45 3.1 L1.2 2.75 0.65 0.55 M1.2 2.75 Q3.1 1.6 5.45 1.15\" fill=\"none\" stroke=\"#7f7f7f\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McArmTop": {
+      "width": 8.05,
+      "height": 11.15,
+      "registrationX": 1.35,
+      "registrationY": 1,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, -1.35, -1.0)\">\n    <use height=\"11.15\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"8.05\" href=\"#clothes-Studik_blue-McArmTop-shape0\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-Studik_blue-McArmTop-shape0\">\n      <path d=\"M3.05 1.5 L5.0 3.45 Q7.3 6.0 8.75 9.2 9.35 10.95 7.25 11.5 5.2 12.1 4.8 10.6 3.65 5.95 1.85 2.5 L3.05 1.5\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M3.05 1.5 L5.0 3.45 Q7.3 6.0 8.75 9.2 9.35 10.95 7.25 11.5 5.2 12.1 4.8 10.6 3.65 5.95 1.85 2.5\" fill=\"none\" stroke=\"#7f7f7f\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McBody2": {
+      "width": 19.35,
+      "height": 22.15,
+      "registrationX": -9.85,
+      "registrationY": -21.2,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 9.85, 21.2)\">\n    <use height=\"22.15\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"19.35\" href=\"#clothes-Studik_blue-McBody2-shape0\"></use>\n    <use height=\"6.8\" id=\"clothes-Studik_blue-McBody2-beydjik\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.3, -17.4)\" width=\"6.75\" href=\"#clothes-Studik_blue-McBody2-sprite0\"></use>\n    <use height=\"12.45\" id=\"clothes-Studik_blue-McBody2-karandash\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -7.25, -18.5)\" width=\"5.35\" href=\"#clothes-Studik_blue-McBody2-sprite1\"></use>\n    <use height=\"4.55\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"8.05\" href=\"#clothes-Studik_blue-McBody2-shape3\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-Studik_blue-McBody2-shape0\">\n      <path d=\"M4.95 -0.95 Q-0.15 1.85 -5.25 -0.95 -7.25 -2.15 -7.95 -3.55 -8.7 -5.1 -8.25 -7.2 L7.95 -7.2 Q8.45 -5.1 7.65 -3.55 6.95 -2.15 4.95 -0.95\" fill=\"#0033ff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M4.95 -0.95 Q-0.15 1.85 -5.25 -0.95 -7.25 -2.15 -7.95 -3.55 -8.7 -5.1 -8.25 -7.2 L7.95 -7.2 Q8.45 -5.1 7.65 -3.55 6.95 -2.15 4.95 -0.95 Z\" fill=\"none\" stroke=\"#000066\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n      <path d=\"M-0.5 -3.95 L-0.65 0.35\" fill=\"none\" stroke=\"#000066\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n      <path d=\"M1.8 -2.45 L1.8 0.05\" fill=\"none\" stroke=\"#000066\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n      <path d=\"M5.85 -15.8 Q7.3 -12.5 7.4 -11.25 7.5 -10.05 8.35 -7.3 8.95 -5.7 8.85 -4.35 L8.3 -1.9 5.95 -3.1 Q4.3 -3.7 3.6 -4.0 1.3 -4.9 -0.65 -6.5 -0.5 -8.0 -0.45 -13.75 L-0.4 -19.25 1.25 -19.9 3.35 -20.5 Q4.35 -19.35 5.85 -15.8\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M5.85 -15.8 Q4.35 -19.35 3.35 -20.5 L1.25 -19.9 -0.4 -19.25 -0.45 -13.75 Q-0.5 -8.0 -0.65 -6.5 1.3 -4.9 3.6 -4.0 4.3 -3.7 5.95 -3.1 L8.3 -1.9 8.85 -4.35 Q8.95 -5.7 8.35 -7.3 7.5 -10.05 7.4 -11.25 7.3 -12.5 5.85 -15.8 Z\" fill=\"none\" stroke=\"#7f7f7f\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n      <path d=\"M-5.65 -16.85 L-3.85 -20.7 -0.05 -18.95 0.1 -11.5 Q0.1 -6.75 -0.1 -5.75 -0.5 -5.3 -3.3 -4.05 L-9.1 -1.4 Q-9.5 -3.65 -9.2 -4.6 L-8.3 -5.9 -8.05 -7.6 -7.65 -8.65 Q-7.5 -12.25 -5.65 -16.85\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-5.65 -16.85 Q-7.5 -12.25 -7.65 -8.65 L-8.05 -7.6 -8.3 -5.9 -9.2 -4.6 Q-9.5 -3.65 -9.1 -1.4 L-3.3 -4.05 Q-0.5 -5.3 -0.1 -5.75 0.1 -6.75 0.1 -11.5 L-0.05 -18.95 -3.85 -20.7 -5.65 -16.85 Z\" fill=\"none\" stroke=\"#7f7f7f\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n      <path d=\"M8.9 -5.25 Q7.25 -6.6 5.45 -6.6 L2.85 -6.95 1.85 -7.2 1.85 -9.7 Q5.3 -9.7 8.45 -8.5 9.2 -6.95 8.9 -5.25\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M8.9 -5.25 Q9.2 -6.95 8.45 -8.5 5.3 -9.7 1.85 -9.7 L1.85 -7.2 2.85 -6.95 5.45 -6.6 Q7.25 -6.6 8.9 -5.25 Z\" fill=\"none\" stroke=\"#7f7f7f\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n      <path d=\"M-2.15 -13.35 Q-2.05 -14.2 -1.45 -14.1 -0.85 -14.1 -0.95 -13.2 -1.05 -12.3 -1.65 -12.4 -2.25 -12.5 -2.15 -13.35\" fill=\"#ff8900\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-Studik_blue-McBody2-sprite0\">\n      <use height=\"6.8\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"6.75\" href=\"#clothes-Studik_blue-McBody2-shape1\"></use>\n    </g>\n    <g id=\"clothes-Studik_blue-McBody2-shape1\">\n      <path d=\"M6.25 5.8 L0.85 6.25 0.5 2.35 5.9 1.85 6.25 5.8\" fill=\"#8cc63f\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M6.25 5.8 L0.85 6.25 0.5 2.35 5.9 1.85 6.25 5.8 Z\" fill=\"none\" stroke=\"#39b54a\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n      <path d=\"M4.15 3.35 L4.05 4.0 3.6 4.3 3.1 4.2 2.75 3.7 2.1 0.95 Q1.95 0.2 2.65 0.0 3.35 -0.15 3.55 0.6 L4.15 3.35\" fill=\"#ff8900\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-Studik_blue-McBody2-sprite1\">\n      <use height=\"12.45\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"5.35\" href=\"#clothes-Studik_blue-McBody2-shape2\"></use>\n    </g>\n    <g id=\"clothes-Studik_blue-McBody2-shape2\">\n      <path d=\"M5.15 1.6 L3.75 1.2 4.9 0.0 5.15 1.6\" fill=\"#0000ff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M1.6 12.45 L0.5 12.1 3.4 2.9 3.95 2.65 4.1 3.25 4.45 3.15 1.6 12.45\" fill=\"#0066ff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M3.35 2.9 L3.4 2.9 0.5 12.1 0.0 11.4 2.9 2.15 3.35 2.9\" fill=\"#000066\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M4.75 3.05 L5.15 3.4 2.4 12.15 1.6 12.45 4.45 3.15 4.75 3.05\" fill=\"#0033ff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M5.35 2.8 L5.15 3.4 4.75 3.05 4.1 3.25 3.95 2.65 3.35 2.9 2.9 2.15 2.9 2.05 3.75 1.2 5.15 1.6 5.35 2.8\" fill=\"#c7b299\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-Studik_blue-McBody2-shape3\">\n      <path d=\"M-1.45 -9.7 L-1.55 -7.15 Q-6.1 -5.85 -8.45 -6.2 -8.7 -7.35 -8.1 -8.75 L-1.45 -9.7\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-1.45 -9.7 L-1.55 -7.15 Q-6.1 -5.85 -8.45 -6.2 -8.7 -7.35 -8.1 -8.75 L-1.45 -9.7 Z\" fill=\"none\" stroke=\"#7f7f7f\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McHead2": {
+      "width": 19,
+      "height": 6.45,
+      "registrationX": -9.3,
+      "registrationY": -11.95,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 9.3, 11.95)\">\n    <use height=\"6.45\" id=\"clothes-Studik_blue-McHead2-oprava\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -6.2, -11.95)\" width=\"6.45\" href=\"#clothes-Studik_blue-McHead2-sprite0\"></use>\n    <use height=\"4.25\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"4.05\" href=\"#clothes-Studik_blue-McHead2-shape1\"></use>\n    <use height=\"6.45\" id=\"clothes-Studik_blue-McHead2-oprava-2\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -0.55, -11.95)\" width=\"6.45\" href=\"#clothes-Studik_blue-McHead2-sprite0\"></use>\n    <use height=\"4.6\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"4.75\" href=\"#clothes-Studik_blue-McHead2-shape2\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-Studik_blue-McHead2-sprite0\">\n      <use height=\"6.45\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"6.45\" href=\"#clothes-Studik_blue-McHead2-shape0\"></use>\n    </g>\n    <g id=\"clothes-Studik_blue-McHead2-shape0\">\n      <path d=\"M0.5 3.2 Q0.5 2.1 1.3 1.3 2.1 0.5 3.2 0.5 4.35 0.5 5.15 1.3 5.95 2.05 5.95 3.2 5.95 4.35 5.15 5.15 4.35 5.95 3.2 5.95 2.05 5.95 1.3 5.15 0.5 4.35 0.5 3.2 Z\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n    <g id=\"clothes-Studik_blue-McHead2-shape1\">\n      <path d=\"M-5.75 -8.4 L-7.55 -10.25 Q-8.3 -10.8 -8.7 -9.8 -9.15 -8.75 -7.7 -7.2\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n    <g id=\"clothes-Studik_blue-McHead2-shape2\">\n      <path d=\"M5.45 -8.3 L8.3 -10.4 Q9.05 -10.8 9.2 -10.0 9.35 -9.0 7.4 -6.95\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McLeg2": {
+      "width": 11.75,
+      "height": 9.65,
+      "registrationX": -7.55,
+      "registrationY": -0.75,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 7.55, 0.75)\">\n    <use height=\"9.65\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"11.75\" href=\"#clothes-Studik_blue-McLeg2-shape0\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-Studik_blue-McLeg2-shape0\">\n      <path d=\"M-5.8 5.0 L0.65 5.35 Q2.35 5.8 3.45 6.4 2.35 5.8 0.65 5.35 L-5.8 5.0 -3.95 -0.25 3.4 3.7 3.45 6.4 3.7 6.55 3.35 8.4 -3.6 8.0 -7.05 8.3 -7.05 5.2 -5.8 5.0\" fill=\"#0033ff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M3.45 6.4 Q2.35 5.8 0.65 5.35 L-5.8 5.0 -7.05 5.2 -7.05 8.3 -3.6 8.0 3.35 8.4 3.7 6.55 3.45 6.4 3.4 3.7 M-3.95 -0.25 L-5.8 5.0\" fill=\"none\" stroke=\"#000066\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McUpper2": {
+      "width": 18.35,
+      "height": 7.8,
+      "registrationX": -9.65,
+      "registrationY": -2.7,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 9.65, 2.7)\">\n    <use height=\"7.8\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"18.35\" href=\"#clothes-Studik_blue-McUpper2-shape0\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-Studik_blue-McUpper2-shape0\">\n      <path d=\"M-0.15 4.6 Q-3.05 2.15 -6.4 0.6 L-9.15 -0.45 Q-6.8 -1.85 -4.85 -2.2 -3.7 -0.4 -1.85 0.25 L-0.2 0.55 -0.15 4.6 -0.2 0.55 Q1.95 0.5 3.55 -0.55 4.65 -1.25 5.15 -2.1 L8.2 0.6 Q5.85 1.1 2.6 2.9 L-0.15 4.6\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-0.2 0.55 L-1.85 0.25 Q-3.7 -0.4 -4.85 -2.2 -6.8 -1.85 -9.15 -0.45 L-6.4 0.6 Q-3.05 2.15 -0.15 4.6 L-0.2 0.55 Q1.95 0.5 3.55 -0.55 4.65 -1.25 5.15 -2.1 L8.2 0.6 Q5.85 1.1 2.6 2.9 L-0.15 4.6\" fill=\"none\" stroke=\"#7f7f7f\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    }
+  },
+  "rasterSource": false
+}

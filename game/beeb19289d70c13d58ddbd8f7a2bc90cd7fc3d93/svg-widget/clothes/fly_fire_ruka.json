@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "sourceName": "fly_fire_ruka.swf",
+  "sha256": "4c11a20a8311457bae59690c99888209d680322d508d983da4fff18c94bd9719",
+  "parts": {
+    "McArmTop": {
+      "width": 10.1,
+      "height": 10.75,
+      "registrationX": -0.1,
+      "registrationY": -1.05,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.1, 1.05)\">\n    <use height=\"10.75\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"10.1\" href=\"#clothes-fly_fire_ruka-McArmTop-shape0\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-fly_fire_ruka-McArmTop-shape0\">\n      <path d=\"M8.75 5.65 L8.55 5.55 4.9 5.4 Q3.4 5.65 2.1 7.55 2.35 6.45 1.55 6.35 L1.75 6.25 Q3.25 5.45 3.95 4.05 L4.9 0.5 Q6.3 0.35 6.9 1.25 7.4 2.25 7.0 2.85 9.1 3.25 8.75 5.65\" fill=\"#b495d0\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M2.1 7.55 Q3.4 5.65 4.9 5.4 L8.55 5.55 8.75 5.65 Q10.0 6.25 9.1 7.1 L5.35 6.95 Q4.3 7.2 3.15 8.75 2.65 9.45 2.2 9.05 1.85 8.5 2.1 7.55 M4.9 0.5 L3.95 4.05 Q3.25 5.45 1.75 6.25 L1.55 6.35 0.7 6.1 Q0.3 5.7 0.45 5.1 1.95 4.25 2.5 3.25 L3.3 0.0 Q3.85 -0.65 4.25 -0.55 4.8 -0.45 4.9 0.3 L4.9 0.5\" fill=\"#ebd7fc\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M2.1 7.55 Q3.4 5.65 4.9 5.4 L8.55 5.55 8.75 5.65 Q9.1 3.25 7.0 2.85 7.4 2.25 6.9 1.25 6.3 0.35 4.9 0.5 L3.95 4.05 Q3.25 5.45 1.75 6.25 L1.55 6.35 Q2.35 6.45 2.1 7.55 1.85 8.5 2.2 9.05 2.65 9.45 3.15 8.75 4.3 7.2 5.35 6.95 L9.1 7.1 Q10.0 6.25 8.75 5.65 M1.55 6.35 L0.7 6.1 Q0.3 5.7 0.45 5.1 1.95 4.25 2.5 3.25 L3.3 0.0 Q3.85 -0.65 4.25 -0.55 4.8 -0.45 4.9 0.3 L4.9 0.5\" fill=\"none\" stroke=\"#5b367c\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    }
+  },
+  "rasterSource": false
+}

@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "sourceName": "khaki.swf",
+  "sha256": "9a24def58499e24ea9a8ab1acecadfd67fcb6c43397080dbcda37cebc6540bb1",
+  "parts": {
+    "McBody2": {
+      "width": 20.55,
+      "height": 23.4,
+      "registrationX": -10.25,
+      "registrationY": -22.5,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 10.25, 22.5)\">\n    <use height=\"23.4\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"20.55\" href=\"#clothes-khaki-McBody2-shape0\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-khaki-McBody2-shape0\">\n      <path d=\"M-8.45 -7.35 L-7.95 -11.5 Q-7.05 -15.7 -5.6 -19.2 L-4.5 -22.0 -3.0 -22.0 Q-2.9 -20.75 -2.1 -19.4 -1.55 -18.4 0.1 -18.5 1.7 -18.55 2.15 -19.4 3.05 -21.05 3.05 -22.0 L4.55 -22.0 5.7 -19.2 Q7.15 -15.7 8.0 -11.5 L8.55 -7.35 -8.45 -7.35\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-8.45 -7.35 L-7.95 -11.5 Q-7.05 -15.7 -5.6 -19.2 L-4.5 -22.0 -3.0 -22.0 Q-2.9 -20.75 -2.1 -19.4 -1.55 -18.4 0.1 -18.5 1.7 -18.55 2.15 -19.4 3.05 -21.05 3.05 -22.0 L4.55 -22.0 5.7 -19.2 Q7.15 -15.7 8.0 -11.5 L8.55 -7.35\" fill=\"none\" stroke=\"#999999\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n      <path d=\"M8.35 -4.75 Q7.6 -2.25 5.8 -1.05 3.8 0.4 0.05 0.4 -6.85 0.4 -8.25 -4.75 -8.55 -5.75 -8.45 -7.35 L8.55 -7.35 8.35 -4.75\" fill=\"#669933\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-7.2 -4.1 L-5.05 -5.95 Q-3.85 -6.85 -2.9 -5.75 -2.0 -4.8 -3.1 -3.6 -4.15 -2.45 -3.95 -1.2 -3.85 0.1 -4.75 -0.35 L-4.85 -0.4 Q-6.9 -1.75 -7.75 -3.45 L-7.2 -4.1\" fill=\"#dabf2c\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M3.35 -0.05 L0.35 0.3 Q-0.65 -0.45 -1.8 -0.3 -3.1 -0.2 -2.2 -0.7 -1.4 -1.25 -1.05 -2.95 -0.7 -4.75 -0.5 -4.35 L0.5 -2.65 Q1.35 -1.4 2.6 -0.75 L3.35 -0.05\" fill=\"#dabf2c\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M4.25 -6.95 L5.85 -4.95 Q6.6 -3.9 7.6 -3.25 L6.3 -1.55 6.0 -1.75 Q4.85 -2.8 3.55 -2.6 2.25 -2.5 1.7 -3.7 1.15 -4.95 2.3 -6.25 3.45 -7.65 4.25 -6.95\" fill=\"#dabf2c\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-8.45 -7.35 Q-8.55 -5.75 -8.25 -4.75 -6.85 0.4 0.05 0.4 3.8 0.4 5.8 -1.05 7.6 -2.25 8.3 -4.75 8.6 -5.75 8.55 -7.35 L-8.45 -7.35 Z\" fill=\"none\" stroke=\"#003300\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n      <path d=\"M9.5 -9.35 L9.8 -6.05 Q0.45 -2.95 -9.75 -5.75 L-9.6 -9.1 Q0.15 -6.35 9.5 -9.35\" fill=\"#ff9933\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M9.5 -9.35 Q0.15 -6.35 -9.6 -9.1 L-9.75 -5.75 Q0.45 -2.95 9.8 -6.05 L9.5 -9.35 Z\" fill=\"none\" stroke=\"#663333\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n      <path d=\"M-4.5 -8.85 L-5.05 -4.05 -6.95 -4.3 -6.4 -9.1 -4.5 -8.85\" fill=\"#669933\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-4.5 -8.85 L-5.05 -4.05 -6.95 -4.3 -6.4 -9.1 -4.5 -8.85 Z\" fill=\"none\" stroke=\"#003300\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n      <path d=\"M4.7 -9.0 L5.25 -4.2 7.15 -4.45 6.6 -9.25 4.7 -9.0\" fill=\"#669933\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M4.7 -9.0 L5.25 -4.2 7.15 -4.45 6.6 -9.25 4.7 -9.0 Z\" fill=\"none\" stroke=\"#003300\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n      <path d=\"M2.35 -9.1 L2.35 -3.25 -1.85 -3.25 -1.85 -9.1 2.35 -9.1\" fill=\"#ffcc00\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M2.35 -9.1 L2.35 -3.25 -1.85 -3.25 -1.85 -9.1 2.35 -9.1 Z\" fill=\"none\" stroke=\"#cc6600\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McHead2": {
+      "width": 14.35,
+      "height": 7.95,
+      "registrationX": -7.15,
+      "registrationY": -22.1,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 7.15, 22.1)\">\n    <use height=\"7.95\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"14.35\" href=\"#clothes-khaki-McHead2-shape0\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-khaki-McHead2-shape0\">\n      <path d=\"M-6.65 -15.35 Q-6.75 -18.65 -4.7 -20.25 -2.95 -21.6 0.0 -21.6 2.95 -21.6 4.7 -20.25 6.75 -18.65 6.7 -15.35 0.0 -13.9 -6.65 -15.35\" fill=\"#ff0000\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M6.7 -15.35 Q6.75 -18.65 4.7 -20.25 2.95 -21.6 0.0 -21.6 -2.95 -21.6 -4.7 -20.25 -6.75 -18.65 -6.65 -15.35\" fill=\"none\" stroke=\"#840000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n      <path d=\"M-6.65 -15.35 Q0.0 -13.9 6.7 -15.35\" fill=\"none\" stroke=\"#840000\" stroke-linecap=\"round\" stroke-linejoin=\"miter-clip\" stroke-miterlimit=\"4.0\" stroke-width=\"1.0\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McLeg2": {
+      "width": 11.75,
+      "height": 14.65,
+      "registrationX": -7.7,
+      "registrationY": -2,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 7.7, 2.0)\">\n    <use height=\"14.65\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"11.75\" href=\"#clothes-khaki-McLeg2-shape0\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-khaki-McLeg2-shape0\">\n      <path d=\"M-4.2 -1.5 L-4.15 -0.5 Q-4.55 0.8 -6.25 2.4 -7.9 3.95 -5.45 5.3 L-5.9 7.0 Q-6.45 11.25 -1.55 11.3 1.5 11.4 2.55 9.7 3.05 8.9 3.2 6.65 L3.05 0.65 -4.2 -1.5\" fill=\"#669933\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-4.2 -1.5 L-4.15 -0.5 Q-4.55 0.8 -6.25 2.4 -7.9 3.95 -5.45 5.3 L-5.9 7.0 Q-6.45 11.25 -1.55 11.3 1.5 11.4 2.55 9.7 3.05 8.9 3.2 6.65 L3.05 0.65\" fill=\"none\" stroke=\"#003300\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n      <path d=\"M-1.55 3.1 Q-2.45 2.0 -3.65 2.75 -4.7 3.45 -4.0 4.9 -3.3 6.25 -3.8 7.4 -4.2 8.55 -3.25 8.4 L-3.15 8.35 Q-0.9 7.6 0.4 6.2 L0.0 5.45 Q-0.65 4.2 -1.55 3.1\" fill=\"#dabf2c\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-0.5 -1.3 Q-1.5 -0.8 -0.55 1.9 0.4 4.6 1.0 4.1 1.9 3.2 0.95 1.95 0.0 0.75 0.3 -0.5 0.5 -1.75 -0.4 -1.35 L-0.5 -1.3\" fill=\"#dabf2c\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M2.85 10.4 L-6.8 9.9 Q-7.4 8.45 -6.75 7.7 -6.1 6.95 -2.0 7.0 2.0 7.0 2.8 7.5 3.55 7.95 3.55 8.8 3.6 9.65 2.85 10.4\" fill=\"#000000\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M2.85 10.4 Q3.9 11.3 2.8 11.9 -1.9 12.65 -6.85 11.35 -7.6 10.6 -6.8 9.9 L2.85 10.4\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-6.8 9.9 Q-7.6 10.6 -6.85 11.35 -1.9 12.65 2.8 11.9 3.9 11.3 2.85 10.4 L-6.8 9.9 Q-7.4 8.45 -6.75 7.7 -6.1 6.95 -2.0 7.0 2.0 7.0 2.8 7.5 3.55 7.95 3.55 8.8 3.6 9.65 2.85 10.4\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    }
+  },
+  "rasterSource": false
+}

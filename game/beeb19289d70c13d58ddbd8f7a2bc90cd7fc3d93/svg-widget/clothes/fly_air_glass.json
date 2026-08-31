@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "sourceName": "fly_air_glass.swf",
+  "sha256": "3b0229fc360bce9e8e5b0ae31d79f56cec33a502e1277df3815361a9ae244fec",
+  "parts": {
+    "McHead2": {
+      "width": 18.6,
+      "height": 8.75,
+      "registrationX": -9.5,
+      "registrationY": -14.15,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 9.5, 14.15)\">\n    <use height=\"8.75\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"18.6\" href=\"#clothes-fly_air_glass-McHead2-shape0\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-fly_air_glass-McHead2-shape0\">\n      <path d=\"M2.15 -12.4 L2.95 -12.85 5.9 -13.5 7.4 -11.75 5.5 -12.0 3.3 -11.85 5.5 -12.0 7.4 -11.75 5.9 -13.5 6.1 -13.5 7.6 -11.55 5.65 -11.9 3.3 -11.85 3.05 -11.85 0.5 -11.3 -0.1 -11.15 2.15 -12.4 0.5 -11.3 2.15 -12.4 M-6.45 -13.6 L-3.35 -12.8 -0.5 -10.95 -3.6 -11.75 -6.2 -11.95 -8.15 -11.7 -6.45 -13.6\" fill=\"#40bbb6\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M5.9 -13.5 L5.75 -13.65 2.75 -12.8 2.15 -12.4 0.5 -11.3 0.0 -10.95 3.0 -11.8 3.3 -11.85 5.5 -12.0 7.4 -11.75 5.9 -13.5 M-6.45 -13.6 L-8.15 -11.7 -6.2 -11.95 -3.6 -11.75 -0.5 -10.95 -3.35 -12.8 -6.45 -13.6 Z\" fill=\"none\" stroke=\"#156c6a\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n      <path d=\"M-0.2 -10.05 Q1.05 -10.1 4.5 -11.3 L7.6 -11.8 8.6 -9.05 Q7.35 -7.75 4.4 -5.9 L3.0 -6.45 -0.2 -7.0 -3.15 -6.35 Q-4.45 -5.8 -4.8 -5.9 -7.75 -7.75 -9.0 -9.05 L-8.0 -11.8 -4.7 -11.4 -2.0 -10.55 -0.2 -10.05\" fill=\"#ffaa06\" fill-opacity=\"0.54901963\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-0.2 -10.05 Q1.05 -10.1 4.5 -11.3 L7.6 -11.8 8.6 -9.05 Q7.35 -7.75 4.4 -5.9 L3.0 -6.45 -0.2 -7.0 -3.15 -6.35 Q-4.45 -5.8 -4.8 -5.9 -7.75 -7.75 -9.0 -9.05 L-8.0 -11.8 -4.7 -11.4 -2.0 -10.55 -0.2 -10.05 Z\" fill=\"none\" stroke=\"#fa6e1f\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    }
+  },
+  "rasterSource": false
+}

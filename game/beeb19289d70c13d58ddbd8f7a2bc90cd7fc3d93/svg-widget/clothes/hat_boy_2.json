@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "sourceName": "hat_boy_2.swf",
+  "sha256": "d231199f009302e20c4c48b0e2cc1cf2be8e07eebc3b13d0158b5d41ea3ebc2f",
+  "parts": {
+    "McHead2": {
+      "width": 22.35,
+      "height": 29,
+      "registrationX": -11.5,
+      "registrationY": -29.4,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 11.5, 29.4)\">\n    <use height=\"22.6\" id=\"clothes-hat_boy_2-McHead2-mcColor\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -9.95, -23.5)\" width=\"19.2\" href=\"#clothes-hat_boy_2-McHead2-sprite0\"></use>\n    <use height=\"23.6\" id=\"clothes-hat_boy_2-McHead2-mcColor-2\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -9.95, -23.5)\" width=\"20.2\" href=\"#clothes-hat_boy_2-McHead2-sprite1\"></use>\n    <use height=\"14.7\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"22.35\" href=\"#clothes-hat_boy_2-McHead2-shape2\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-hat_boy_2-McHead2-sprite0\">\n      <use height=\"22.6\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"19.2\" href=\"#clothes-hat_boy_2-McHead2-shape0\"></use>\n    </g>\n    <g id=\"clothes-hat_boy_2-McHead2-shape0\">\n      <path d=\"M10.5 0.0 L10.65 0.05 Q15.8 1.05 18.0 6.25 20.1 11.4 18.45 16.35 17.2 20.25 17.7 22.6 15.8 21.8 16.4 18.05 16.0 19.05 14.7 19.95 L15.05 13.25 Q15.1 9.45 13.2 7.25 L10.5 6.6 Q7.1 8.95 5.95 12.15 6.45 18.25 4.7 21.95 L3.7 17.15 Q3.8 20.7 1.6 22.45 1.2 20.35 1.5 15.65 L2.45 10.7 0.25 17.2 Q-0.65 11.95 1.55 6.6 3.65 1.2 8.25 0.35 9.3 0.0 10.5 0.0\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-hat_boy_2-McHead2-sprite1\">\n      <use height=\"23.6\" id=\"clothes-hat_boy_2-McHead2-mcColor-3\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"20.2\" href=\"#clothes-hat_boy_2-McHead2-sprite2\"></use>\n    </g>\n    <g id=\"clothes-hat_boy_2-McHead2-sprite2\">\n      <use height=\"23.6\" id=\"clothes-hat_boy_2-McHead2-mcBorder\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"20.2\" href=\"#clothes-hat_boy_2-McHead2-sprite3\"></use>\n    </g>\n    <g id=\"clothes-hat_boy_2-McHead2-sprite3\">\n      <use height=\"23.6\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"20.2\" href=\"#clothes-hat_boy_2-McHead2-shape1\"></use>\n    </g>\n    <g id=\"clothes-hat_boy_2-McHead2-shape1\">\n      <path d=\"M10.65 0.05 Q15.8 1.05 18.0 6.25 20.1 11.4 18.45 16.35 17.2 20.25 17.7 22.6 15.8 21.8 16.4 18.05 16.0 19.05 14.7 19.95 L15.05 13.25 Q15.1 9.45 13.2 7.25 L10.5 6.6 Q7.1 8.95 5.95 12.15 6.45 18.25 4.7 21.95 L3.7 17.15 Q3.8 20.7 1.6 22.45 1.2 20.35 1.5 15.65 L2.45 10.7 0.25 17.2 Q-0.65 11.95 1.55 6.6 3.65 1.2 8.25 0.35 9.3 0.0 10.5 0.0 L10.65 0.05 M3.7 17.15 Q3.7 16.0 4.05 12.4 M16.55 14.7 L16.7 16.1 16.65 16.4 16.65 16.55 16.4 18.05\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n    </g>\n    <g id=\"clothes-hat_boy_2-McHead2-shape2\">\n      <path d=\"M-2.65 -28.15 L-2.15 -27.85 Q-0.4 -26.45 0.6 -27.5 1.55 -28.55 2.25 -28.8 L4.05 -28.6 Q5.15 -28.2 5.65 -27.15 7.3 -23.0 7.05 -20.55 L4.5 -20.05 Q4.45 -24.35 3.2 -27.25 2.75 -25.65 -0.1 -25.15 L0.35 -19.5 -0.95 -19.4 -2.25 -19.35 -7.9 -19.55 Q-8.05 -25.6 -5.95 -27.4 -4.3 -28.95 -2.7 -28.2 L-2.65 -28.15 M6.95 -19.3 L9.75 -19.6 Q10.55 -19.35 10.25 -18.9 L8.55 -16.5 Q0.0 -14.4 -8.2 -15.75 L-10.65 -17.75 Q-11.35 -18.15 -10.55 -18.55 L-7.6 -18.45 -2.15 -18.1 -0.85 -18.1 Q3.6 -18.2 6.95 -19.3 M8.55 -17.3 L8.55 -19.0 -1.25 -16.9 Q2.9 -15.8 8.55 -17.3\" fill=\"#000000\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-2.7 -28.2 L-2.75 -28.25 -2.65 -28.15 -2.7 -28.2\" fill=\"#333333\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M7.05 -20.55 L6.95 -19.3 Q3.6 -18.2 -0.85 -18.1 L-0.95 -19.4 0.35 -19.5 4.5 -20.05 7.05 -20.55\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M8.55 -17.3 Q2.9 -15.8 -1.25 -16.9 L8.55 -19.0 8.55 -17.3 M4.5 -20.05 L0.35 -19.5 -0.1 -25.15 Q2.75 -25.65 3.2 -27.25 4.45 -24.35 4.5 -20.05\" fill=\"#666666\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-7.6 -18.45 L-7.9 -19.55 -2.25 -19.35 -0.95 -19.4 -0.85 -18.1 -2.15 -18.1 -7.6 -18.45\" fill=\"#999999\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-2.65 -28.15 L-2.15 -27.85 Q-0.4 -26.45 0.6 -27.5 1.55 -28.55 2.25 -28.8 L4.05 -28.6 Q5.15 -28.2 5.65 -27.15 7.3 -23.0 7.05 -20.55 L6.95 -19.3 9.75 -19.6 Q10.55 -19.35 10.25 -18.9 L8.55 -16.5 Q0.0 -14.4 -8.2 -15.75 L-10.65 -17.75 Q-11.35 -18.15 -10.55 -18.55 L-7.6 -18.45 -7.9 -19.55 Q-8.05 -25.6 -5.95 -27.4 -4.3 -28.95 -2.7 -28.2 L-2.65 -28.15 M0.35 -19.5 L4.5 -20.05 7.05 -20.55 M0.35 -19.5 L-0.95 -19.4 -2.25 -19.35 -7.9 -19.55\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [
+        {
+          "id": "clothes-hat_boy_2-McHead2-mcColor",
+          "kind": "multiply",
+          "percent": 100
+        },
+        {
+          "id": "clothes-hat_boy_2-McHead2-mcColor-2",
+          "kind": "multiply",
+          "percent": 100
+        },
+        {
+          "id": "clothes-hat_boy_2-McHead2-mcColor-3",
+          "kind": "multiply",
+          "percent": 100
+        }
+      ],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    }
+  },
+  "rasterSource": false
+}

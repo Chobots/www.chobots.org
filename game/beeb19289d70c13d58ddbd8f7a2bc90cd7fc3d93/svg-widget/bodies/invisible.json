@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sourceName": "invisible.swf",
+  "sha256": "cf618c0957ce5f90be5f85397c8666823843ea49da488eedddd2b7dad47b4cac",
+  "parts": {
+    "McBody2": {
+      "width": 16.5,
+      "height": 26.2,
+      "registrationX": -8.4,
+      "registrationY": -26.15,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 8.4, 26.15)\">\n    <use height=\"26.2\" id=\"body-invisible-McBody2-mcColor\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -8.4, -26.15)\" width=\"16.5\" href=\"#body-invisible-McBody2-sprite0\"></use>\n  </g>\n  <defs>\n    <g id=\"body-invisible-McBody2-sprite0\">\n      <use height=\"26.2\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"16.5\" href=\"#body-invisible-McBody2-shape0\"></use>\n    </g>\n    <g id=\"body-invisible-McBody2-shape0\">\n      <path d=\"M0.7 15.65 Q1.55 12.15 3.05 8.8 L6.45 0.0 10.05 0.0 13.45 8.8 Q14.9 12.15 15.8 15.65 16.85 19.8 16.3 21.65 14.9 26.2 8.25 26.2 1.55 26.2 0.2 21.65 -0.35 19.8 0.7 15.65\" fill=\"#ffffff\" fill-opacity=\"0.0\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [
+        {
+          "id": "body-invisible-McBody2-mcColor",
+          "kind": "multiply",
+          "percent": 100
+        }
+      ],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    }
+  },
+  "rasterSource": false
+}

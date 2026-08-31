@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "sourceName": "costume_holytreeman.swf",
+  "sha256": "07831dd1a0c802274cbaa61b1f9608d7b2b54fc777f885344fb4802a25d5c766",
+  "parts": {
+    "McArmBottom": {
+      "width": 9.45,
+      "height": 9.9,
+      "registrationX": -3.35,
+      "registrationY": 1.8,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 3.35, -1.8)\">\n    <use height=\"9.9\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"9.45\" href=\"#clothes-costume_holytreeman-McArmBottom-shape0\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-costume_holytreeman-McArmBottom-shape0\">\n      <path d=\"M5.1 2.3 L5.45 3.7 Q5.75 4.95 5.4 7.2 4.95 9.7 3.9 10.65 2.8 11.6 1.25 10.85 -0.3 10.05 -0.3 9.3 L-0.3 7.2 -0.3 7.05 -1.05 8.05 Q-2.0 8.45 -2.85 7.55 L-0.4 2.7 Q2.55 3.55 5.1 2.3\" fill=\"#d2fd24\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M5.1 2.3 Q2.55 3.55 -0.4 2.7 L-2.85 7.55 Q-2.0 8.45 -1.05 8.05 L-0.3 7.05 -0.3 7.2 -0.3 9.3 Q-0.3 10.05 1.25 10.85 2.8 11.6 3.9 10.65 4.95 9.7 5.4 7.2 5.75 4.95 5.45 3.7 L5.1 2.3 Z\" fill=\"none\" stroke=\"#94b803\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McArmTop": {
+      "width": 11.6,
+      "height": 13.6,
+      "registrationX": -0.4,
+      "registrationY": -2.1,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.4, 2.1)\">\n    <use height=\"13.6\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"11.6\" href=\"#clothes-costume_holytreeman-McArmTop-shape0\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-costume_holytreeman-McArmTop-shape0\">\n      <path d=\"M0.4 -0.15 L0.1 -1.6 Q5.3 0.85 6.55 3.25 7.75 5.6 7.9 6.7 L9.85 6.2 Q11.15 8.05 10.45 9.7 L7.45 10.7 Q8.45 8.45 6.5 7.2 L5.1 7.5 Q3.15 3.1 0.4 -0.15\" fill=\"#71ad1f\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M7.45 10.7 L7.4 10.75 7.35 10.75 2.65 10.85 Q1.55 9.45 2.2 8.0 L3.15 7.85 3.15 7.8 2.45 5.65 0.6 1.1 0.4 -0.15 Q3.15 3.1 5.1 7.5 L6.5 7.2 Q8.45 8.45 7.45 10.7\" fill=\"#62911a\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M0.1 -1.6 Q5.3 0.85 6.55 3.25 7.75 5.6 7.9 6.7 L9.85 6.2 Q11.15 8.05 10.45 9.7 L7.45 10.7 7.4 10.75 7.35 10.75 2.65 10.85 Q1.55 9.45 2.2 8.0 L3.15 7.85 3.15 7.8 2.45 5.65 0.6 1.1\" fill=\"none\" stroke=\"#3a570f\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McBody2": {
+      "width": 20.9,
+      "height": 26,
+      "registrationX": -10.5,
+      "registrationY": -25.7,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 10.5, 25.7)\">\n    <use height=\"26.0\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"20.9\" href=\"#clothes-costume_holytreeman-McBody2-shape0\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-costume_holytreeman-McBody2-shape0\">\n      <path d=\"M9.7 -8.9 Q10.2 -5.85 9.55 -4.15 8.75 -2.0 5.95 -0.9 3.35 0.15 -1.8 -0.35 -6.55 -0.8 -7.85 -1.8 -9.5 -3.1 -9.85 -5.0 -10.65 -8.85 -7.65 -16.1 L-3.6 -25.2 Q0.05 -17.25 3.5 -25.1 9.1 -12.55 9.7 -8.9\" fill=\"#71ad1f\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M9.7 -8.9 Q10.2 -5.85 9.55 -4.15 8.75 -2.0 5.95 -0.9 3.35 0.15 -1.8 -0.35 -6.55 -0.8 -7.85 -1.8 -9.5 -3.1 -9.85 -5.0 -10.65 -8.85 -7.65 -16.1 L-3.6 -25.2 Q0.05 -17.25 3.5 -25.1 9.1 -12.55 9.7 -8.9 Z\" fill=\"none\" stroke=\"#3a570f\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n      <path d=\"M2.2 -3.2 L-2.5 -3.2 -2.5 -5.65 2.2 -5.65 2.2 -3.2\" fill=\"#663300\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M3.7 -10.75 L3.65 -10.7 3.7 -10.7 8.6 -6.95 -8.7 -6.95 -4.2 -10.7 -4.1 -10.7 -4.2 -10.75 -7.45 -10.75 -2.8 -14.6 -5.85 -14.6 -0.05 -20.4 5.45 -14.6 2.3 -14.6 6.7 -10.75 3.7 -10.75\" fill=\"#3a570f\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McHead2": {
+      "width": 22,
+      "height": 12.6,
+      "registrationX": -11.1,
+      "registrationY": -27.05,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 11.1, 27.05)\">\n    <use height=\"12.6\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"22.0\" href=\"#clothes-costume_holytreeman-McHead2-shape0\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-costume_holytreeman-McHead2-shape0\">\n      <path d=\"M-0.55 -26.55 L-0.1 -26.55 Q4.25 -26.55 7.3 -24.05 10.4 -21.5 10.4 -17.9 L10.4 -17.75 8.0 -16.6 Q6.6 -22.65 -0.55 -26.55 -6.3 -22.55 -6.7 -16.05 -8.65 -16.7 -10.6 -17.75 L-10.6 -17.9 Q-10.6 -21.5 -7.55 -24.05 -4.6 -26.4 -0.55 -26.55\" fill=\"#436712\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-0.55 -26.55 Q6.6 -22.65 8.0 -16.6 2.9 -14.5 -2.2 -15.05 -3.1 -20.95 -0.55 -26.55\" fill=\"#6b9f1c\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-2.2 -15.05 Q-4.45 -15.3 -6.7 -16.05 -6.3 -22.55 -0.55 -26.55 -3.1 -20.95 -2.2 -15.05\" fill=\"#92d926\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M8.0 -16.6 L10.4 -17.75 10.4 -17.9 Q10.4 -21.5 7.3 -24.05 4.25 -26.55 -0.1 -26.55 L-0.55 -26.55 Q-4.6 -26.4 -7.55 -24.05 -10.6 -21.5 -10.6 -17.9 L-10.6 -17.75 Q-8.65 -16.7 -6.7 -16.05 -4.45 -15.3 -2.2 -15.05 2.9 -14.5 8.0 -16.6 Z\" fill=\"none\" stroke=\"#3a570f\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McLeg2": {
+      "width": 12.6,
+      "height": 10.25,
+      "registrationX": -7.65,
+      "registrationY": -1.35,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 7.65, 1.35)\">\n    <use height=\"10.25\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"12.6\" href=\"#clothes-costume_holytreeman-McLeg2-shape0\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-costume_holytreeman-McLeg2-shape0\">\n      <path d=\"M0.3 0.1 L3.85 0.8 3.4 4.9 4.1 4.9 Q4.5 5.55 4.45 6.65 4.4 7.8 3.9 8.4 0.25 6.75 -3.15 6.75 -3.95 5.2 -2.5 3.65 L-0.4 4.05 0.3 0.1\" fill=\"#71ad1f\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M0.3 0.1 L-0.4 4.05 -2.5 3.65 Q-3.95 5.2 -3.15 6.75 L-4.7 6.8 -6.45 6.8 Q-7.15 6.15 -7.15 5.05 -7.15 3.95 -6.45 3.3 L-5.45 3.3 -4.15 -0.85 0.3 0.1\" fill=\"#62911a\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-3.15 6.75 Q0.25 6.75 3.9 8.4 4.4 7.8 4.45 6.65 4.5 5.55 4.1 4.9 L3.4 4.9 3.85 0.8 0.3 0.1 -4.15 -0.85 -5.45 3.3 -6.45 3.3 Q-7.15 3.95 -7.15 5.05 -7.15 6.15 -6.45 6.8 L-4.7 6.8 -3.15 6.75 Z\" fill=\"none\" stroke=\"#3a570f\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    }
+  },
+  "rasterSource": false
+}

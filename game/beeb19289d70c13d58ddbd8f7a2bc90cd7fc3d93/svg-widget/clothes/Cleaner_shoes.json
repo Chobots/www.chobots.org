@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "sourceName": "Cleaner_shoes.swf",
+  "sha256": "ecc06ebd7ce0f08000e6720d958cdf27799ef3b4fe5974d587ae62161902f669",
+  "parts": {
+    "McLeg2": {
+      "width": 11.8,
+      "height": 12.35,
+      "registrationX": -8.4,
+      "registrationY": 3.95,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 8.4, -3.95)\">\n    <use height=\"12.35\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"11.8\" href=\"#clothes-Cleaner_shoes-McLeg2-shape0\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-Cleaner_shoes-McLeg2-shape0\">\n      <path d=\"M2.45 12.9 L2.25 15.65 M0.45 13.15 L0.15 15.75 M-1.5 13.2 L-1.85 15.8 M-3.6 13.15 L-3.95 15.65 M-5.5 12.5 L-5.95 15.25 M-7.2 11.5 L-7.9 14.25\" fill=\"none\" stroke=\"#006264\" stroke-linecap=\"round\" stroke-linejoin=\"bevel\" stroke-width=\"1.0\"></path>\n      <path d=\"M2.75 11.4 L2.75 11.6 2.75 11.7 2.65 12.0 2.3 12.4 2.2 12.4 -2.7 12.7 Q-5.25 12.3 -6.3 11.4 L-6.5 11.25 -6.5 11.2 Q-7.0 10.6 -7.0 9.9 L-6.6 9.15 -6.3 9.5 -6.3 9.55 -6.1 9.7 Q-5.05 10.6 -2.5 11.0 L2.4 10.7 2.5 10.7 2.75 11.4 M-6.65 9.1 L-6.55 8.95 -6.45 8.95 -6.65 9.1\" fill=\"#008e90\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M2.75 11.4 L2.5 10.7 2.4 10.7 -2.5 11.0 Q-5.05 10.6 -6.1 9.7 L-6.3 9.55 -6.3 9.5 -6.6 9.15 -7.0 9.9 Q-7.0 10.6 -6.5 11.2 L-6.5 11.25 -6.3 11.4 Q-5.25 12.3 -2.7 12.7 L2.2 12.4 2.3 12.4 2.65 12.0\" fill=\"none\" stroke=\"#006264\" stroke-linecap=\"round\" stroke-linejoin=\"bevel\" stroke-width=\"1.0\"></path>\n      <path d=\"M2.65 12.0 L2.75 11.7 2.75 11.6 2.75 11.4\" fill=\"none\" stroke=\"#006264\" stroke-linecap=\"round\" stroke-linejoin=\"miter-clip\" stroke-miterlimit=\"4.0\" stroke-width=\"1.0\"></path>\n      <path d=\"M-6.65 9.1 L-6.6 9.15\" fill=\"none\" stroke=\"#006264\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n      <path d=\"M2.6 10.35 Q2.4 9.2 1.55 8.3 0.35 6.9 -1.6 6.65 -3.55 6.45 -5.05 7.5 -6.1 8.25 -6.5 9.35 L-6.55 8.2 Q-6.35 6.5 -4.8 5.35 -3.3 4.3 -1.35 4.5 0.6 4.75 1.8 6.15 3.05 7.55 2.85 9.25 L2.6 10.35\" fill=\"#008e90\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M2.6 10.35 L2.85 9.25 Q3.05 7.55 1.8 6.15 0.6 4.75 -1.35 4.5 -3.3 4.3 -4.8 5.35 -6.35 6.5 -6.55 8.2 L-6.5 9.35 Q-6.1 8.25 -5.05 7.5 -3.55 6.45 -1.6 6.65 0.35 6.9 1.55 8.3 2.4 9.2 2.6 10.35 Z\" fill=\"none\" stroke=\"#006264\" stroke-linecap=\"round\" stroke-linejoin=\"bevel\" stroke-width=\"1.0\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    }
+  },
+  "rasterSource": false
+}

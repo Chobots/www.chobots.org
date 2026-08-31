@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sourceName": "hat_boy_winter_1.swf",
+  "sha256": "fa3356c807374adbe8f616ebf8eee293884f57c772584ce86d7c6988cd31cfb5",
+  "parts": {
+    "McHead2": {
+      "width": 19.05,
+      "height": 23.25,
+      "registrationX": -10.5,
+      "registrationY": -30.9,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 10.5, 30.9)\">\n    <use height=\"18.25\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -0.1, -20.4)\" width=\"17.4\" href=\"#clothes-hat_boy_winter_1-McHead2-shape0\"></use>\n    <use height=\"5.6\" id=\"clothes-hat_boy_winter_1-McHead2-mcColor\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -10.0, -13.75)\" width=\"14.75\" href=\"#clothes-hat_boy_winter_1-McHead2-sprite0\"></use>\n    <use height=\"6.6\" id=\"clothes-hat_boy_winter_1-McHead2-mcBorder\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -10.0, -13.75)\" width=\"15.75\" href=\"#clothes-hat_boy_winter_1-McHead2-sprite1\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-hat_boy_winter_1-McHead2-shape0\">\n      <path d=\"M1.9 -7.05 L2.0 -6.95 3.0 -5.95 3.45 -5.5 Q-1.5 -5.8 -5.85 -4.1 L-5.9 -4.15 -6.6 -5.7 Q-2.75 -7.8 1.9 -7.05 M6.35 -1.65 L7.05 0.35 Q-0.35 0.2 -7.7 1.4 L-7.55 -0.35 Q-0.2 -2.55 6.35 -1.65\" fill=\"#fb3504\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M5.0 -3.8 L5.75 -2.75 6.35 -1.65 Q-0.2 -2.55 -7.55 -0.35 L-7.25 -1.65 Q-6.6 -2.05 -6.0 -2.5 -0.85 -4.65 5.0 -3.8 M7.25 1.95 L7.55 1.9 Q8.6 4.1 7.85 6.1 L6.05 6.45 4.85 6.65 3.25 6.85 0.3 7.15 -2.7 7.25 -5.7 7.25 -7.1 7.2 -7.8 7.15 Q-8.5 5.5 -8.1 2.95 L-7.6 3.0 -6.0 3.05 -3.0 3.05 -0.1 2.9 2.7 2.65 5.6 2.25 7.25 1.95 M-6.7 -7.2 Q-5.75 -11.0 -1.75 -9.65 L0.0 -8.55 Q-3.95 -8.9 -6.7 -7.2 M-2.7 7.25 Q-3.7 4.8 -3.0 3.05 -3.7 4.8 -2.7 7.25 M-5.7 7.25 Q-6.45 5.15 -6.0 3.05 -6.45 5.15 -5.7 7.25 M6.05 6.45 Q6.95 4.35 5.6 2.25 6.95 4.35 6.05 6.45 M3.25 6.85 Q3.85 4.75 2.7 2.65 3.85 4.75 3.25 6.85 M0.3 7.15 Q0.7 5.0 -0.1 2.9 0.7 5.0 0.3 7.15\" fill=\"#43414c\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M3.45 -5.5 L5.0 -3.8 Q-0.85 -4.65 -6.0 -2.5 -5.6 -2.8 -5.5 -3.5 L-5.85 -4.1 Q-1.5 -5.8 3.45 -5.5 M7.05 0.35 L7.25 1.95 5.6 2.25 2.7 2.65 -0.1 2.9 -3.0 3.05 -6.0 3.05 -7.6 3.0 -7.7 1.4 Q-0.35 0.2 7.05 0.35 M-6.6 -5.7 L-6.9 -6.35 -6.7 -7.2 Q-3.95 -8.9 0.0 -8.55 1.2 -7.8 1.9 -7.05 -2.75 -7.8 -6.6 -5.7\" fill=\"#77434f\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M1.9 -7.05 L2.0 -6.95 3.0 -5.95 3.45 -5.5 5.0 -3.8 5.75 -2.75 6.35 -1.65 7.05 0.35 7.25 1.95 7.55 1.9 Q8.6 4.1 7.85 6.1 L6.05 6.45 4.85 6.65 M-7.1 7.2 L-7.8 7.15 Q-8.5 5.5 -8.1 2.95 L-7.6 3.0 -7.7 1.4 -7.55 -0.35 -7.25 -1.65 Q-6.6 -2.05 -6.0 -2.5 -5.6 -2.8 -5.5 -3.5 L-5.85 -4.1 -5.9 -4.15 -6.6 -5.7 -6.9 -6.35 -6.7 -7.2 Q-5.75 -11.0 -1.75 -9.65 L0.0 -8.55 Q1.2 -7.8 1.9 -7.05 M-7.6 3.0 L-6.0 3.05 -3.0 3.05 -0.1 2.9 2.7 2.65 5.6 2.25 7.25 1.95 M2.7 2.65 Q3.85 4.75 3.25 6.85 M5.6 2.25 Q6.95 4.35 6.05 6.45 M-6.0 3.05 Q-6.45 5.15 -5.7 7.25 M-3.0 3.05 Q-3.7 4.8 -2.7 7.25 M-0.1 2.9 Q0.7 5.0 0.3 7.15\" fill=\"none\" stroke=\"#2b2b33\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n    </g>\n    <g id=\"clothes-hat_boy_winter_1-McHead2-sprite0\">\n      <use height=\"5.6\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"14.75\" href=\"#clothes-hat_boy_winter_1-McHead2-shape1\"></use>\n    </g>\n    <g id=\"clothes-hat_boy_winter_1-McHead2-shape1\">\n      <path d=\"M13.15 0.2 L14.75 0.0 Q14.55 2.15 10.6 3.2 L11.35 1.4 Q7.6 2.3 4.35 5.6 4.4 3.5 5.85 1.9 3.9 3.9 0.0 4.35 2.2 2.35 2.8 0.55 L4.2 0.6 7.2 0.6 10.2 0.5 13.15 0.2\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-hat_boy_winter_1-McHead2-sprite1\">\n      <use height=\"6.6\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"15.75\" href=\"#clothes-hat_boy_winter_1-McHead2-shape2\"></use>\n    </g>\n    <g id=\"clothes-hat_boy_winter_1-McHead2-shape2\">\n      <path d=\"M13.15 0.2 L10.2 0.5 7.2 0.6 4.2 0.6 2.8 0.55 Q2.2 2.35 0.0 4.35 3.9 3.9 5.85 1.9 4.4 3.5 4.35 5.6 7.6 2.3 11.35 1.4 L10.6 3.2 Q14.55 2.15 14.75 0.0 L13.15 0.2 Z\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [
+        {
+          "id": "clothes-hat_boy_winter_1-McHead2-mcColor",
+          "kind": "multiply",
+          "percent": 100
+        }
+      ],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    }
+  },
+  "rasterSource": false
+}

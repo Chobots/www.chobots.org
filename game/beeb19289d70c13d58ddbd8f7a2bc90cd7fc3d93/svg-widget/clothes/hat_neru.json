@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "sourceName": "hat_neru.swf",
+  "sha256": "2bf58a89cdb39c5f9b4fc1516c503777ff37253f32ad70df4ddf1ee05bfcf0bc",
+  "parts": {
+    "McHead2": {
+      "width": 18.55,
+      "height": 12.4,
+      "registrationX": -9,
+      "registrationY": -27.1,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 9.0, 27.1)\">\n    <use height=\"12.4\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"18.55\" href=\"#clothes-hat_neru-McHead2-shape0\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-hat_neru-McHead2-shape0\">\n      <path d=\"M4.8 -25.1 L5.25 -23.7 5.4 -22.15 Q5.35 -20.95 0.55 -20.95 L-4.25 -21.2 -3.9 -23.65 Q-3.4 -26.15 -2.45 -26.35 L-0.65 -26.05 0.05 -25.7 0.7 -25.65 Q1.1 -25.7 2.0 -26.15 L3.2 -26.6 Q3.65 -26.6 4.1 -26.2 L4.8 -25.1\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M4.8 -25.1 L5.25 -23.7 5.4 -22.15 Q5.35 -20.95 0.55 -20.95 L-4.25 -21.2 -3.9 -23.65 Q-3.4 -26.15 -2.45 -26.35 L-0.65 -26.05 0.05 -25.7 0.7 -25.65 Q1.1 -25.7 2.0 -26.15 L3.2 -26.6 Q3.65 -26.6 4.1 -26.2 L4.8 -25.1 Z\" fill=\"none\" stroke=\"#999999\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n      <path d=\"M9.05 -23.0 Q8.95 -18.85 8.4 -15.75 4.1 -16.7 0.25 -15.25 -0.6 -18.75 -0.85 -22.35 3.7 -24.2 9.05 -23.0\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M9.05 -23.0 Q3.7 -24.2 -0.85 -22.35 -0.6 -18.75 0.25 -15.25 4.1 -16.7 8.4 -15.75 8.95 -18.85 9.05 -23.0 Z\" fill=\"none\" stroke=\"#999999\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n      <path d=\"M0.3 -15.2 Q-3.55 -16.65 -7.85 -15.7 -8.4 -18.7 -8.5 -23.0 -6.25 -23.75 -3.85 -23.75 -1.1 -23.8 1.05 -22.9 0.85 -17.55 0.3 -15.2\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M0.3 -15.2 Q-3.55 -16.65 -7.85 -15.7 -8.4 -18.7 -8.5 -23.0 -6.25 -23.75 -3.85 -23.75 -1.1 -23.8 1.05 -22.9 0.85 -17.55 0.3 -15.2 Z\" fill=\"none\" stroke=\"#999999\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    }
+  },
+  "rasterSource": false
+}

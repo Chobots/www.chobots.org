@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sourceName": "vintage_girl_3.swf",
+  "sha256": "118d5b31515c59e86d581c9d22728bac16d1a4931190c6372722e10d5b02d6c6",
+  "parts": {
+    "McBody2": {
+      "width": 16.2,
+      "height": 14.3,
+      "registrationX": -8.5,
+      "registrationY": -22.1,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 8.5, 22.1)\">\n    <use height=\"11.95\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"16.2\" href=\"#clothes-vintage_girl_3-McBody2-shape0\"></use>\n    <use height=\"9.7\" id=\"clothes-vintage_girl_3-McBody2-mcColor\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -0.25, -17.0)\" width=\"15.4\" href=\"#clothes-vintage_girl_3-McBody2-sprite0\"></use>\n    <use height=\"10.1\" id=\"clothes-vintage_girl_3-McBody2-mcBorder\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -0.25, -17.05)\" width=\"15.9\" href=\"#clothes-vintage_girl_3-McBody2-sprite1\"></use>\n    <use height=\"0.35\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"0.1\" href=\"#clothes-vintage_girl_3-McBody2-shape3\"></use>\n    <use height=\"8.9\" id=\"clothes-vintage_girl_3-McBody2-mcColor-2\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -0.1, -12.75)\" width=\"8.25\" href=\"#clothes-vintage_girl_3-McBody2-sprite2\"></use>\n    <use height=\"9.9\" id=\"clothes-vintage_girl_3-McBody2-mcBorder-2\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -0.1, -12.75)\" width=\"9.25\" href=\"#clothes-vintage_girl_3-McBody2-sprite3\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-vintage_girl_3-McBody2-shape0\">\n      <path d=\"M7.2 -12.4 L7.15 -11.0 Q-0.1 -9.2 -8.0 -11.2 L-7.7 -12.6 Q-7.5 -14.8 -6.7 -16.9 -5.9 -19.1 -4.55 -20.95 L-4.1 -21.6 -3.45 -20.3 Q-0.3 -17.95 3.25 -20.45 L3.4 -21.5 3.25 -20.35 Q2.6 -18.7 -0.35 -17.0 -2.15 -17.8 -3.45 -20.2 L-4.1 -21.5 -4.55 -20.85 Q-5.9 -19.0 -6.7 -16.8 -7.5 -14.7 -7.7 -12.5 -3.8 -13.2 -0.5 -15.25 2.05 -13.4 7.2 -12.4\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-7.7 -12.6 L-8.0 -11.2 Q-0.1 -9.2 7.15 -11.0 L7.2 -12.4 M3.25 -20.45 Q-0.3 -17.95 -3.45 -20.3\" fill=\"none\" stroke=\"#ffccff\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n    </g>\n    <g id=\"clothes-vintage_girl_3-McBody2-sprite0\">\n      <use height=\"9.7\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"15.4\" href=\"#clothes-vintage_girl_3-McBody2-shape1\"></use>\n    </g>\n    <g id=\"clothes-vintage_girl_3-McBody2-shape1\">\n      <path d=\"M7.45 4.6 Q2.3 3.6 -0.25 1.75 -3.55 3.8 -7.45 4.5 -7.25 2.3 -6.45 0.2 -5.65 -2.0 -4.3 -3.85 L-3.85 -4.5 -3.2 -3.2 Q-1.9 -0.8 -0.1 0.0 2.85 -1.7 3.5 -3.35 L3.65 -4.5 3.65 -4.6 4.25 -3.9 Q5.8 -2.0 6.6 0.3 7.3 2.4 7.45 4.5 L7.45 4.6\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M7.45 4.6 L7.45 4.5\" fill=\"none\" stroke=\"#ffccff\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n    </g>\n    <g id=\"clothes-vintage_girl_3-McBody2-sprite1\">\n      <use height=\"10.1\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"15.9\" href=\"#clothes-vintage_girl_3-McBody2-shape2\"></use>\n    </g>\n    <g id=\"clothes-vintage_girl_3-McBody2-shape2\">\n      <path d=\"M3.65 -4.55 L3.5 -3.4 Q2.85 -1.75 -0.1 -0.05 -1.9 -0.85 -3.2 -3.25 L-3.85 -4.55 -4.3 -3.9 Q-5.65 -2.05 -6.45 0.15 -7.25 2.25 -7.45 4.45 -3.55 3.75 -0.25 1.7 2.3 3.55 7.45 4.55 7.3 2.45 6.6 0.35 5.8 -1.95 4.25 -3.85 L3.65 -4.55 Z\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n    </g>\n    <g id=\"clothes-vintage_girl_3-McBody2-shape3\">\n      <path d=\"M-1.5 -10.5 L-1.5 -10.85 -1.4 -10.85 -1.4 -10.8 -1.5 -10.5\" fill=\"#66cc00\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-vintage_girl_3-McBody2-sprite2\">\n      <use height=\"8.9\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"8.25\" href=\"#clothes-vintage_girl_3-McBody2-shape4\"></use>\n    </g>\n    <g id=\"clothes-vintage_girl_3-McBody2-shape4\">\n      <path d=\"M2.7 -1.55 Q3.95 0.45 4.1 3.65 2.55 3.25 1.75 1.7 1.7 0.5 0.95 -1.0 L-1.15 -0.85 Q-1.6 0.8 -1.4 2.25 -1.95 3.7 -3.65 4.45 -4.6 1.25 -3.65 -0.95 -2.45 -2.55 -1.25 -2.8 -1.3 -3.45 -1.8 -4.05 -0.25 -4.85 1.25 -4.05 0.9 -3.45 0.85 -2.8 1.65 -2.65 2.7 -1.55\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-vintage_girl_3-McBody2-sprite3\">\n      <use height=\"9.9\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"9.25\" href=\"#clothes-vintage_girl_3-McBody2-shape5\"></use>\n    </g>\n    <g id=\"clothes-vintage_girl_3-McBody2-shape5\">\n      <path d=\"M0.85 -2.8 Q1.65 -2.65 2.7 -1.55 3.95 0.45 4.1 3.65 2.55 3.25 1.75 1.7 1.7 0.5 0.95 -1.0 L-1.15 -0.85 Q-1.6 0.8 -1.4 2.25 -1.95 3.7 -3.65 4.45 -4.6 1.25 -3.65 -0.95 -2.45 -2.55 -1.25 -2.8 -1.3 -3.45 -1.8 -4.05 -0.25 -4.85 1.25 -4.05 0.9 -3.45 0.85 -2.8 0.75 -2.0 1.25 -1.15 L0.95 -1.0 M-1.15 -0.85 L-1.8 -1.15 Q-1.2 -2.05 -1.25 -2.8\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [
+        {
+          "id": "clothes-vintage_girl_3-McBody2-mcColor",
+          "kind": "multiply",
+          "percent": 100
+        },
+        {
+          "id": "clothes-vintage_girl_3-McBody2-mcColor-2",
+          "kind": "multiply",
+          "percent": 100
+        }
+      ],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    }
+  },
+  "rasterSource": false
+}

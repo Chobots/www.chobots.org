@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "sourceName": "coins1.swf",
+  "sha256": "eb7b26b47b537a217742115a94842d7f1262967020e2400f1d45a14a6bbd80b8",
+  "parts": {
+    "McArmBottom": {
+      "width": 3.65,
+      "height": 8.5,
+      "registrationX": 6.55,
+      "registrationY": 1.2,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, -6.55, -1.2)\">\n    <use height=\"8.5\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"3.65\" href=\"#clothes-coins1-McArmBottom-shape0\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-coins1-McArmBottom-shape0\">\n      <path d=\"M10.15 7.95 Q9.8 9.7 8.4 9.7 7.05 9.7 6.7 6.95 6.5 5.55 6.6 4.1 6.6 0.85 8.4 1.25 10.2 1.7 10.2 5.75 L10.15 7.95\" fill=\"#990000\" fill-opacity=\"0.6\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McArmTop": {
+      "width": 10.05,
+      "height": 12.1,
+      "registrationX": 4.6,
+      "registrationY": -1.8,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, -4.6, 1.8)\">\n    <use height=\"12.1\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"10.05\" href=\"#clothes-coins1-McArmTop-shape0\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-coins1-McArmTop-shape0\">\n      <path d=\"M14.25 9.6 Q13.75 10.3 12.95 10.3 11.55 10.3 7.95 5.4 L4.6 0.45 Q4.6 -4.55 9.65 1.5 L14.65 8.6 Q14.65 9.05 14.25 9.6\" fill=\"#990000\" fill-opacity=\"0.6\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McBody2": {
+      "width": 11.75,
+      "height": 7.4,
+      "registrationX": -5.45,
+      "registrationY": -12.95,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 5.45, 12.95)\">\n    <use height=\"7.4\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"11.75\" href=\"#clothes-coins1-McBody2-shape0\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-coins1-McBody2-shape0\">\n      <path d=\"M6.3 -9.45 Q6.3 -8.95 4.65 -7.25 2.95 -5.55 2.3 -5.55 1.2 -5.55 1.2 -6.6 L2.75 -8.55 2.25 -8.55 -5.0 -9.05 Q-5.45 -9.2 -5.45 -9.9 -5.45 -10.6 -4.75 -10.85 -3.6 -11.25 -0.2 -10.8 L2.85 -10.8 Q2.55 -11.4 2.55 -11.75 2.55 -13.85 4.3 -12.35 L5.7 -10.8 Q6.3 -10.8 6.3 -9.45\" fill=\"#990000\" fill-opacity=\"0.6\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McHead2": {
+      "width": 35.6,
+      "height": 16.45,
+      "registrationX": -17.15,
+      "registrationY": -22.75,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 17.15, 22.75)\">\n    <use height=\"16.45\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"35.6\" href=\"#clothes-coins1-McHead2-shape0\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-coins1-McHead2-shape0\">\n      <path d=\"M11.4 -20.4 Q7.6 -20.4 7.55 -19.0 L7.55 -18.05 Q7.45 -17.6 6.6 -17.6 5.8 -17.6 5.6 -18.3 L5.55 -18.95 Q5.55 -22.05 8.8 -22.65 12.5 -23.35 16.1 -18.05 16.75 -16.85 17.65 -13.25 L18.45 -9.35 18.2 -7.45 Q17.25 -6.3 13.2 -6.3 8.65 -6.3 6.55 -8.6 5.25 -10.0 5.25 -11.15 5.25 -12.65 6.3 -12.65 7.05 -12.65 7.3 -12.0 L7.75 -10.6 Q8.7 -8.55 13.25 -8.55 15.8 -8.55 16.25 -8.95 L16.25 -9.5 Q15.8 -12.25 14.95 -14.95 13.3 -20.4 11.4 -20.4 M-6.3 -16.5 L-9.0 -16.65 Q-11.65 -16.65 -13.2 -15.6 -15.0 -14.45 -15.0 -12.1 L-15.0 -11.5 -14.6 -11.1 Q-10.7 -11.1 -9.15 -12.4 L-7.45 -13.7 Q-6.8 -13.7 -6.5 -13.2 L-6.3 -12.65 Q-6.3 -11.45 -7.6 -10.4 -9.45 -8.9 -13.25 -8.9 -16.2 -8.9 -16.95 -10.3 -17.15 -10.7 -17.15 -12.05 -17.15 -17.75 -11.45 -18.75 -9.4 -19.15 -7.55 -18.7 -5.75 -18.25 -5.75 -17.55 -5.75 -16.55 -6.3 -16.5\" fill=\"#990000\" fill-opacity=\"0.6\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McLeg2": {
+      "width": 14,
+      "height": 10.75,
+      "registrationX": -10.2,
+      "registrationY": 5.15,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 10.2, -5.15)\">\n    <use height=\"10.75\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"14.0\" href=\"#clothes-coins1-McLeg2-shape0\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-coins1-McLeg2-shape0\">\n      <path d=\"M1.15 14.0 Q-1.7 15.9 -3.05 15.9 -4.05 15.9 -5.45 13.95 L-7.05 11.25 -8.75 9.05 Q-10.2 7.25 -10.2 6.65 -10.2 4.15 -8.55 5.85 -7.7 6.75 -6.35 8.7 -5.5 9.55 -2.6 13.5 -1.75 13.5 -0.15 12.0 1.45 10.5 2.65 10.5 3.8 10.5 3.8 11.6 3.8 12.15 1.15 14.0\" fill=\"#990000\" fill-opacity=\"0.6\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McUpper2": {
+      "width": 45.1,
+      "height": 11.4,
+      "registrationX": -19.6,
+      "registrationY": -9.65,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 19.6, 9.65)\">\n    <use height=\"11.4\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"45.1\" href=\"#clothes-coins1-McUpper2-shape0\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-coins1-McUpper2-shape0\">\n      <path d=\"M14.9 -5.1 L23.4 -7.6 Q24.75 -7.6 25.25 -6.55 L25.5 -5.4 Q25.5 -3.95 17.1 -1.15 8.45 1.75 3.15 1.75 -2.0 1.75 -11.0 -2.2 -19.6 -5.95 -19.6 -7.55 -19.6 -10.45 -16.15 -9.35 L-9.85 -6.35 Q-9.0 -5.85 -3.8 -4.2 1.7 -2.5 3.05 -2.5 L14.9 -5.1\" fill=\"#0000ff\" fill-opacity=\"0.5019608\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    }
+  },
+  "rasterSource": false
+}

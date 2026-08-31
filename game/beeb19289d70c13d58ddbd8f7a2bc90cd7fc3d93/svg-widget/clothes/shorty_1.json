@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "sourceName": "shorty_1.swf",
+  "sha256": "f98c2c369e84edb304069fb1854ce69c235daee66fa245e48503728a51c63c7d",
+  "parts": {
+    "McBody2": {
+      "width": 18.95,
+      "height": 9.9,
+      "registrationX": -9.8,
+      "registrationY": -9.55,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 9.8, 9.55)\">\n    <use height=\"8.9\" id=\"clothes-shorty_1-McBody2-mcColor\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -9.3, -9.05)\" width=\"17.95\" href=\"#clothes-shorty_1-McBody2-sprite0\"></use>\n    <use height=\"3.1\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"17.3\" href=\"#clothes-shorty_1-McBody2-shape1\"></use>\n    <use height=\"9.9\" id=\"clothes-shorty_1-McBody2-mcBorder\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -9.3, -9.05)\" width=\"18.95\" href=\"#clothes-shorty_1-McBody2-sprite1\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-shorty_1-McBody2-sprite0\">\n      <use height=\"8.9\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"17.95\" href=\"#clothes-shorty_1-McBody2-shape0\"></use>\n    </g>\n    <g id=\"clothes-shorty_1-McBody2-shape0\">\n      <path d=\"M13.8 8.15 Q11.1 9.2 7.1 8.75 3.65 8.35 2.25 7.35 1.45 6.8 0.9 5.6 -0.05 3.8 0.0 1.35 L3.05 1.9 Q4.2 1.75 5.3 0.75 7.75 1.35 8.4 2.3 L12.45 0.0 Q14.15 1.95 15.2 1.85 L17.9 1.35 Q18.25 6.45 13.8 8.15\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-shorty_1-McBody2-shape1\">\n      <path d=\"M4.7 -4.4 L4.7 -5.65 Q6.35 -5.3 8.05 -6.0 L8.05 -4.75 Q6.15 -4.1 4.7 -4.4 M2.25 -5.55 L2.25 -4.3 Q-0.3 -3.5 -2.2 -4.25 L-2.2 -5.5 Q0.75 -4.95 2.25 -5.55 M-5.3 -4.45 Q-7.6 -4.05 -8.25 -4.75 L-8.25 -6.0 -5.3 -5.7 -5.3 -4.45\" fill=\"#663300\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M4.7 -4.4 Q6.15 -4.1 8.05 -4.75 L8.05 -6.0 Q6.35 -5.3 4.7 -5.65 M2.25 -5.55 Q0.75 -4.95 -2.2 -5.5 M-2.2 -4.25 Q-0.3 -3.5 2.25 -4.3 M-5.3 -4.45 Q-7.6 -4.05 -8.25 -4.75 L-8.25 -6.0 -5.3 -5.7\" fill=\"none\" stroke=\"#542b01\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n    </g>\n    <g id=\"clothes-shorty_1-McBody2-sprite1\">\n      <use height=\"9.9\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"18.95\" href=\"#clothes-shorty_1-McBody2-shape2\"></use>\n    </g>\n    <g id=\"clothes-shorty_1-McBody2-shape2\">\n      <path d=\"M13.8 8.15 Q11.1 9.2 7.1 8.75 3.65 8.35 2.25 7.35 1.45 6.8 0.9 5.6 -0.05 3.8 0.0 1.35 L3.05 1.9 Q4.2 1.75 5.3 0.75 7.75 1.35 8.4 2.3 L12.45 0.0 Q14.15 1.95 15.2 1.85 L17.9 1.35 Q18.25 6.45 13.8 8.15 Z\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [
+        {
+          "id": "clothes-shorty_1-McBody2-mcColor",
+          "kind": "multiply",
+          "percent": 100
+        }
+      ],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McLeg2": {
+      "width": 10.9,
+      "height": 8.6,
+      "registrationX": -6.35,
+      "registrationY": -0.55,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 6.35, 0.55)\">\n    <use height=\"7.6\" id=\"clothes-shorty_1-McLeg2-mcColor\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -5.85, -0.05)\" width=\"9.9\" href=\"#clothes-shorty_1-McLeg2-sprite0\"></use>\n    <use height=\"8.6\" id=\"clothes-shorty_1-McLeg2-mcBorder\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -5.85, -0.05)\" width=\"10.9\" href=\"#clothes-shorty_1-McLeg2-sprite1\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-shorty_1-McLeg2-sprite0\">\n      <use height=\"7.6\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"9.9\" href=\"#clothes-shorty_1-McLeg2-shape0\"></use>\n    </g>\n    <g id=\"clothes-shorty_1-McLeg2-shape0\">\n      <path d=\"M1.4 0.0 L9.9 1.75 Q9.35 3.55 9.45 5.95 L9.5 7.6 Q7.4 6.1 7.2 5.15 6.75 6.35 5.45 6.75 3.15 5.65 3.3 4.25 2.6 5.15 0.0 6.15 -0.1 4.85 0.25 3.2 0.65 1.35 1.4 0.0\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-shorty_1-McLeg2-sprite1\">\n      <use height=\"8.6\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"10.9\" href=\"#clothes-shorty_1-McLeg2-shape1\"></use>\n    </g>\n    <g id=\"clothes-shorty_1-McLeg2-shape1\">\n      <path d=\"M9.5 7.6 L9.45 5.95 Q9.35 3.55 9.9 1.75 L1.4 0.0 Q0.65 1.35 0.25 3.2 -0.1 4.85 0.0 6.15\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n      <path d=\"M0.0 6.15 Q2.6 5.15 3.3 4.25 3.15 5.65 5.45 6.75 6.75 6.35 7.2 5.15 7.4 6.1 9.5 7.6\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [
+        {
+          "id": "clothes-shorty_1-McLeg2-mcColor",
+          "kind": "multiply",
+          "percent": 100
+        }
+      ],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    }
+  },
+  "rasterSource": false
+}

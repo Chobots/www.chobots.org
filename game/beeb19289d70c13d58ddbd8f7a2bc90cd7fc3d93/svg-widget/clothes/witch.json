@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "sourceName": "witch.swf",
+  "sha256": "fc504143bb47eed25f2579ede79c6b9903d9a10248cac5025f4fd8fa48250e03",
+  "parts": {
+    "McArmBottom": {
+      "width": 11.2,
+      "height": 12.4,
+      "registrationX": -0.45,
+      "registrationY": -3.3,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.45, 3.3)\">\n    <use height=\"12.4\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"11.2\" href=\"#clothes-witch-McArmBottom-shape0\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-witch-McArmBottom-shape0\">\n      <path d=\"M0.05 -0.7 L3.0 -2.8 4.5 0.05 Q5.15 1.45 6.65 2.3 8.4 3.25 9.35 4.7 8.45 4.0 7.3 4.15 L5.85 4.35 8.4 6.3 Q10.05 7.65 10.25 8.6 8.25 6.9 6.25 6.35 L4.05 6.05 0.3 6.25 0.3 4.7 0.3 1.95 0.05 -0.7\" fill=\"#333333\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M0.05 -0.7 L0.3 1.95 0.3 4.7 0.3 6.25 M4.5 0.05 L3.0 -2.8\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n      <path d=\"M0.3 6.25 L4.05 6.05 6.25 6.35 Q8.25 6.9 10.25 8.6 10.05 7.65 8.4 6.3 L5.85 4.35 7.3 4.15 Q8.45 4.0 9.35 4.7 8.4 3.25 6.65 2.3 5.15 1.45 4.5 0.05\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McArmTop": {
+      "width": 9.1,
+      "height": 13.05,
+      "registrationX": -0.75,
+      "registrationY": -1.55,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.75, 1.55)\">\n    <use height=\"13.05\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"9.1\" href=\"#clothes-witch-McArmTop-shape0\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-witch-McArmTop-shape0\">\n      <path d=\"M0.35 1.4 L0.3 1.3 -0.25 -1.05 Q0.9 -0.35 2.35 0.95 5.55 3.9 7.5 8.0 7.85 8.4 7.85 9.15 7.85 9.9 7.35 10.45 6.8 11.05 6.0 11.0 5.25 11.0 4.6 10.4 L4.2 9.7 4.15 9.7 Q2.35 4.2 0.35 1.4\" fill=\"#333333\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-0.25 -1.05 Q0.9 -0.35 2.35 0.95 5.55 3.9 7.5 8.0 7.85 8.4 7.85 9.15 7.85 9.9 7.35 10.45 6.8 11.05 6.0 11.0 5.25 11.0 4.6 10.4 L4.2 9.7 M4.15 9.7 Q2.35 4.2 0.35 1.4\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McBody2": {
+      "width": 45.65,
+      "height": 39.1,
+      "registrationX": -27.75,
+      "registrationY": -33.5,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 27.75, 33.5)\">\n    <use height=\"39.1\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"45.65\" href=\"#clothes-witch-McBody2-shape0\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-witch-McBody2-shape0\">\n      <path d=\"M-9.45 -18.8 L17.4 1.95 16.6 2.95 -10.25 -17.8 -9.45 -18.8\" fill=\"#a85400\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-9.45 -18.8 L17.4 1.95 16.6 2.95 -10.25 -17.8 -9.45 -18.8 Z\" fill=\"none\" stroke=\"#592d00\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n      <path d=\"M-5.05 -18.2 L-9.35 -19.9 -21.8 -33.0 M-7.4 -14.65 L-10.55 -18.45 M-6.4 -15.55 L-10.15 -19.0 -27.0 -31.4 M-8.45 -13.9 L-10.9 -18.1 M-5.5 -17.0 L-9.85 -19.55 -24.85 -32.85 M-27.25 -28.95 L-11.0 -18.6 M-26.95 -26.45 L-11.1 -17.9\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n      <path d=\"M-9.3 -21.2 L-8.2 -19.85 -9.65 -18.6 -10.55 -16.85 Q-11.35 -16.9 -11.8 -17.25 -12.25 -17.55 -12.5 -18.25 -10.6 -19.6 -10.15 -21.25 L-9.3 -21.2\" fill=\"#999999\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-9.3 -21.2 L-10.15 -21.25 Q-10.6 -19.6 -12.5 -18.25 -12.25 -17.55 -11.8 -17.25 -11.35 -16.9 -10.55 -16.85 L-9.65 -18.6 -8.2 -19.85 -9.3 -21.2 Z\" fill=\"none\" stroke=\"#333333\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n      <path d=\"M8.75 -5.4 Q9.9 -1.2 13.0 2.75 L10.5 2.15 Q9.15 1.7 8.5 0.5 8.9 2.3 8.1 4.1 6.5 3.35 5.7 1.45 5.85 3.15 4.45 4.9 2.15 3.15 1.95 1.45 1.95 3.25 0.7 5.1 -1.2 3.75 -1.15 1.95 -1.3 3.75 -3.1 5.1 -4.8 4.25 -4.8 2.15 -5.45 4.15 -7.4 4.5 -8.55 2.5 -7.8 0.5 -8.6 1.5 -9.95 2.15 L-12.3 3.0 Q-10.6 0.45 -9.45 -3.6 -8.9 -5.5 -7.85 -10.85 -7.05 -14.2 -5.4 -17.8 L-3.15 -23.35 Q-0.25 -21.0 0.15 -17.55 0.9 -21.0 3.45 -23.0 L6.95 -14.2 Q7.75 -12.15 7.9 -10.65 8.3 -7.0 8.75 -5.4\" fill=\"#333333\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M8.75 -5.4 Q9.9 -1.2 13.0 2.75 L10.5 2.15 Q9.15 1.7 8.5 0.5 8.9 2.3 8.1 4.1 6.5 3.35 5.7 1.45 5.85 3.15 4.45 4.9 2.15 3.15 1.95 1.45 1.95 3.25 0.7 5.1 -1.2 3.75 -1.15 1.95 -1.3 3.75 -3.1 5.1 -4.8 4.25 -4.8 2.15 -5.45 4.15 -7.4 4.5 -8.55 2.5 -7.8 0.5 -8.6 1.5 -9.95 2.15 L-12.3 3.0 Q-10.6 0.45 -9.45 -3.6 -8.9 -5.5 -7.85 -10.85 -7.05 -14.2 -5.4 -17.8 L-3.15 -23.35 Q-0.25 -21.0 0.15 -17.55 0.9 -21.0 3.45 -23.0 L6.95 -14.2 Q7.75 -12.15 7.9 -10.65 8.3 -7.0 8.75 -5.4 Z\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n      <path d=\"M-2.15 -16.95 L0.5 -16.05 -1.4 -11.65 -3.35 -12.35 -2.15 -16.95\" fill=\"#d76b00\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-2.15 -16.95 L0.5 -16.05 -1.4 -11.65 -3.35 -12.35 -2.15 -16.95 Z\" fill=\"none\" stroke=\"#663300\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n      <path d=\"M-10.3 0.85 L-10.35 0.8 Q-11.3 -1.0 -10.65 -3.0 L-10.45 -3.4 Q-9.75 -5.1 -8.15 -6.05 -6.75 -6.7 -5.35 -6.6 L-3.7 -11.45 -4.75 -11.8 -4.0 -14.05 0.4 -12.6 -0.4 -10.4 -1.3 -10.65 -3.0 -5.75 Q-1.85 -5.05 -1.2 -3.8 -0.7 -2.75 -0.55 -1.6 L-0.85 0.25 -1.1 0.85 Q-3.05 1.7 -4.45 0.85 -6.0 1.45 -7.35 0.85 -8.8 1.55 -10.3 0.85\" fill=\"#cee1ff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-1.1 0.85 Q-1.8 2.4 -3.45 3.15 -5.3 4.15 -7.4 3.45 -9.35 2.7 -10.3 0.85 -8.8 1.55 -7.35 0.85 -6.0 1.45 -4.45 0.85 -3.05 1.7 -1.1 0.85\" fill=\"#66ff00\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-10.3 0.85 Q-8.8 1.55 -7.35 0.85 -6.0 1.45 -4.45 0.85 -3.05 1.7 -1.1 0.85\" fill=\"none\" stroke=\"#669900\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n      <path d=\"M-1.3 -10.65 L-3.0 -5.75 Q-1.85 -5.05 -1.2 -3.8 -0.7 -2.75 -0.55 -1.6 L-0.85 0.25 -1.1 0.85 Q-1.8 2.4 -3.45 3.15 -5.3 4.15 -7.4 3.45 -9.35 2.7 -10.3 0.85 L-10.35 0.8 Q-11.3 -1.0 -10.65 -3.0 L-10.45 -3.4 Q-9.75 -5.1 -8.15 -6.05 -6.75 -6.7 -5.35 -6.6 L-3.7 -11.45 -4.75 -11.8 -4.0 -14.05 0.4 -12.6 -0.4 -10.4 -1.3 -10.65 -3.7 -11.45\" fill=\"none\" stroke=\"#6b91c9\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n      <path d=\"M8.75 -7.9 L9.05 -6.75 9.3 -5.85 -0.35 -5.1 -9.8 -5.85 -9.5 -6.85 Q-9.2 -7.25 -9.1 -7.95 L-0.25 -7.4 8.75 -7.9\" fill=\"#ff9933\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M8.75 -7.9 L-0.25 -7.4 -9.1 -7.95 Q-9.2 -7.25 -9.5 -6.85 L-9.8 -5.85 -0.35 -5.1 9.3 -5.85 9.05 -6.75 8.75 -7.9 Z\" fill=\"none\" stroke=\"#974b00\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n      <path d=\"M5.75 -4.85 L2.3 -4.6 2.1 -8.2 5.45 -8.45 5.75 -4.85 Z\" fill=\"none\" stroke=\"#ffcc00\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McHead2": {
+      "width": 41.5,
+      "height": 28,
+      "registrationX": -20.35,
+      "registrationY": -43.85,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 20.35, 43.85)\">\n    <use height=\"28.0\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"41.5\" href=\"#clothes-witch-McHead2-shape0\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-witch-McHead2-shape0\">\n      <path d=\"M0.6 -16.45 L-13.6 -17.35 -18.2 -17.55 Q-19.85 -17.5 -19.85 -17.95 -19.85 -18.65 -18.2 -19.45 -16.35 -20.3 -13.6 -20.75 L0.6 -22.05 8.3 -21.5 14.75 -20.55 19.2 -20.35 Q20.65 -20.4 20.65 -19.95 20.65 -19.2 19.2 -18.25 17.45 -17.15 14.75 -16.75 L8.3 -16.35 0.6 -16.45\" fill=\"#333333\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M0.6 -16.45 L-13.6 -17.35 -18.2 -17.55 Q-19.85 -17.5 -19.85 -17.95 -19.85 -18.65 -18.2 -19.45 -16.35 -20.3 -13.6 -20.75 L0.6 -22.05 8.3 -21.5 14.75 -20.55 19.2 -20.35 Q20.65 -20.4 20.65 -19.95 20.65 -19.2 19.2 -18.25 17.45 -17.15 14.75 -16.75 L8.3 -16.35 0.6 -16.45 Z\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n      <path d=\"M4.15 -37.05 Q4.05 -32.95 4.9 -28.15 L5.95 -23.45 Q-0.3 -22.3 -5.75 -23.45 L-4.4 -28.8 -1.15 -38.35 2.45 -41.35 Q4.35 -42.65 6.55 -43.35 L4.15 -37.05\" fill=\"#333333\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M4.15 -37.05 L6.55 -43.35 Q4.35 -42.65 2.45 -41.35 L-1.15 -38.35 -4.4 -28.8 -5.75 -23.45 Q-0.3 -22.3 5.95 -23.45 L4.9 -28.15 Q4.05 -32.95 4.15 -37.05 Z\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n      <path d=\"M6.55 -24.15 L7.4 -20.2 Q-0.1 -18.6 -7.2 -20.2 L-6.6 -24.2 Q-0.2 -22.95 6.55 -24.15\" fill=\"#ff9933\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M6.55 -24.15 Q-0.2 -22.95 -6.6 -24.2 L-7.2 -20.2 Q-0.1 -18.6 7.4 -20.2 L6.55 -24.15 Z\" fill=\"none\" stroke=\"#974b00\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n      <path d=\"M4.25 -21.55 L4.15 -18.8 -2.25 -18.9 -2.1 -24.45 4.3 -24.35 4.25 -21.55 5.75 -21.6 M-0.15 -21.65 L4.25 -21.55\" fill=\"none\" stroke=\"#ffcc00\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    }
+  },
+  "rasterSource": false
+}

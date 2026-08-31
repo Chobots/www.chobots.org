@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "sourceName": "pants_square.swf",
+  "sha256": "14bf27aa9aff18dc1e8b2233d6bd89d7feeecdedb80e4604fbf374e121395599",
+  "parts": {
+    "McBody2": {
+      "width": 17.5,
+      "height": 9.35,
+      "registrationX": -8.9,
+      "registrationY": -8.8,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 8.9, 8.8)\">\n    <use height=\"8.35\" id=\"clothes-pants_square-McBody2-mcColor\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -8.4, -8.3)\" width=\"16.5\" href=\"#clothes-pants_square-McBody2-sprite0\"></use>\n    <use height=\"9.35\" id=\"clothes-pants_square-McBody2-mcBorder\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -8.4, -8.3)\" width=\"17.5\" href=\"#clothes-pants_square-McBody2-sprite1\"></use>\n    <use height=\"7.05\" id=\"clothes-pants_square-McBody2-mcBorder70\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -8.4, -6.45)\" width=\"17.4\" href=\"#clothes-pants_square-McBody2-sprite2\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-pants_square-McBody2-sprite0\">\n      <use height=\"8.35\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"16.5\" href=\"#clothes-pants_square-McBody2-shape0\"></use>\n    </g>\n    <g id=\"clothes-pants_square-McBody2-shape0\">\n      <path d=\"M0.25 0.0 Q7.95 1.5 16.3 0.0 16.7 2.5 16.3 3.8 14.9 8.35 8.25 8.35 1.55 8.35 0.2 3.8 -0.05 3.05 0.05 1.9 L0.25 0.0\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-pants_square-McBody2-sprite1\">\n      <use height=\"9.35\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"17.5\" href=\"#clothes-pants_square-McBody2-shape1\"></use>\n    </g>\n    <g id=\"clothes-pants_square-McBody2-shape1\">\n      <path d=\"M16.3 0.0 Q7.95 1.5 0.25 0.0 L0.05 1.7 Q7.95 3.2 16.5 1.7 L16.3 0.0 M0.05 1.7 L0.05 1.9 Q-0.05 3.05 0.2 3.8 1.55 8.35 8.25 8.35 14.9 8.35 16.3 3.8 L16.5 1.7\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n    <g id=\"clothes-pants_square-McBody2-sprite2\">\n      <use height=\"7.05\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.35)\" width=\"17.4\" href=\"#clothes-pants_square-McBody2-shape2\"></use>\n    </g>\n    <g id=\"clothes-pants_square-McBody2-shape2\">\n      <path d=\"M12.85 5.25 L14.6 3.1 9.9 0.2 6.45 4.45 8.8 6.05 M16.4 0.9 L14.6 3.1 15.25 3.5 M0.0 0.0 L2.3 1.6 3.35 0.3 M5.35 5.8 L6.45 4.45 2.3 1.6 0.95 3.2\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [
+        {
+          "id": "clothes-pants_square-McBody2-mcColor",
+          "kind": "multiply",
+          "percent": 100
+        },
+        {
+          "id": "clothes-pants_square-McBody2-mcBorder70",
+          "kind": "border",
+          "percent": 70
+        }
+      ],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McLeg2": {
+      "width": 10.85,
+      "height": 9.95,
+      "registrationX": -6.4,
+      "registrationY": -1.15,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 6.4, 1.15)\">\n    <use height=\"9.1\" id=\"clothes-pants_square-McLeg2-mcColor\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -5.9, -0.8)\" width=\"9.85\" href=\"#clothes-pants_square-McLeg2-sprite0\"></use>\n    <use height=\"9.95\" id=\"clothes-pants_square-McLeg2-mcBorder\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -5.9, -0.65)\" width=\"10.85\" href=\"#clothes-pants_square-McLeg2-sprite1\"></use>\n    <use height=\"6.9\" id=\"clothes-pants_square-McLeg2-mcBorder70\" transform=\"matrix(1.303, 0.1538, 0.0, 1.0, -7.8, -3.35)\" width=\"5.9\" href=\"#clothes-pants_square-McLeg2-sprite2\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-pants_square-McLeg2-sprite0\">\n      <use height=\"9.1\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"9.85\" href=\"#clothes-pants_square-McLeg2-shape0\"></use>\n    </g>\n    <g id=\"clothes-pants_square-McLeg2-shape0\">\n      <path d=\"M9.35 1.75 L9.4 3.75 Q10.2 6.3 9.55 6.95 L9.0 7.55 8.7 9.1 Q4.75 7.35 0.4 6.75 L0.95 5.2 Q-0.6 3.65 0.35 2.45 1.25 1.25 2.45 0.15 L2.45 0.0 9.35 1.75\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-pants_square-McLeg2-sprite1\">\n      <use height=\"9.95\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"10.85\" href=\"#clothes-pants_square-McLeg2-shape1\"></use>\n    </g>\n    <g id=\"clothes-pants_square-McLeg2-shape1\">\n      <path d=\"M0.95 5.05 L0.4 6.6 M8.7 8.95 L9.0 7.4 9.55 6.8 Q10.2 6.15 9.4 3.6 L9.35 1.6 M0.95 5.05 Q-0.6 3.5 0.35 2.3 1.25 1.1 2.45 0.0\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n      <path d=\"M0.4 6.6 Q4.75 7.2 8.7 8.95 M9.0 7.4 Q5.25 5.65 0.95 5.05\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n    <g id=\"clothes-pants_square-McLeg2-sprite2\">\n      <use height=\"6.9\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"5.9\" href=\"#clothes-pants_square-McLeg2-shape2\"></use>\n    </g>\n    <g id=\"clothes-pants_square-McLeg2-shape2\">\n      <path d=\"M5.3 2.35 L6.05 4.45 7.6 3.2 M7.4 8.25 L6.05 4.45 2.7 7.05\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [
+        {
+          "id": "clothes-pants_square-McLeg2-mcColor",
+          "kind": "multiply",
+          "percent": 100
+        },
+        {
+          "id": "clothes-pants_square-McLeg2-mcBorder70",
+          "kind": "border",
+          "percent": 70
+        }
+      ],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    }
+  },
+  "rasterSource": false
+}

@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "sourceName": "waysarbi.swf",
+  "sha256": "d4df0ed64060c43a050eef4cadbd7c599180f8af1b65ebbc4911339c7a7db525",
+  "parts": {
+    "McArmBottom": {
+      "width": 6.3,
+      "height": 6.05,
+      "registrationX": -0.85,
+      "registrationY": -2.35,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.85, 2.35)\">\n    <use height=\"4.9\" id=\"clothes-waysarbi-McArmBottom-mcColor\" transform=\"matrix(1.0212, 0.0, 0.0, 1.1176, -0.25, -1.6)\" width=\"4.8\" href=\"#clothes-waysarbi-McArmBottom-sprite0\"></use>\n    <use height=\"5.45\" id=\"clothes-waysarbi-McArmBottom-mcBorder\" transform=\"matrix(1.0212, 0.0, 0.0, 1.1176, -0.25, -1.6)\" width=\"6.2\" href=\"#clothes-waysarbi-McArmBottom-sprite1\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-waysarbi-McArmBottom-sprite0\">\n      <use height=\"4.9\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"4.8\" href=\"#clothes-waysarbi-McArmBottom-shape0\"></use>\n    </g>\n    <g id=\"clothes-waysarbi-McArmBottom-shape0\">\n      <path d=\"M0.3 0.75 Q1.35 -1.3 3.6 -0.4 L5.1 2.8 0.65 4.25 0.3 0.75\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-waysarbi-McArmBottom-sprite1\">\n      <use height=\"5.45\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"6.2\" href=\"#clothes-waysarbi-McArmBottom-shape1\"></use>\n    </g>\n    <g id=\"clothes-waysarbi-McArmBottom-shape1\">\n      <path d=\"M5.1 2.8 L0.65 4.25\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n      <path d=\"M0.65 4.25 L-0.1 1.25 M3.8 -0.2 L5.1 2.8\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [
+        {
+          "id": "clothes-waysarbi-McArmBottom-mcColor",
+          "kind": "multiply",
+          "percent": 100
+        }
+      ],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McArmTop": {
+      "width": 8.6,
+      "height": 11.65,
+      "registrationX": 0.1,
+      "registrationY": -0.15,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, -0.1, 0.15)\">\n    <use height=\"10.65\" id=\"clothes-waysarbi-McArmTop-mcColor\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.6, 0.35)\" width=\"7.6\" href=\"#clothes-waysarbi-McArmTop-sprite0\"></use>\n    <use height=\"11.65\" id=\"clothes-waysarbi-McArmTop-mcBorder\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.6, 0.35)\" width=\"8.6\" href=\"#clothes-waysarbi-McArmTop-sprite1\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-waysarbi-McArmTop-sprite0\">\n      <use height=\"10.65\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"7.6\" href=\"#clothes-waysarbi-McArmTop-shape0\"></use>\n    </g>\n    <g id=\"clothes-waysarbi-McArmTop-shape0\">\n      <path d=\"M1.8 0.6 Q5.3 3.7 7.25 7.65 7.6 8.1 7.6 8.8 7.6 9.45 6.95 10.1 6.4 10.7 5.55 10.65 4.6 10.65 4.0 10.05 3.65 9.8 3.55 9.35 L3.5 9.35 Q1.8 4.15 0.0 1.4 0.05 -0.4 1.3 0.15 L1.8 0.6\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-waysarbi-McArmTop-sprite1\">\n      <use height=\"11.65\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"8.6\" href=\"#clothes-waysarbi-McArmTop-shape1\"></use>\n    </g>\n    <g id=\"clothes-waysarbi-McArmTop-shape1\">\n      <path d=\"M1.3 0.15 L1.8 0.6 Q5.3 3.7 7.25 7.65 7.6 8.1 7.6 8.8 7.6 9.45 6.95 10.1 6.4 10.7 5.55 10.65 4.6 10.65 4.0 10.05 3.65 9.8 3.55 9.35 1.8 4.15 0.0 1.4\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n      <path d=\"M0.0 1.4 Q0.05 -0.4 1.3 0.15\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [
+        {
+          "id": "clothes-waysarbi-McArmTop-mcColor",
+          "kind": "multiply",
+          "percent": 100
+        }
+      ],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McBody2": {
+      "width": 21.3,
+      "height": 23.35,
+      "registrationX": -10.65,
+      "registrationY": -24.15,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 10.65, 24.15)\">\n    <use height=\"17.05\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"11.05\" href=\"#clothes-waysarbi-McBody2-shape0\"></use>\n    <use height=\"22.35\" id=\"clothes-waysarbi-McBody2-mcColor\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -10.15, -23.65)\" width=\"20.3\" href=\"#clothes-waysarbi-McBody2-sprite0\"></use>\n    <use height=\"23.35\" id=\"clothes-waysarbi-McBody2-mcBorder\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -10.15, -23.65)\" width=\"21.3\" href=\"#clothes-waysarbi-McBody2-sprite1\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-waysarbi-McBody2-shape0\">\n      <path d=\"M0.65 -4.8 Q-2.25 -5.4 -4.75 -4.9 L-1.55 -20.6 0.15 -19.7 0.65 -4.8\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M0.65 -4.8 Q-2.25 -5.4 -4.75 -4.9 L-1.55 -20.6 0.15 -19.7 0.65 -4.8 Z\" fill=\"none\" stroke=\"#666666\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n      <path d=\"M2.1 -20.35 L5.3 -4.65 Q2.6 -5.3 -0.1 -4.55 -0.8 -12.0 0.4 -19.45 L2.1 -20.35\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M2.1 -20.35 L0.4 -19.45 Q-0.8 -12.0 -0.1 -4.55 2.6 -5.3 5.3 -4.65 L2.1 -20.35 Z\" fill=\"none\" stroke=\"#666666\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n    <g id=\"clothes-waysarbi-McBody2-sprite0\">\n      <use height=\"22.35\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"20.3\" href=\"#clothes-waysarbi-McBody2-shape1\"></use>\n    </g>\n    <g id=\"clothes-waysarbi-McBody2-shape1\">\n      <path d=\"M11.3 1.55 L12.05 1.15 13.2 0.3 15.5 6.4 Q17.2 10.25 17.85 13.25 18.65 17.05 20.3 22.35 14.85 21.65 12.1 20.25 L11.3 1.55 M7.1 0.0 L8.25 0.85 9.0 1.25 8.2 19.95 Q5.45 21.35 0.0 22.05 L2.45 12.95 Q3.1 9.95 4.8 6.1 L7.1 0.0\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-waysarbi-McBody2-sprite1\">\n      <use height=\"23.35\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"21.3\" href=\"#clothes-waysarbi-McBody2-shape2\"></use>\n    </g>\n    <g id=\"clothes-waysarbi-McBody2-shape2\">\n      <path d=\"M12.05 1.15 L13.8 6.05 12.9 7.3 14.1 11.15 11.9 14.45 12.1 20.25 Q14.85 21.65 20.3 22.35 18.65 17.05 17.85 13.25 17.2 10.25 15.5 6.4 L13.2 0.3 12.05 1.15 11.3 1.55 11.6 8.5 12.9 7.3 M8.25 0.85 L9.0 1.25 8.7 8.2 8.4 14.15 8.2 19.95 Q5.45 21.35 0.0 22.05 L2.45 12.95 Q3.1 9.95 4.8 6.1 L7.1 0.0 8.25 0.85 6.5 5.75 7.4 7.0 8.7 8.2 M7.4 7.0 L6.2 10.85 8.4 14.15 M11.6 8.5 L11.9 14.45\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [
+        {
+          "id": "clothes-waysarbi-McBody2-mcColor",
+          "kind": "multiply",
+          "percent": 100
+        }
+      ],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McHead2": {
+      "width": 19.5,
+      "height": 18.7,
+      "registrationX": -8.45,
+      "registrationY": -28.2,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 8.45, 28.2)\">\n    <use height=\"18.7\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"19.5\" href=\"#clothes-waysarbi-McHead2-shape0\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-waysarbi-McHead2-shape0\">\n      <path d=\"M8.7 -15.3 L6.5 -13.35 5.95 -10.0 Q6.0 -13.4 5.2 -15.3 4.5 -12.5 3.75 -11.85 3.55 -14.55 2.45 -15.6 1.85 -15.0 2.2 -13.7 0.85 -14.4 0.05 -15.9 -0.4 -14.8 -0.1 -13.7 -2.15 -14.35 -3.2 -16.5 -3.6 -15.65 -3.05 -14.7 -4.4 -15.1 -5.05 -16.4 L-5.95 -14.7 -6.45 -11.05 -6.55 -14.45 Q-7.85 -15.15 -7.95 -16.45 L-6.85 -16.55 Q-7.65 -18.0 -7.5 -20.55 -6.9 -19.75 -6.3 -19.85 -5.55 -22.05 -3.65 -23.35 -4.0 -22.45 -3.55 -21.7 -2.15 -24.8 0.8 -26.05 0.15 -25.2 0.55 -24.35 3.8 -26.75 7.25 -27.7 5.8 -26.1 5.5 -24.1 7.85 -24.95 10.3 -24.6 7.75 -22.95 7.0 -20.85 8.75 -21.95 10.55 -20.9 8.6 -19.2 7.45 -17.5 L8.4 -17.35 Q7.4 -16.5 7.1 -15.65 8.05 -15.8 8.7 -15.3\" fill=\"#ffd735\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M8.7 -15.3 Q8.05 -15.8 7.1 -15.65 7.4 -16.5 8.4 -17.35 L7.45 -17.5 Q8.6 -19.2 10.55 -20.9 8.75 -21.95 7.0 -20.85 7.75 -22.95 10.3 -24.6 7.85 -24.95 5.5 -24.1 5.8 -26.1 7.25 -27.7 3.8 -26.75 0.55 -24.35 0.15 -25.2 0.8 -26.05 -2.15 -24.8 -3.55 -21.7 -4.0 -22.45 -3.65 -23.35 -5.55 -22.05 -6.3 -19.85 -6.9 -19.75 -7.5 -20.55 -7.65 -18.0 -6.85 -16.55 L-7.95 -16.45 Q-7.85 -15.15 -6.55 -14.45 L-6.45 -11.05 -5.95 -14.7 -5.05 -16.4 Q-4.4 -15.1 -3.05 -14.7 -3.6 -15.65 -3.2 -16.5 -2.15 -14.35 -0.1 -13.7 -0.4 -14.8 0.05 -15.9 0.85 -14.4 2.2 -13.7 1.85 -15.0 2.45 -15.6 3.55 -14.55 3.75 -11.85 4.5 -12.5 5.2 -15.3 6.0 -13.4 5.95 -10.0 L6.5 -13.35 8.7 -15.3 Z\" fill=\"none\" stroke=\"#c58501\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McLeg2": {
+      "width": 10,
+      "height": 9.35,
+      "registrationX": -6.2,
+      "registrationY": 1.8,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 6.2, -1.8)\">\n    <use height=\"3.75\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"7.95\" href=\"#clothes-waysarbi-McLeg2-shape0\"></use>\n    <use height=\"8.35\" id=\"clothes-waysarbi-McLeg2-mcColor\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -5.7, -0.8)\" width=\"9.0\" href=\"#clothes-waysarbi-McLeg2-sprite0\"></use>\n    <use height=\"9.35\" id=\"clothes-waysarbi-McLeg2-mcBorder\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -5.7, -0.65)\" width=\"10.0\" href=\"#clothes-waysarbi-McLeg2-sprite1\"></use>\n    <use height=\"5.45\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"7.95\" href=\"#clothes-waysarbi-McLeg2-shape3\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-waysarbi-McLeg2-shape0\">\n      <path d=\"M-1.7 10.5 Q-5.9 10.1 -5.7 6.8 -1.35 6.45 2.25 9.1 1.25 10.55 -1.7 10.5\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-waysarbi-McLeg2-sprite0\">\n      <use height=\"8.35\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"9.0\" href=\"#clothes-waysarbi-McLeg2-shape1\"></use>\n    </g>\n    <g id=\"clothes-waysarbi-McLeg2-shape1\">\n      <path d=\"M0.1 6.9 L0.75 5.05 1.5 2.95 Q4.65 5.9 9.0 4.5 L8.8 7.1 Q8.6 9.15 8.0 9.85 7.0 11.35 4.05 11.3 -0.55 10.85 0.1 6.9\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-waysarbi-McLeg2-sprite1\">\n      <use height=\"9.35\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"10.0\" href=\"#clothes-waysarbi-McLeg2-shape2\"></use>\n    </g>\n    <g id=\"clothes-waysarbi-McLeg2-shape2\">\n      <path d=\"M1.5 2.95 L0.75 5.05 0.1 6.9 Q-0.55 10.85 4.05 11.3 7.0 11.35 8.0 9.85 8.6 9.15 8.8 7.1 L9.0 4.5\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n      <path d=\"M9.0 4.5 Q4.65 5.9 1.5 2.95\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n    <g id=\"clothes-waysarbi-McLeg2-shape3\">\n      <path d=\"M-1.45 10.45 Q-5.65 10.05 -5.45 6.75 -1.1 6.4 2.5 9.05 1.5 10.5 -1.45 10.45\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M0.7 6.65 Q-1.2 5.7 -3.25 5.5\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [
+        {
+          "id": "clothes-waysarbi-McLeg2-mcColor",
+          "kind": "multiply",
+          "percent": 100
+        }
+      ],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    }
+  },
+  "rasterSource": false
+}

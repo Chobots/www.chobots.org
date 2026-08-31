@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "sourceName": "patrik_hat.swf",
+  "sha256": "4986a7895a985b702f050ccf77565fd515a0bc8f70deac3c718ae583b342ba21",
+  "parts": {
+    "McHead2": {
+      "width": 22.25,
+      "height": 11.2,
+      "registrationX": -11.35,
+      "registrationY": -27.7,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 11.35, 27.7)\">\n    <use height=\"11.2\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"22.25\" href=\"#clothes-patrik_hat-McHead2-shape0\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-patrik_hat-McHead2-shape0\">\n      <path d=\"M3.8 -17.05 L-0.25 -17.25 -4.35 -17.05 -7.75 -17.2 Q-10.85 -17.9 -10.85 -18.8 -10.85 -19.75 -7.75 -20.5 L-0.25 -20.9 7.25 -20.5 Q10.4 -19.75 10.4 -18.8 10.4 -17.9 7.25 -17.2 L3.8 -17.05\" fill=\"#660000\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M3.8 -17.05 L-0.25 -17.25 -4.35 -17.05 -7.75 -17.2 Q-10.85 -17.9 -10.85 -18.8 -10.85 -19.75 -7.75 -20.5 L-0.25 -20.9 7.25 -20.5 Q10.4 -19.75 10.4 -18.8 10.4 -17.9 7.25 -17.2 L3.8 -17.05 Z\" fill=\"none\" stroke=\"#370000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n      <path d=\"M6.1 -21.9 L7.1 -19.6 -6.75 -19.6 -5.8 -21.9 Q-4.85 -24.55 -4.8 -27.2 0.15 -26.2 5.55 -27.2 5.25 -24.55 6.1 -21.9 L-5.8 -21.9 6.1 -21.9\" fill=\"#660000\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M6.1 -21.9 L7.1 -19.6 -6.75 -19.6 -5.8 -21.9 Q-4.85 -24.55 -4.8 -27.2 0.15 -26.2 5.55 -27.2 5.25 -24.55 6.1 -21.9 L-5.8 -21.9\" fill=\"none\" stroke=\"#370000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n      <path d=\"M-2.5 -21.55 L1.65 -21.45 1.7 -23.6 -4.35 -23.65 -4.45 -19.4 1.6 -19.35 1.65 -21.45 3.1 -21.45\" fill=\"none\" stroke=\"#ffcc00\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    }
+  },
+  "rasterSource": false
+}

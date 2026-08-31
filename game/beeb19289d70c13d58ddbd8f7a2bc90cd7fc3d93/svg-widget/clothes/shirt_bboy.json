@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "sourceName": "shirt_bboy.swf",
+  "sha256": "982db9c43dce454b70a233ad80fb67569d25c2c0bbd1f0caeea2a81b5d81d934",
+  "parts": {
+    "McArmTop": {
+      "width": 8.35,
+      "height": 8.35,
+      "registrationX": 0.75,
+      "registrationY": 0.1,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, -0.75, -0.1)\">\n    <use height=\"7.35\" id=\"clothes-shirt_bboy-McArmTop-mcColor\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 5.05, 4.75)\" width=\"7.6\" href=\"#clothes-shirt_bboy-McArmTop-sprite0\"></use>\n    <use height=\"8.35\" id=\"clothes-shirt_bboy-McArmTop-mcBorder\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 1.7, 0.6)\" width=\"7.9\" href=\"#clothes-shirt_bboy-McArmTop-sprite1\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-shirt_bboy-McArmTop-sprite0\">\n      <use height=\"7.35\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"7.6\" href=\"#clothes-shirt_bboy-McArmTop-shape0\"></use>\n    </g>\n    <g id=\"clothes-shirt_bboy-McArmTop-shape0\">\n      <path d=\"M-3.35 0.8 Q-5.1 -2.5 -3.6 -4.25 -1.5 -3.4 0.7 -1.65 L3.3 0.75 Q1.5 2.85 -1.4 3.1 L-3.35 0.8\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-shirt_bboy-McArmTop-sprite1\">\n      <use height=\"8.35\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"7.9\" href=\"#clothes-shirt_bboy-McArmTop-shape1\"></use>\n    </g>\n    <g id=\"clothes-shirt_bboy-McArmTop-shape1\">\n      <path d=\"M0.0 0.0 Q2.1 0.85 4.3 2.6 L6.9 5.0 Q5.1 7.1 2.2 7.35\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n      <path d=\"M2.2 7.35 L0.25 5.05\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [
+        {
+          "id": "clothes-shirt_bboy-McArmTop-mcColor",
+          "kind": "multiply",
+          "percent": 100
+        }
+      ],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McBody2": {
+      "width": 18.25,
+      "height": 19.05,
+      "registrationX": -9.5,
+      "registrationY": -20.55,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 9.5, 20.55)\">\n    <use height=\"18.35\" id=\"clothes-shirt_bboy-McBody2-mcColor\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -0.35, -11.0)\" width=\"17.4\" href=\"#clothes-shirt_bboy-McBody2-sprite0\"></use>\n    <use height=\"19.05\" id=\"clothes-shirt_bboy-McBody2-mcBorder\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -9.0, -20.05)\" width=\"18.25\" href=\"#clothes-shirt_bboy-McBody2-sprite1\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-shirt_bboy-McBody2-sprite0\">\n      <use height=\"18.35\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"17.4\" href=\"#clothes-shirt_bboy-McBody2-shape0\"></use>\n    </g>\n    <g id=\"clothes-shirt_bboy-McBody2-shape0\">\n      <path d=\"M6.15 -4.6 Q8.3 1.1 8.75 7.4 6.55 8.85 0.2 8.95 -6.25 9.1 -8.65 7.6 -7.8 1.55 -7.05 -1.45 -5.8 -6.3 -3.65 -9.4 -2.25 -8.75 -0.2 -8.55 2.35 -8.3 4.1 -9.05 5.1 -7.45 6.15 -4.6\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-shirt_bboy-McBody2-sprite1\">\n      <use height=\"19.05\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"18.25\" href=\"#clothes-shirt_bboy-McBody2-shape1\"></use>\n    </g>\n    <g id=\"clothes-shirt_bboy-McBody2-shape1\">\n      <path d=\"M14.85 5.05 Q15.95 7.7 16.55 10.95 L17.25 16.55 Q15.1 18.0 8.8 18.05 2.4 18.15 0.0 16.65 L0.95 10.5 Q1.55 7.1 2.6 4.75 M5.45 0.0 Q8.85 1.6 11.9 0.3\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n      <path d=\"M14.2 10.45 L12.55 14.8 11.5 14.8 12.0 13.55 10.8 10.45 11.85 10.45 12.5 12.45 13.15 10.45 14.2 10.45 M8.95 5.85 L8.7 5.9 8.4 6.0 8.4 7.65 8.6 7.65 8.8 7.7 9.35 7.45 9.5 6.75 9.35 6.05 8.95 5.85 M8.4 3.95 L8.4 5.5 Q8.65 5.3 8.85 5.2 L9.35 5.1 Q9.95 5.1 10.25 5.5 L10.55 6.7 Q10.55 7.5 10.15 7.95 9.75 8.4 9.2 8.4 L8.8 8.35 8.4 8.2 8.35 8.35 7.4 8.35 7.4 3.95 8.4 3.95 M4.95 9.2 L4.95 10.8 5.4 10.45 5.9 10.35 Q6.45 10.35 6.75 10.8 L7.05 12.0 Q7.05 12.75 6.7 13.2 L5.75 13.7 5.3 13.65 4.95 13.45 4.9 13.6 3.95 13.6 3.95 9.2 4.95 9.2 M4.95 11.3 L4.95 12.9 5.15 12.95 5.35 12.95 Q5.7 12.95 5.85 12.7 L6.05 12.0 5.9 11.35 5.45 11.15 5.2 11.15 4.95 11.3 M7.4 12.05 Q7.4 11.25 7.8 10.8 8.25 10.35 9.0 10.35 9.8 10.35 10.25 10.8 10.7 11.25 10.7 12.05 10.7 12.8 10.25 13.25 9.8 13.7 9.0 13.7 8.25 13.7 7.8 13.25 7.4 12.8 7.4 12.05 M8.6 11.25 L8.45 11.55 8.4 12.05 8.45 12.5 8.55 12.8 8.8 12.95 9.05 13.0 9.3 12.95 9.45 12.8 9.6 12.5 9.65 12.05 9.6 11.55 9.45 11.25 9.3 11.1 9.0 11.05 8.8 11.1 8.6 11.25\" fill=\"#000000\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [
+        {
+          "id": "clothes-shirt_bboy-McBody2-mcColor",
+          "kind": "multiply",
+          "percent": 100
+        }
+      ],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    }
+  },
+  "rasterSource": false
+}

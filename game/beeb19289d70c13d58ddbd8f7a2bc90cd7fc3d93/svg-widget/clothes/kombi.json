@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "sourceName": "kombi.swf",
+  "sha256": "2347f4e86bcbfc0570ced767ef0b10641fd235124294c6c1df5b887398ba023f",
+  "parts": {
+    "McArmTop": {
+      "width": 3.7,
+      "height": 4.75,
+      "registrationX": -0.35,
+      "registrationY": -1.2,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.35, 1.2)\">\n    <use height=\"3.7\" id=\"clothes-kombi-McArmTop-mcColor\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, -0.8)\" width=\"2.85\" href=\"#clothes-kombi-McArmTop-sprite0\"></use>\n    <use height=\"4.75\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"3.7\" href=\"#clothes-kombi-McArmTop-shape1\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-kombi-McArmTop-sprite0\">\n      <use height=\"3.7\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"2.85\" href=\"#clothes-kombi-McArmTop-shape0\"></use>\n    </g>\n    <g id=\"clothes-kombi-McArmTop-shape0\">\n      <path d=\"M0.15 1.7 L0.0 0.45 0.0 0.0 0.45 0.1 Q1.45 0.1 2.85 1.85 2.5 1.7 1.95 2.15 1.25 2.7 1.25 3.7 0.65 1.95 0.15 1.7\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-kombi-McArmTop-shape1\">\n      <path d=\"M0.45 -0.7 Q1.45 -0.7 2.85 1.05 2.5 0.9 1.95 1.35 1.25 1.9 1.25 2.9 L1.3 3.05 1.25 2.95 1.25 2.9 Q0.65 1.15 0.15 0.9\" fill=\"none\" stroke=\"#ffcc00\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [
+        {
+          "id": "clothes-kombi-McArmTop-mcColor",
+          "kind": "multiply",
+          "percent": 100
+        }
+      ],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McBody2": {
+      "width": 18.1,
+      "height": 20.7,
+      "registrationX": -9.25,
+      "registrationY": -23.75,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 9.25, 23.75)\">\n    <use height=\"18.9\" id=\"clothes-kombi-McBody2-mcColor\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -8.75, -22.45)\" width=\"17.1\" href=\"#clothes-kombi-McBody2-sprite0\"></use>\n    <use height=\"20.7\" id=\"clothes-kombi-McBody2-mcBorder\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -8.75, -23.25)\" width=\"18.1\" href=\"#clothes-kombi-McBody2-sprite1\"></use>\n    <use height=\"15.3\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"7.6\" href=\"#clothes-kombi-McBody2-shape2\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-kombi-McBody2-sprite0\">\n      <use height=\"18.9\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"17.1\" href=\"#clothes-kombi-McBody2-shape0\"></use>\n    </g>\n    <g id=\"clothes-kombi-McBody2-shape0\">\n      <path d=\"M12.4 0.4 L14.6 5.5 14.55 5.5 14.65 5.65 15.05 6.7 15.25 7.25 Q14.5 7.4 13.95 7.95 13.2 8.7 13.2 9.8 13.2 10.9 13.95 11.65 14.7 12.4 15.8 12.4 L16.7 12.25 17.0 14.05 17.1 16.7 Q7.95 21.0 0.0 16.85 L0.9 11.65 1.45 11.7 2.35 11.55 3.3 10.95 Q4.05 10.2 4.05 9.1 4.05 8.0 3.3 7.25 L2.3 6.65 Q3.5 2.95 5.25 0.0 L5.3 0.0 Q5.3 0.9 6.2 2.05 7.15 3.3 8.3 3.75 L9.4 4.15 Q11.0 3.3 11.9 1.65 L12.4 0.4\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-kombi-McBody2-sprite1\">\n      <use height=\"20.7\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"18.1\" href=\"#clothes-kombi-McBody2-shape1\"></use>\n    </g>\n    <g id=\"clothes-kombi-McBody2-shape1\">\n      <path d=\"M11.8 0.0 L12.05 0.45 12.4 1.2 14.6 6.3 14.6 6.4 14.65 6.45 15.05 7.5 15.25 8.05 Q14.5 8.2 13.95 8.75 13.2 9.5 13.2 10.6 13.2 11.7 13.95 12.45 14.7 13.2 15.8 13.2 L16.7 13.05 17.0 14.85 17.1 17.5 Q7.95 21.8 0.0 17.65 L0.9 12.45 1.45 12.5 2.35 12.35 3.3 11.75 Q4.05 11.0 4.05 9.9 4.05 8.8 3.3 8.05 L2.3 7.45 Q3.5 3.75 5.25 0.8 L5.35 0.6 5.4 0.35 5.45 0.4 5.35 0.6 5.3 0.8 Q5.3 1.7 6.2 2.85 7.15 4.1 8.3 4.55 L9.4 4.95 Q11.0 4.1 11.9 2.45 L12.4 1.2 M9.4 4.95 L12.9 5.3 Q14.0 5.6 14.55 6.3 L14.6 6.4\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n    <g id=\"clothes-kombi-McBody2-shape2\">\n      <path d=\"M3.6 -17.25 L2.2 -17.95 0.85 -18.4 0.8 -18.45 Q1.4 -20.95 2.2 -21.0 3.4 -21.15 3.75 -18.35 L3.6 -17.25\" fill=\"#66ccff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M3.6 -17.25 L2.2 -17.95 0.85 -18.4 0.8 -18.45 Q1.4 -20.95 2.2 -21.0 3.4 -21.15 3.75 -18.35 L3.6 -17.25 Q3.75 -17.15 4.0 -17.0 L1.85 -10.8 Q0.5 -6.85 -1.1 -6.7 -2.35 -6.55 -2.55 -8.3 -2.8 -10.3 -0.8 -14.85\" fill=\"none\" stroke=\"#3399ff\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [
+        {
+          "id": "clothes-kombi-McBody2-mcColor",
+          "kind": "multiply",
+          "percent": 100
+        }
+      ],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    }
+  },
+  "rasterSource": false
+}

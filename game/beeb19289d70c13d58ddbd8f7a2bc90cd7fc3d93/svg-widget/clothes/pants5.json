@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sourceName": "pants5.swf",
+  "sha256": "ef34dad1ff2c8edfc32089b8b84db419b2f662895fa3c48fa4c1f644d9c50605",
+  "parts": {
+    "McBody2": {
+      "width": 17.45,
+      "height": 10.7,
+      "registrationX": -8.85,
+      "registrationY": -10.15,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 8.85, 10.15)\">\n    <use height=\"10.7\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"17.45\" href=\"#clothes-pants5-McBody2-shape0\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-pants5-McBody2-shape0\">\n      <path d=\"M-8.2 -8.0 L-7.9 -9.65 Q-0.45 -8.4 7.6 -9.65 L7.95 -7.95 Q-0.15 -6.55 -8.2 -8.0 M8.05 -5.05 L7.9 -4.5 7.6 -3.65 7.5 -3.45 Q-0.2 -2.05 -7.8 -3.5 L-7.85 -3.65 -8.2 -4.5 -8.3 -5.0 Q-0.15 -3.6 8.05 -5.05\" fill=\"#fa0200\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M8.1 -6.5 L8.05 -5.05 Q-0.15 -3.6 -8.3 -5.0 L-8.35 -6.45 Q-0.15 -5.05 8.1 -6.5 M7.5 -3.45 L6.7 -2.3 6.3 -1.85 6.2 -1.75 Q-0.2 -0.8 -6.5 -1.75 L-6.6 -1.85 -7.0 -2.3 -7.8 -3.5 Q-0.2 -2.05 7.5 -3.45\" fill=\"#febe04\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-8.2 -8.0 Q-0.15 -6.55 7.95 -7.95 L8.1 -6.5 Q-0.15 -5.05 -8.35 -6.45 L-8.2 -8.0 M6.2 -1.75 Q4.05 0.05 -0.15 0.05 -4.4 0.05 -6.5 -1.75 -0.2 -0.8 6.2 -1.75\" fill=\"#00feb4\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M7.95 -7.95 L7.6 -9.65 Q-0.45 -8.4 -7.9 -9.65 L-8.2 -8.0 -8.35 -6.45 -8.3 -5.0 -8.2 -4.5 -7.85 -3.65 -7.8 -3.5 -7.0 -2.3 -6.6 -1.85 -6.5 -1.75 Q-4.4 0.05 -0.15 0.05 4.05 0.05 6.2 -1.75 L6.3 -1.85 6.7 -2.3 7.5 -3.45 7.6 -3.65 7.9 -4.5 8.05 -5.05 8.1 -6.5 7.95 -7.95 Z\" fill=\"none\" stroke=\"#910000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McLeg2": {
+      "width": 11.5,
+      "height": 8.6,
+      "registrationX": -7.05,
+      "registrationY": -1.35,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 7.05, 1.35)\">\n    <use height=\"8.6\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"11.5\" href=\"#clothes-pants5-McLeg2-shape0\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-pants5-McLeg2-shape0\">\n      <path d=\"M-3.85 1.2 Q-0.2 1.15 3.3 2.2 L3.3 2.75 3.3 4.05 Q-0.5 2.9 -4.5 3.05 L-4.15 1.95 -3.85 1.2\" fill=\"#fa0200\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-3.45 -0.85 L-3.45 -1.0 3.3 0.75 3.3 2.2 Q-0.2 1.15 -3.85 1.2 -3.5 0.15 -3.45 -0.85\" fill=\"#00feb4\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-4.5 3.05 Q-0.5 2.9 3.3 4.05 L3.95 4.3 3.7 6.75 -0.45 5.75 Q-4.8 5.05 -6.55 6.1 L-5.75 3.1 -4.5 3.05\" fill=\"#febe04\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-3.45 -0.85 Q-3.5 0.15 -3.85 1.2 L-4.15 1.95 -4.5 3.05 Q-0.5 2.9 3.3 4.05 L3.3 2.75 3.3 2.2 3.3 0.75 M-4.5 3.05 L-5.75 3.1 -6.55 6.1 Q-4.8 5.05 -0.45 5.75 L3.7 6.75 3.95 4.3 3.3 4.05\" fill=\"none\" stroke=\"#910000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    }
+  },
+  "rasterSource": false
+}

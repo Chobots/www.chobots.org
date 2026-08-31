@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "sourceName": "dress_girl_13.swf",
+  "sha256": "493add38f6f3292a4236f9a18c46dd99d566ef65869b4226ba7b14263d93c6aa",
+  "parts": {
+    "McBody2": {
+      "width": 29.55,
+      "height": 21.15,
+      "registrationX": -15.05,
+      "registrationY": -20.8,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 15.05, 20.8)\">\n    <use height=\"6.4\" id=\"clothes-dress_girl_13-McBody2-mcColor\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -8.35, -6.55)\" width=\"16.7\" href=\"#clothes-dress_girl_13-McBody2-sprite0\"></use>\n    <use height=\"7.4\" id=\"clothes-dress_girl_13-McBody2-mcBorder\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -8.35, -6.55)\" width=\"17.7\" href=\"#clothes-dress_girl_13-McBody2-sprite1\"></use>\n    <use height=\"8.1\" id=\"clothes-dress_girl_13-McBody2-mcColor-2\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -14.55, -9.45)\" width=\"28.55\" href=\"#clothes-dress_girl_13-McBody2-sprite2\"></use>\n    <use height=\"9.1\" id=\"clothes-dress_girl_13-McBody2-mcBorder-2\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -14.55, -9.45)\" width=\"29.55\" href=\"#clothes-dress_girl_13-McBody2-sprite3\"></use>\n    <use height=\"16.15\" id=\"clothes-dress_girl_13-McBody2-mcColor-3\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -12.95, -20.3)\" width=\"25.75\" href=\"#clothes-dress_girl_13-McBody2-sprite5\"></use>\n    <use height=\"17.15\" id=\"clothes-dress_girl_13-McBody2-mcBorder-3\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -12.95, -20.3)\" width=\"26.75\" href=\"#clothes-dress_girl_13-McBody2-sprite6\"></use>\n    <use height=\"9.75\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"14.75\" href=\"#clothes-dress_girl_13-McBody2-shape6\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-dress_girl_13-McBody2-sprite0\">\n      <use height=\"6.4\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"16.7\" href=\"#clothes-dress_girl_13-McBody2-shape0\"></use>\n    </g>\n    <g id=\"clothes-dress_girl_13-McBody2-shape0\">\n      <path d=\"M6.55 6.25 Q3.55 5.9 2.2 4.85 0.5 3.5 0.15 1.55 0.0 0.85 0.0 0.0 L16.7 0.0 16.3 2.35 Q15.5 4.55 12.65 5.65 10.0 6.75 6.55 6.25\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-dress_girl_13-McBody2-sprite1\">\n      <use height=\"7.4\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"17.7\" href=\"#clothes-dress_girl_13-McBody2-shape1\"></use>\n    </g>\n    <g id=\"clothes-dress_girl_13-McBody2-shape1\">\n      <path d=\"M6.55 6.25 Q3.55 5.9 2.2 4.85 0.5 3.5 0.15 1.55 0.0 0.85 0.0 0.0 L16.7 0.0 16.3 2.35 Q15.5 4.55 12.65 5.65 10.0 6.75 6.55 6.25 Z\" fill=\"none\" stroke=\"#333333\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n    </g>\n    <g id=\"clothes-dress_girl_13-McBody2-sprite2\">\n      <use height=\"8.1\" transform=\"matrix(0.9761, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"29.25\" href=\"#clothes-dress_girl_13-McBody2-shape2\"></use>\n    </g>\n    <g id=\"clothes-dress_girl_13-McBody2-shape2\">\n      <path d=\"M26.95 5.3 Q24.45 5.55 24.75 6.7 L23.3 7.25 20.7 7.75 Q19.05 6.35 17.35 8.1 L13.55 8.1 11.0 7.95 Q9.7 6.6 7.75 7.65 L5.95 7.1 3.75 5.95 Q4.3 4.35 1.75 4.6 0.3 3.45 0.0 2.5 -0.15 2.1 2.5 1.55 4.4 1.1 5.25 0.0 L23.7 0.0 Q24.35 0.95 26.6 1.55 29.5 2.35 29.2 2.9 28.9 4.0 26.95 5.3\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-dress_girl_13-McBody2-sprite3\">\n      <use height=\"9.1\" id=\"clothes-dress_girl_13-McBody2-mcBorder-4\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"29.55\" href=\"#clothes-dress_girl_13-McBody2-sprite4\"></use>\n    </g>\n    <g id=\"clothes-dress_girl_13-McBody2-sprite4\">\n      <use height=\"9.1\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"29.55\" href=\"#clothes-dress_girl_13-McBody2-shape3\"></use>\n    </g>\n    <g id=\"clothes-dress_girl_13-McBody2-shape3\">\n      <path d=\"M23.15 0.0 Q23.8 0.95 26.0 1.55 28.8 2.35 28.55 2.9 28.2 4.0 26.35 5.3 23.9 5.55 24.15 6.7 L22.8 7.25 20.25 7.75 Q18.65 6.35 16.95 8.1 L13.25 8.1 10.75 7.95 Q9.5 6.6 7.6 7.65 L5.8 7.1 3.65 5.95 Q4.2 4.35 1.7 4.6 0.35 3.45 0.0 2.5 -0.1 2.1 2.45 1.55 4.35 1.1 5.15 0.0\" fill=\"none\" stroke=\"#333333\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n    </g>\n    <g id=\"clothes-dress_girl_13-McBody2-sprite5\">\n      <use height=\"16.15\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"25.75\" href=\"#clothes-dress_girl_13-McBody2-shape4\"></use>\n    </g>\n    <g id=\"clothes-dress_girl_13-McBody2-shape4\">\n      <path d=\"M20.55 15.3 L18.25 15.8 Q16.8 14.4 15.3 16.15 L11.95 16.15 9.7 16.0 Q8.55 14.65 6.85 15.7 L5.25 15.15 3.3 14.0 Q3.8 12.4 1.55 12.65 0.3 11.5 0.0 10.55 -0.1 10.15 2.2 9.6 3.9 9.15 4.65 8.05 L5.0 7.2 5.45 5.7 5.8 4.5 6.7 1.6 7.3 0.3 10.75 0.05 12.7 0.7 15.05 0.0 18.1 0.45 19.25 3.35 19.85 5.0 20.1 5.7 20.65 7.5 20.9 8.05 Q21.45 9.0 23.45 9.6 26.0 10.4 25.75 10.95 25.45 12.05 23.75 13.35 21.55 13.6 21.8 14.75 L20.55 15.3\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-dress_girl_13-McBody2-sprite6\">\n      <use height=\"17.15\" id=\"clothes-dress_girl_13-McBody2-mcBorder-5\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"26.75\" href=\"#clothes-dress_girl_13-McBody2-sprite7\"></use>\n    </g>\n    <g id=\"clothes-dress_girl_13-McBody2-sprite7\">\n      <use height=\"17.15\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"26.75\" href=\"#clothes-dress_girl_13-McBody2-shape5\"></use>\n    </g>\n    <g id=\"clothes-dress_girl_13-McBody2-shape5\">\n      <path d=\"M20.55 15.3 L18.25 15.8 Q16.8 14.4 15.3 16.15 L11.95 16.15 9.7 16.0 Q8.55 14.65 6.85 15.7 L5.25 15.15 3.3 14.0 Q3.8 12.4 1.55 12.65 0.3 11.5 0.0 10.55 -0.1 10.15 2.2 9.6 3.9 9.15 4.65 8.05 L5.0 7.2 5.45 5.7 5.8 4.5 6.7 1.6 7.3 0.3 10.75 0.05 12.7 0.7 15.05 0.0 18.1 0.45 19.25 3.35 19.85 5.0 20.1 5.7 20.65 7.5 20.9 8.05 Q21.45 9.0 23.45 9.6 26.0 10.4 25.75 10.95 25.45 12.05 23.75 13.35 21.55 13.6 21.8 14.75 L20.55 15.3\" fill=\"none\" stroke=\"#333333\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n      <path d=\"M5.8 4.5 Q9.45 5.0 12.85 3.75 15.75 4.9 19.85 5.0\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n    </g>\n    <g id=\"clothes-dress_girl_13-McBody2-shape6\">\n      <path d=\"M-2.15 -7.9 L-3.25 -8.15 Q-0.95 -10.85 -1.15 -14.4 L-0.25 -14.4 Q0.3 -11.1 -2.15 -7.9\" fill=\"#f40264\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-2.15 -7.9 L-3.25 -8.15 Q-0.95 -10.85 -1.15 -14.4 L-0.25 -14.4 Q0.3 -11.1 -2.15 -7.9 Z\" fill=\"none\" stroke=\"#990033\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1\" vector-effect=\"non-scaling-stroke\" data-flash-original-stroke-width=\"0.9\" data-flash-min-stroke=\"true\"></path>\n      <path d=\"M3.95 -10.15 L3.25 -9.1 Q-0.7 -11.45 0.0 -14.75 L1.1 -14.75 Q0.4 -11.0 3.95 -10.15\" fill=\"#f40264\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M3.95 -10.15 Q0.4 -11.0 1.1 -14.75 L0.0 -14.75 Q-0.7 -11.45 3.25 -9.1 L3.95 -10.15 Z\" fill=\"none\" stroke=\"#990033\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1\" vector-effect=\"non-scaling-stroke\" data-flash-original-stroke-width=\"0.9\" data-flash-min-stroke=\"true\"></path>\n      <path d=\"M-5.35 -14.4 Q-6.0 -13.6 -5.3 -13.1 -3.6 -13.1 -2.1 -14.2 -1.6 -14.9 -1.25 -15.65 -3.6 -15.95 -5.35 -14.4 M-6.5 -14.25 Q-4.05 -16.6 -0.6 -16.1 -1.1 -14.95 -1.9 -13.85 -4.05 -12.15 -6.45 -12.2 -7.45 -13.0 -6.5 -14.25\" fill=\"#f40264\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-5.35 -14.4 Q-3.6 -15.95 -1.25 -15.65 -1.6 -14.9 -2.1 -14.2 -3.6 -13.1 -5.3 -13.1 -6.0 -13.6 -5.35 -14.4 M-6.5 -14.25 Q-4.05 -16.6 -0.6 -16.1 -1.1 -14.95 -1.9 -13.85 -4.05 -12.15 -6.45 -12.2 -7.45 -13.0 -6.5 -14.25 Z\" fill=\"none\" stroke=\"#990033\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n      <path d=\"M5.25 -14.35 Q3.55 -15.85 1.3 -15.55 L2.15 -14.1 Q3.55 -13.0 5.2 -13.0 5.85 -13.55 5.25 -14.35 M6.4 -14.15 Q7.25 -12.95 6.35 -12.15 4.0 -12.05 1.95 -13.7 1.15 -14.85 0.7 -16.0 4.0 -16.5 6.4 -14.15\" fill=\"#f40264\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M5.25 -14.35 Q3.55 -15.85 1.3 -15.55 L2.15 -14.1 Q3.55 -13.0 5.2 -13.0 5.85 -13.55 5.25 -14.35 M6.4 -14.15 Q4.0 -16.5 0.7 -16.0 1.15 -14.85 1.95 -13.7 4.0 -12.05 6.35 -12.15 7.25 -12.95 6.4 -14.15 Z\" fill=\"none\" stroke=\"#990033\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n      <path d=\"M1.65 -14.1 Q0.0 -12.95 -1.7 -14.1 -0.9 -15.15 -1.7 -16.25 -0.2 -17.1 1.65 -16.25 1.05 -15.15 1.65 -14.1\" fill=\"#f40264\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M1.65 -14.1 Q0.0 -12.95 -1.7 -14.1 -0.9 -15.15 -1.7 -16.25 -0.2 -17.1 1.65 -16.25 1.05 -15.15 1.65 -14.1 Z\" fill=\"none\" stroke=\"#990033\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [
+        {
+          "id": "clothes-dress_girl_13-McBody2-mcColor",
+          "kind": "multiply",
+          "percent": 100
+        },
+        {
+          "id": "clothes-dress_girl_13-McBody2-mcBorder",
+          "kind": "border",
+          "percent": 50
+        },
+        {
+          "id": "clothes-dress_girl_13-McBody2-mcColor-2",
+          "kind": "multiply",
+          "percent": 100
+        },
+        {
+          "id": "clothes-dress_girl_13-McBody2-mcBorder-2",
+          "kind": "border",
+          "percent": 50
+        },
+        {
+          "id": "clothes-dress_girl_13-McBody2-mcColor-3",
+          "kind": "multiply",
+          "percent": 100
+        },
+        {
+          "id": "clothes-dress_girl_13-McBody2-mcBorder-3",
+          "kind": "border",
+          "percent": 50
+        },
+        {
+          "id": "clothes-dress_girl_13-McBody2-mcBorder-4",
+          "kind": "border",
+          "percent": 50
+        },
+        {
+          "id": "clothes-dress_girl_13-McBody2-mcBorder-5",
+          "kind": "border",
+          "percent": 50
+        }
+      ],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    }
+  },
+  "rasterSource": false
+}

@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "sourceName": "CharWidget.swf",
+  "sha256": "8cb461cf95710f060b3f801d6ae798d95aec6e72ffa219e4347deb174338fe67",
+  "fragment": {
+    "width": 20.5,
+    "height": 14.5,
+    "registrationX": -0.25,
+    "registrationY": -0.25,
+    "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.25, 0.25)\">\n    <use height=\"14.5\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"20.5\" href=\"#locale-ruRU-shape0\"></use>\n  </g>\n  <defs>\n    <g id=\"locale-ruRU-shape0\">\n      <path d=\"M0.0 4.05 L0.0 2.6 Q0.0 0.0 2.15 0.0 L17.8 0.0 Q19.6 0.0 19.95 2.6 L20.0 4.35 Q7.85 3.7 0.0 4.05\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M0.0 4.05 Q7.85 3.7 20.0 4.35 L20.0 10.35 Q10.2 9.0 0.0 10.3 L0.0 4.05\" fill=\"#3333ff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M20.0 10.35 L20.0 11.4 Q20.0 14.0 17.8 14.0 L2.15 14.0 Q0.0 14.0 0.0 11.4 L0.0 10.3 Q10.2 9.0 20.0 10.35\" fill=\"#ff0000\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M20.0 4.35 L19.95 2.6 Q19.6 0.0 17.8 0.0 L2.15 0.0 Q0.0 0.0 0.0 2.6 L0.0 4.05 0.0 10.3 0.0 11.4 Q0.0 14.0 2.15 14.0 L17.8 14.0 Q20.0 14.0 20.0 11.4 L20.0 10.35 20.0 4.35 Z\" fill=\"none\" stroke=\"#003399\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1\" data-flash-original-stroke-width=\"0.5\" data-flash-min-stroke=\"true\" vector-effect=\"non-scaling-stroke\"></path>\n    </g>\n  </defs>\n",
+    "tintTargets": [],
+    "hasOneHand": false,
+    "rasterImages": [],
+    "unresolvedReferences": []
+  },
+  "rasterSource": false
+}

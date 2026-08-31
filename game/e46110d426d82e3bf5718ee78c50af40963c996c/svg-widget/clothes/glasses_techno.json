@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sourceName": "glasses_techno.swf",
+  "sha256": "9217fadae348bccb89a90a4e76751b28d11fd3b870e69d28cdf78c484b5118cc",
+  "parts": {
+    "McHead2": {
+      "width": 18.45,
+      "height": 8.05,
+      "registrationX": -9.25,
+      "registrationY": -13.55,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 9.25, 13.55)\">\n    <use height=\"6.1\" id=\"clothes-glasses_techno-McHead2-mcColor\" transform=\"matrix(1.1589, 0.0, 0.0, 1.1589, -8.75, -13.05)\" width=\"15.05\" href=\"#clothes-glasses_techno-McHead2-sprite0\"></use>\n    <use height=\"8.05\" id=\"clothes-glasses_techno-McHead2-mcBorder\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -8.75, -13.05)\" width=\"18.45\" href=\"#clothes-glasses_techno-McHead2-sprite1\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-glasses_techno-McHead2-sprite0\">\n      <use height=\"6.1\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"15.05\" href=\"#clothes-glasses_techno-McHead2-shape0\"></use>\n    </g>\n    <g id=\"clothes-glasses_techno-McHead2-shape0\">\n      <path d=\"M7.5 5.4 L4.75 6.1 0.0 4.25 0.0 0.0 7.5 1.85 15.05 0.45 15.05 4.7 10.25 6.1 7.5 5.4\" fill=\"#ffffff\" fill-opacity=\"0.6\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-glasses_techno-McHead2-sprite1\">\n      <use height=\"8.05\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"18.45\" href=\"#clothes-glasses_techno-McHead2-shape1\"></use>\n    </g>\n    <g id=\"clothes-glasses_techno-McHead2-shape1\">\n      <path d=\"M8.7 6.25 L5.5 7.05 0.0 4.95 0.0 0.0 8.7 2.15 17.45 0.5 17.45 5.45 11.9 7.05 8.7 6.25 Z\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [
+        {
+          "id": "clothes-glasses_techno-McHead2-mcColor",
+          "kind": "multiply",
+          "percent": 100
+        },
+        {
+          "id": "clothes-glasses_techno-McHead2-mcBorder",
+          "kind": "border",
+          "percent": 50
+        }
+      ],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    }
+  },
+  "rasterSource": false
+}

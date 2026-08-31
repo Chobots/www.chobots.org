@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sourceName": "peruka_12.swf",
+  "sha256": "c062022f4e196b2e531d3fe87d8a3abcd2e85a7eb50b6f9e9f1096f06e97d1ca",
+  "parts": {
+    "McHead2": {
+      "width": 20.85,
+      "height": 33.7,
+      "registrationX": -12.05,
+      "registrationY": -22.7,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 12.05, 22.7)\">\n    <use height=\"32.7\" id=\"clothes-peruka_12-McHead2-mcColor\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -11.55, -22.2)\" width=\"19.85\" href=\"#clothes-peruka_12-McHead2-sprite0\"></use>\n    <use height=\"33.7\" id=\"clothes-peruka_12-McHead2-mcBorder\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -11.55, -22.2)\" width=\"20.85\" href=\"#clothes-peruka_12-McHead2-sprite1\"></use>\n    <use height=\"4.9\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"5.75\" href=\"#clothes-peruka_12-McHead2-shape2\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-peruka_12-McHead2-sprite0\">\n      <use height=\"32.7\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"19.85\" href=\"#clothes-peruka_12-McHead2-shape0\"></use>\n    </g>\n    <g id=\"clothes-peruka_12-McHead2-shape0\">\n      <path d=\"M15.55 12.0 Q14.8 10.75 12.4 8.6 10.15 6.55 9.2 4.75 L8.7 3.6 8.35 5.65 Q8.0 7.1 7.1 8.75 6.1 10.5 5.8 11.5 5.5 12.55 5.45 14.95 L5.45 17.65 Q4.6 14.3 4.1 8.7 3.75 4.95 6.0 2.4 7.05 1.2 7.8 0.8 L8.6 0.6 Q20.55 -2.2 19.8 8.5 19.4 14.0 16.45 19.65 L16.45 16.3 Q16.35 13.3 15.55 12.0 M5.45 22.1 L4.3 25.0 Q3.35 26.75 3.15 27.7 2.95 28.65 3.4 30.55 L3.95 32.7 Q1.35 29.55 0.2 26.05 -1.1 22.1 5.6 17.7 L5.45 22.1\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-peruka_12-McHead2-sprite1\">\n      <use height=\"33.7\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"20.85\" href=\"#clothes-peruka_12-McHead2-shape1\"></use>\n    </g>\n    <g id=\"clothes-peruka_12-McHead2-shape1\">\n      <path d=\"M15.55 12.0 Q16.35 13.3 16.45 16.3 L16.45 19.65 Q19.4 14.0 19.8 8.5 20.55 -2.2 8.6 0.6 L7.8 0.8 8.7 3.6 9.2 4.75 Q10.15 6.55 12.4 8.6 14.8 10.75 15.55 12.0 M8.7 3.6 L8.35 5.65 Q8.0 7.1 7.1 8.75 6.1 10.5 5.8 11.5 5.5 12.55 5.45 14.95 L5.45 17.65 Q4.6 14.3 4.1 8.7 3.75 4.95 6.0 2.4 7.05 1.2 7.8 0.8 M5.45 22.1 L4.3 25.0 Q3.35 26.75 3.15 27.7 2.95 28.65 3.4 30.55 L3.95 32.7 Q1.35 29.55 0.2 26.05 -1.1 22.1 5.6 17.7 L5.45 22.1 Z\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n    <g id=\"clothes-peruka_12-McHead2-shape2\">\n      <path d=\"M-8.8 -4.35 Q-9.0 -4.85 -8.7 -5.35 L-7.85 -6.0 -6.85 -5.9 Q-6.35 -4.7 -4.8 -4.75 L-4.15 -3.9 Q-4.05 -3.35 -4.35 -2.85 -4.6 -2.35 -5.15 -2.2 L-6.15 -2.35 -8.2 -3.5 Q-8.65 -3.75 -8.8 -4.35\" fill=\"#ff0066\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-8.8 -4.35 Q-8.65 -3.75 -8.2 -3.5 L-6.15 -2.35 -5.15 -2.2 Q-4.6 -2.35 -4.35 -2.85 -4.05 -3.35 -4.15 -3.9 L-4.8 -4.75 Q-6.35 -4.7 -6.85 -5.9 L-7.85 -6.0 -8.7 -5.35 Q-9.0 -4.85 -8.8 -4.35 Z\" fill=\"none\" stroke=\"#990033\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [
+        {
+          "id": "clothes-peruka_12-McHead2-mcColor",
+          "kind": "multiply",
+          "percent": 100
+        },
+        {
+          "id": "clothes-peruka_12-McHead2-mcBorder",
+          "kind": "border",
+          "percent": 50
+        }
+      ],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    }
+  },
+  "rasterSource": false
+}

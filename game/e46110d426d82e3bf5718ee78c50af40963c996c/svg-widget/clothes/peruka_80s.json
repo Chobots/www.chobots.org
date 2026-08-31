@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sourceName": "peruka_80s.swf",
+  "sha256": "efafe22bbdc87bddb8ca73a0dcca2112f2dfa39eada9b9f1db1a9ee2e2094365",
+  "parts": {
+    "McHead2": {
+      "width": 25.2,
+      "height": 27.75,
+      "registrationX": -12.8,
+      "registrationY": -31.9,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 12.8, 31.9)\">\n    <use height=\"17.45\" id=\"clothes-peruka_80s-McHead2-mcColor\" transform=\"matrix(1.0573, 0.0, 0.0, 1.0917, -12.3, -31.4)\" width=\"22.9\" href=\"#clothes-peruka_80s-McHead2-sprite0\"></use>\n    <use height=\"18.45\" id=\"clothes-peruka_80s-McHead2-mcBorder\" transform=\"matrix(1.0573, 0.0, 0.0, 1.0917, -12.3, -31.4)\" width=\"23.9\" href=\"#clothes-peruka_80s-McHead2-sprite1\"></use>\n    <use height=\"8.05\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"4.25\" href=\"#clothes-peruka_80s-McHead2-shape2\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-peruka_80s-McHead2-sprite0\">\n      <use height=\"17.45\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"22.9\" href=\"#clothes-peruka_80s-McHead2-shape0\"></use>\n    </g>\n    <g id=\"clothes-peruka_80s-McHead2-shape0\">\n      <path d=\"M22.9 7.95 Q23.0 8.9 22.0 9.45 L22.75 11.2 22.6 11.8 21.8 12.5 Q22.3 13.25 22.1 13.75 L21.85 14.25 20.95 14.6 Q21.1 15.9 20.4 16.05 L19.3 16.3 18.4 17.45 18.4 16.95 Q18.4 13.95 16.4 11.8 14.4 9.7 11.6 9.7 8.8 9.7 6.8 11.8 4.8 13.95 4.8 16.95 L4.85 17.45 3.25 15.5 Q2.15 15.55 1.65 15.0 1.15 14.45 1.6 13.55 -0.3 13.15 1.0 11.45 L0.45 10.85 Q-0.05 10.4 0.0 9.9 L0.15 8.95 Q0.4 8.4 1.2 8.05 0.3 5.95 2.35 5.6 1.75 3.45 4.05 3.65 L4.1 3.65 Q4.3 1.35 6.45 2.05 6.7 -0.1 8.45 1.3 9.15 -0.7 10.55 0.9 L11.45 0.05 Q12.2 -0.2 12.75 0.9 14.65 -0.8 15.5 1.45 17.45 0.75 18.1 2.7 L19.5 2.75 Q20.1 3.2 20.1 4.45 22.35 4.75 21.8 6.95 22.8 7.05 22.9 7.95\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-peruka_80s-McHead2-sprite1\">\n      <use height=\"18.45\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"23.9\" href=\"#clothes-peruka_80s-McHead2-shape1\"></use>\n    </g>\n    <g id=\"clothes-peruka_80s-McHead2-shape1\">\n      <path d=\"M22.9 7.95 Q23.0 8.9 22.0 9.45 L22.75 11.2 22.6 11.8 21.8 12.5 Q22.3 13.25 22.1 13.75 L21.85 14.25 20.95 14.6 Q21.1 15.9 20.4 16.05 L19.3 16.3 18.4 17.45 18.4 16.95 Q18.4 13.95 16.4 11.8 14.4 9.7 11.6 9.7 8.8 9.7 6.8 11.8 4.8 13.95 4.8 16.95 L4.85 17.45 3.25 15.5 Q2.15 15.55 1.65 15.0 1.15 14.45 1.6 13.55 -0.3 13.15 1.0 11.45 L0.45 10.85 Q-0.05 10.4 0.0 9.9 L0.15 8.95 Q0.4 8.4 1.2 8.05 0.3 5.95 2.35 5.6 1.75 3.45 4.05 3.65 L4.1 3.65 Q4.3 1.35 6.45 2.05 6.7 -0.1 8.45 1.3 9.15 -0.7 10.55 0.9 L11.45 0.05 Q12.2 -0.2 12.75 0.9 14.65 -0.8 15.5 1.45 17.45 0.75 18.1 2.7 L19.5 2.75 Q20.1 3.2 20.1 4.45 22.35 4.75 21.8 6.95 22.8 7.05 22.9 7.95 Z\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n    <g id=\"clothes-peruka_80s-McHead2-shape2\">\n      <path d=\"M-6.95 -9.7 Q-6.5 -9.7 -5.8 -7.75 -5.1 -5.7 -5.45 -5.4 -6.05 -4.65 -6.95 -4.65 -7.85 -4.65 -8.5 -5.4 -8.8 -5.7 -8.1 -7.75 -7.4 -9.7 -6.95 -9.7\" fill=\"#ff0099\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-6.95 -9.7 Q-6.5 -9.7 -5.8 -7.75 -5.1 -5.7 -5.45 -5.4 -6.05 -4.65 -6.95 -4.65 -7.85 -4.65 -8.5 -5.4 -8.8 -5.7 -8.1 -7.75 -7.4 -9.7 -6.95 -9.7 Z\" fill=\"none\" stroke=\"#710044\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n      <path d=\"M-6.2 -9.65 Q-6.55 -9.3 -7.05 -9.3 -7.55 -9.3 -7.95 -9.65 L-8.25 -10.5 -7.95 -11.35 -7.05 -11.7 Q-6.55 -11.7 -6.2 -11.35 -5.85 -11.0 -5.85 -10.5 -5.85 -10.0 -6.2 -9.65\" fill=\"#ff0099\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-6.2 -9.65 Q-6.55 -9.3 -7.05 -9.3 -7.55 -9.3 -7.95 -9.65 L-8.25 -10.5 -7.95 -11.35 -7.05 -11.7 Q-6.55 -11.7 -6.2 -11.35 -5.85 -11.0 -5.85 -10.5 -5.85 -10.0 -6.2 -9.65 Z\" fill=\"none\" stroke=\"#710044\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [
+        {
+          "id": "clothes-peruka_80s-McHead2-mcColor",
+          "kind": "multiply",
+          "percent": 100
+        },
+        {
+          "id": "clothes-peruka_80s-McHead2-mcBorder",
+          "kind": "border",
+          "percent": 50
+        }
+      ],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    }
+  },
+  "rasterSource": false
+}

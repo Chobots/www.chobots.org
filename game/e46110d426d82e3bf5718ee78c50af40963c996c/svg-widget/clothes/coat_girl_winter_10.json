@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "sourceName": "coat_girl_winter_10.swf",
+  "sha256": "9a2f942178cdafdbb6b3ec86c0c0fc95927569c5a014448a4b49c5cef0f8f0f6",
+  "parts": {
+    "McArmBottom": {
+      "width": 6.05,
+      "height": 7.4,
+      "registrationX": -0.1,
+      "registrationY": 2.15,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.1, -2.15)\">\n    <use height=\"6.4\" id=\"clothes-coat_girl_winter_10-McArmBottom-mcColor\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.4, 2.65)\" width=\"5.05\" href=\"#clothes-coat_girl_winter_10-McArmBottom-sprite0\"></use>\n    <use height=\"7.4\" id=\"clothes-coat_girl_winter_10-McArmBottom-mcBorder\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.4, 2.65)\" width=\"6.05\" href=\"#clothes-coat_girl_winter_10-McArmBottom-sprite1\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-coat_girl_winter_10-McArmBottom-sprite0\">\n      <use height=\"6.4\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"5.05\" href=\"#clothes-coat_girl_winter_10-McArmBottom-shape0\"></use>\n    </g>\n    <g id=\"clothes-coat_girl_winter_10-McArmBottom-shape0\">\n      <path d=\"M1.5 6.0 Q0.4 5.5 0.15 5.0 -0.05 4.6 0.0 3.9 L0.1 2.65 0.0 1.05 Q2.45 1.25 4.9 0.0 5.25 2.25 4.9 3.9 4.5 5.75 3.45 6.25 2.7 6.6 1.5 6.0\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-coat_girl_winter_10-McArmBottom-sprite1\">\n      <use height=\"7.4\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"6.05\" href=\"#clothes-coat_girl_winter_10-McArmBottom-shape1\"></use>\n    </g>\n    <g id=\"clothes-coat_girl_winter_10-McArmBottom-shape1\">\n      <path d=\"M1.5 6.0 Q0.4 5.5 0.15 5.0 -0.05 4.6 0.0 3.9 L0.1 2.65 0.0 1.05 Q2.45 1.25 4.9 0.0 5.25 2.25 4.9 3.9 4.5 5.75 3.45 6.25 2.7 6.6 1.5 6.0 Z\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [
+        {
+          "id": "clothes-coat_girl_winter_10-McArmBottom-mcColor",
+          "kind": "multiply",
+          "percent": 100
+        },
+        {
+          "id": "clothes-coat_girl_winter_10-McArmBottom-mcBorder",
+          "kind": "border",
+          "percent": 50
+        }
+      ],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McArmTop": {
+      "width": 8.9,
+      "height": 11.15,
+      "registrationX": -0.4,
+      "registrationY": -2.1,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.4, 2.1)\">\n    <use height=\"10.15\" id=\"clothes-coat_girl_winter_10-McArmTop-mcColor\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.1, -1.6)\" width=\"7.9\" href=\"#clothes-coat_girl_winter_10-McArmTop-sprite0\"></use>\n    <use height=\"11.15\" id=\"clothes-coat_girl_winter_10-McArmTop-mcBorder\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.1, -1.6)\" width=\"8.9\" href=\"#clothes-coat_girl_winter_10-McArmTop-sprite1\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-coat_girl_winter_10-McArmTop-sprite0\">\n      <use height=\"10.15\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"7.9\" href=\"#clothes-coat_girl_winter_10-McArmTop-shape0\"></use>\n    </g>\n    <g id=\"clothes-coat_girl_winter_10-McArmTop-shape0\">\n      <path d=\"M0.0 0.0 Q1.15 0.95 3.0 2.15 4.4 3.15 5.2 4.4 6.95 6.95 7.9 9.1 5.25 8.75 2.95 10.15 L2.65 9.25 1.6 5.55 Q1.05 3.6 0.5 2.7 L0.0 0.0\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-coat_girl_winter_10-McArmTop-sprite1\">\n      <use height=\"11.15\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"8.9\" href=\"#clothes-coat_girl_winter_10-McArmTop-shape1\"></use>\n    </g>\n    <g id=\"clothes-coat_girl_winter_10-McArmTop-shape1\">\n      <path d=\"M0.0 0.0 Q1.15 0.95 3.0 2.15 4.4 3.15 5.2 4.4 6.95 6.95 7.9 9.1 5.25 8.75 2.95 10.15 L2.65 9.25 1.6 5.55 Q1.05 3.6 0.5 2.7\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [
+        {
+          "id": "clothes-coat_girl_winter_10-McArmTop-mcColor",
+          "kind": "multiply",
+          "percent": 100
+        },
+        {
+          "id": "clothes-coat_girl_winter_10-McArmTop-mcBorder",
+          "kind": "border",
+          "percent": 50
+        }
+      ],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McBody2": {
+      "width": 23.05,
+      "height": 21.35,
+      "registrationX": -11.7,
+      "registrationY": -25.6,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 11.7, 25.6)\">\n    <use height=\"6.3\" transform=\"matrix(1.0, 0.0, 0.0, 0.9907, -0.4, -16.7)\" width=\"18.5\" href=\"#clothes-coat_girl_winter_10-McBody2-shape0\"></use>\n    <use height=\"19.7\" id=\"clothes-coat_girl_winter_10-McBody2-mcColor\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -11.2, -24.45)\" width=\"22.0\" href=\"#clothes-coat_girl_winter_10-McBody2-sprite0\"></use>\n    <use height=\"20.7\" id=\"clothes-coat_girl_winter_10-McBody2-mcBorder\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -11.2, -24.45)\" width=\"23.05\" href=\"#clothes-coat_girl_winter_10-McBody2-sprite1\"></use>\n    <use height=\"17.45\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"22.4\" href=\"#clothes-coat_girl_winter_10-McBody2-shape3\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-coat_girl_winter_10-McBody2-shape0\">\n      <path d=\"M8.9 5.65 L5.75 6.35 1.95 6.75 -2.25 6.75 -5.55 6.4 -8.6 5.75 -7.25 1.7 Q0.15 3.4 7.55 1.5 L8.9 5.65\" fill=\"#fd1cd0\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M8.9 5.65 L7.55 1.5 Q0.15 3.4 -7.25 1.7 L-8.6 5.75 -5.55 6.4 -2.25 6.75 1.95 6.75 5.75 6.35 8.9 5.65 Z\" fill=\"none\" stroke=\"#650152\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1\" vector-effect=\"non-scaling-stroke\" data-flash-original-stroke-width=\"1\" data-flash-min-stroke=\"true\"></path>\n    </g>\n    <g id=\"clothes-coat_girl_winter_10-McBody2-sprite0\">\n      <use height=\"19.7\" transform=\"matrix(0.9265, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"23.8\" href=\"#clothes-coat_girl_winter_10-McBody2-shape1\"></use>\n    </g>\n    <g id=\"clothes-coat_girl_winter_10-McBody2-shape1\">\n      <path d=\"M23.8 16.15 Q22.6 18.1 19.7 17.75 16.05 17.5 14.5 18.85 11.45 20.55 8.55 18.9 6.65 17.7 4.2 18.05 1.9 18.45 0.0 16.4 1.9 14.95 2.4 13.5 L5.65 14.15 9.25 14.5 13.75 14.5 17.9 14.1 21.3 13.4 Q21.95 15.25 23.8 16.15 M19.8 9.25 Q11.85 11.15 3.85 9.45 L4.25 8.35 7.85 0.0 Q12.85 3.55 15.95 0.0 L19.8 9.25\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-coat_girl_winter_10-McBody2-sprite1\">\n      <use height=\"20.7\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"23.05\" href=\"#clothes-coat_girl_winter_10-McBody2-shape2\"></use>\n    </g>\n    <g id=\"clothes-coat_girl_winter_10-McBody2-shape2\">\n      <path d=\"M19.7 13.4 Q20.3 15.25 22.05 16.15 20.9 18.1 18.25 17.75 14.85 17.5 13.4 18.85 10.6 20.55 7.9 18.9 6.15 17.7 3.9 18.05 1.75 18.45 0.0 16.4 1.75 14.95 2.2 13.5 M3.55 9.45 L3.95 8.35 7.25 0.0 M14.75 0.0 L18.35 9.25\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n    </g>\n    <g id=\"clothes-coat_girl_winter_10-McBody2-shape3\">\n      <path d=\"M4.95 -24.0 L6.45 -25.1 8.85 -22.95 Q8.85 -21.8 7.3 -21.6 L7.65 -19.75 5.4 -19.75 5.8 -18.4 Q4.65 -17.95 3.05 -19.25 L1.85 -17.9 0.7 -19.3 Q-0.85 -18.3 -2.4 -18.05 L-3.9 -19.65 -7.35 -19.1 -7.05 -20.25 -8.95 -20.25 Q-9.15 -22.3 -7.5 -22.75 L-7.5 -24.6 -5.2 -24.1 -4.75 -24.75 -2.4 -23.75 Q-2.3 -24.6 -0.3 -24.5 L1.25 -23.45 3.1 -24.5 4.95 -24.0\" fill=\"#9966cc\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M4.95 -24.0 L6.45 -25.1 8.85 -22.95 Q8.85 -21.8 7.3 -21.6 L7.65 -19.75 5.4 -19.75 5.8 -18.4 Q4.65 -17.95 3.05 -19.25 L1.85 -17.9 0.7 -19.3 Q-0.85 -18.3 -2.4 -18.05 L-3.9 -19.65 -7.35 -19.1 -7.05 -20.25 -8.95 -20.25 Q-9.15 -22.3 -7.5 -22.75 L-7.5 -24.6 -5.2 -24.1 -4.75 -24.75 -2.4 -23.75 Q-2.3 -24.6 -0.3 -24.5 L1.25 -23.45 3.1 -24.5 4.95 -24.0 Z\" fill=\"none\" stroke=\"#5e2f8c\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n      <path d=\"M3.3 -11.25 L3.3 -11.05 1.9 -9.7 1.85 -9.7 0.3 -10.3 0.3 -10.25 0.8 -9.0 Q0.0 -8.65 -0.8 -8.65 L-1.45 -8.7 -1.8 -9.95 -3.15 -10.0 -3.0 -10.15 -0.2 -11.85 3.3 -11.25 M-1.95 -14.4 L-1.35 -14.95 -0.45 -13.7 0.15 -15.15 1.25 -14.8 -0.2 -11.85 -1.95 -14.4\" fill=\"#3399cc\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M1.25 -14.8 L1.65 -14.5 1.35 -12.8 Q2.2 -14.15 3.45 -13.5 L2.1 -12.2 Q3.2 -11.9 3.3 -11.25 L-0.2 -11.85 1.25 -14.8 M-3.0 -10.15 L-2.4 -11.2 Q-3.2 -11.05 -3.95 -12.0 L-2.4 -12.65 -3.3 -13.4 -2.75 -13.75 -1.95 -14.4 -0.2 -11.85 -3.0 -10.15\" fill=\"#6633cc\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M1.25 -14.8 L1.65 -14.5 1.35 -12.8 Q2.2 -14.15 3.45 -13.5 L2.1 -12.2 Q3.2 -11.9 3.3 -11.25 L3.3 -11.05 1.9 -9.7 1.85 -9.7 0.3 -10.3 0.3 -10.25 0.8 -9.0 Q0.0 -8.65 -0.8 -8.65 L-1.45 -8.7 -1.8 -9.95 -3.15 -10.0 -3.0 -10.15 -2.4 -11.2 Q-3.2 -11.05 -3.95 -12.0 L-2.4 -12.65 -3.3 -13.4 -2.75 -13.75 -1.95 -14.4 -1.35 -14.95 -0.45 -13.7 0.15 -15.15 1.25 -14.8 Z\" fill=\"none\" stroke=\"#542db0\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n      <path d=\"M7.25 -15.5 L7.85 -12.35 Q8.8 -12.65 9.7 -13.05 L10.35 -12.2 9.35 -11.85 9.55 -11.65 Q9.8 -11.3 9.7 -10.45 L8.6 -10.95 8.6 -9.95 8.15 -10.0 7.65 -10.05 7.85 -12.35 5.55 -12.2 6.65 -13.1 Q5.5 -12.8 5.25 -13.95 L6.55 -13.95 Q6.1 -15.0 6.6 -15.5 L7.25 -15.5\" fill=\"#3399cc\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M9.7 -13.05 Q8.8 -12.65 7.85 -12.35 L7.25 -15.5 8.0 -15.5 8.05 -15.45 8.5 -14.15 8.95 -15.35 9.9 -14.5 10.2 -14.15 9.7 -13.05 M5.55 -12.2 L7.85 -12.35 7.65 -10.05 6.8 -10.05 7.05 -11.5 6.0 -10.95 Q5.7 -11.3 5.55 -12.2\" fill=\"#6633cc\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M9.7 -13.05 L10.2 -14.15 9.9 -14.5 8.95 -15.35 8.5 -14.15 8.05 -15.45 8.0 -15.5 7.25 -15.5 6.6 -15.5 Q6.1 -15.0 6.55 -13.95 L5.25 -13.95 Q5.5 -12.8 6.65 -13.1 L5.55 -12.2 Q5.7 -11.3 6.0 -10.95 L7.05 -11.5 6.8 -10.05 7.65 -10.05 8.15 -10.0 8.6 -9.95 8.6 -10.95 9.7 -10.45 Q9.8 -11.3 9.55 -11.65 L9.35 -11.85 10.35 -12.2 9.7 -13.05 Z\" fill=\"none\" stroke=\"#542db0\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n      <path d=\"M-7.35 -14.75 L-6.4 -15.1 -6.7 -13.85 -6.45 -13.95 Q-6.05 -14.0 -5.45 -13.55 L-6.45 -12.6 -5.7 -12.15 -6.05 -11.7 -6.35 -11.2 -7.95 -12.5 -9.15 -9.95 -9.15 -11.55 Q-9.65 -10.15 -10.6 -10.45 L-9.85 -11.8 Q-10.95 -11.8 -11.05 -12.55 L-10.65 -13.25 -7.95 -12.5 -7.35 -14.75\" fill=\"#3399cc\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-10.65 -13.25 L-10.2 -14.0 -10.15 -14.05 -8.9 -13.95 -9.5 -14.95 -8.35 -15.6 -7.9 -15.75 -7.35 -14.75 -7.95 -12.5 -10.65 -13.25 M-6.35 -11.2 L-6.9 -10.3 -7.8 -11.25 -7.95 -9.85 -9.15 -9.95 -7.95 -12.5 -6.35 -11.2\" fill=\"#6633cc\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-10.65 -13.25 L-10.2 -14.0 -10.15 -14.05 -8.9 -13.95 -9.5 -14.95 -8.35 -15.6 -7.9 -15.75 -7.35 -14.75 -6.4 -15.1 -6.7 -13.85 -6.45 -13.95 Q-6.05 -14.0 -5.45 -13.55 L-6.45 -12.6 -5.7 -12.15 -6.05 -11.7 -6.35 -11.2 -6.9 -10.3 -7.8 -11.25 -7.95 -9.85 -9.15 -9.95 -9.15 -11.55 Q-9.65 -10.15 -10.6 -10.45 L-9.85 -11.8 Q-10.95 -11.8 -11.05 -12.55 L-10.65 -13.25 Z\" fill=\"none\" stroke=\"#542db0\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [
+        {
+          "id": "clothes-coat_girl_winter_10-McBody2-mcColor",
+          "kind": "multiply",
+          "percent": 100
+        },
+        {
+          "id": "clothes-coat_girl_winter_10-McBody2-mcBorder",
+          "kind": "border",
+          "percent": 50
+        }
+      ],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    }
+  },
+  "rasterSource": false
+}

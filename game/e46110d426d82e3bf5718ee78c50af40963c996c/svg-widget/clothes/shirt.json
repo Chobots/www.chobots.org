@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sourceName": "shirt.swf",
+  "sha256": "41df4a38956db3bb6c78e100e1c739073f1ddaa4785e89b494383b7f540c1c08",
+  "parts": {
+    "McArmBottom": {
+      "width": 5.65,
+      "height": 8.1,
+      "registrationX": -0.15,
+      "registrationY": -1.6,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.15, 1.6)\">\n    <use height=\"8.1\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"5.65\" href=\"#clothes-shirt-McArmBottom-shape0\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-shirt-McArmBottom-shape0\">\n      <path d=\"M0.15 1.05 L4.2 -0.1 4.75 1.6 0.4 2.55 0.15 1.05 M5.25 3.4 L5.3 3.6 5.5 4.85 0.6 5.35 0.6 5.2 0.55 4.05 5.25 3.4\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M0.15 1.05 L-0.15 -0.2 3.5 -1.6 4.2 -0.1 0.15 1.05 M4.75 1.6 L5.25 3.4 0.55 4.05 0.4 2.55 4.75 1.6 M5.5 4.85 L5.25 6.45 5.25 6.5 0.5 6.5 0.5 6.45 0.6 5.35 5.5 4.85\" fill=\"#000000\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McBody2": {
+      "width": 18.4,
+      "height": 17.9,
+      "registrationX": -9.4,
+      "registrationY": -24.25,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 9.4, 24.25)\">\n    <use height=\"17.9\" transform=\"matrix(1.0592, 0.0, 0.0, 1.0, -9.15, -24.0)\" width=\"17.4\" href=\"#clothes-shirt-McBody2-sprite0\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-shirt-McBody2-sprite0\">\n      <use height=\"17.9\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"17.4\" href=\"#clothes-shirt-McBody2-shape0\"></use>\n    </g>\n    <g id=\"clothes-shirt-McBody2-shape0\">\n      <path d=\"M0.0 16.4 Q0.2 13.0 2.4 7.9 L5.6 0.0 Q8.4 7.65 11.35 0.0 L13.3 4.9 Q16.35 12.7 16.7 15.0 L16.9 16.4 Q8.45 18.45 0.0 16.4\" fill=\"#ff0033\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M0.0 16.4 Q0.2 13.0 2.4 7.9 L5.6 0.0 Q8.4 7.65 11.35 0.0 L13.3 4.9 Q16.35 12.7 16.7 15.0 L16.9 16.4 Q8.45 18.45 0.0 16.4 Z\" fill=\"none\" stroke=\"#990000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1\" vector-effect=\"non-scaling-stroke\" data-flash-original-stroke-width=\"0.55\" data-flash-min-stroke=\"true\"></path>\n      <path d=\"M10.2 6.0 Q9.0 8.05 10.55 10.45 11.55 6.7 10.2 6.0 M9.25 10.0 Q8.35 6.7 9.6 3.9 13.7 4.95 11.15 10.65 L11.45 10.85 Q12.75 11.85 12.75 13.2 12.75 14.55 11.45 15.5 10.15 16.5 8.3 16.5 6.45 16.5 5.15 15.5 3.85 14.55 3.85 13.2 3.85 12.25 4.5 11.5 2.7 8.25 6.75 4.7 7.45 4.05 6.95 10.05 L8.3 9.9 9.25 10.0 M10.55 12.8 L11.25 12.7 10.9 12.0 10.05 11.75 9.2 12.0 Q8.85 12.3 8.85 12.7 8.85 13.1 9.05 13.1 L9.55 12.8 Q9.85 12.5 10.55 12.8 M9.85 13.9 Q9.05 14.3 8.3 14.35 L7.0 13.95 Q7.7 14.95 8.5 15.05 L9.65 14.2 9.85 13.9 M7.85 12.8 L7.5 12.1 6.65 11.85 5.8 12.1 Q5.45 12.4 5.45 12.8 5.45 13.2 5.65 13.2 L6.15 12.9 Q6.45 12.6 7.15 12.9 7.85 13.2 7.85 12.8 M5.4 10.85 Q6.55 8.95 6.15 6.45 4.5 8.15 5.4 10.85\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M10.2 6.0 Q11.55 6.7 10.55 10.45 9.0 8.05 10.2 6.0 M10.55 12.8 Q9.85 12.5 9.55 12.8 L9.05 13.1 Q8.85 13.1 8.85 12.7 8.85 12.3 9.2 12.0 L10.05 11.75 10.9 12.0 11.25 12.7 10.55 12.8 M9.85 13.9 L9.65 14.2 8.5 15.05 Q7.7 14.95 7.0 13.95 L8.3 14.35 Q9.05 14.3 9.85 13.9 M5.4 10.85 Q4.5 8.15 6.15 6.45 6.55 8.95 5.4 10.85 M7.85 12.8 Q7.85 13.2 7.15 12.9 6.45 12.6 6.15 12.9 L5.65 13.2 Q5.45 13.2 5.45 12.8 5.45 12.4 5.8 12.1 L6.65 11.85 7.5 12.1 7.85 12.8\" fill=\"#333333\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    }
+  },
+  "rasterSource": false
+}

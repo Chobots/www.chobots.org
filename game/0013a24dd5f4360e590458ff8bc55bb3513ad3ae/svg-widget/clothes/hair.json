@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sourceName": "hair.swf",
+  "sha256": "ae6a2d0503feaf8f3b36350ef109938ce9c222adf10267eaf91153ad6e8a72fb",
+  "parts": {
+    "McHead2": {
+      "width": 18.9,
+      "height": 20.8,
+      "registrationX": -9.95,
+      "registrationY": -39.5,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 9.95, 39.5)\">\n    <use height=\"19.8\" id=\"clothes-hair-McHead2-mcColor\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -9.95, -39.5)\" width=\"18.9\" href=\"#clothes-hair-McHead2-sprite0\"></use>\n    <use height=\"3.55\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"7.45\" href=\"#clothes-hair-McHead2-shape1\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-hair-McHead2-sprite0\">\n      <use height=\"19.8\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"18.9\" href=\"#clothes-hair-McHead2-shape0\"></use>\n    </g>\n    <g id=\"clothes-hair-McHead2-shape0\">\n      <path d=\"M15.35 2.3 Q13.6 4.55 12.75 7.6 14.25 4.55 16.1 1.75 L17.5 0.0 18.9 0.35 18.9 0.45 Q16.4 3.35 14.5 6.95 L15.2 6.05 16.45 6.4 16.6 6.65 Q14.95 8.45 13.7 10.8 12.4 13.7 11.95 16.95 L11.75 18.55 11.75 18.6 11.15 18.75 11.1 18.8 10.55 19.1 10.4 19.35 10.35 19.4 9.05 19.35 Q8.5 19.65 7.85 18.95 L6.65 14.05 Q5.0 9.35 1.3 6.05 L0.1 4.65 0.0 4.3 Q4.5 5.6 6.65 10.05 L8.5 14.75 8.1 13.3 Q6.85 8.45 3.6 4.75 L2.45 3.0 2.45 2.75 Q5.55 3.8 7.35 6.5 6.7 4.5 5.4 2.85 4.65 1.9 3.5 1.7 L3.5 1.6 3.55 1.45 3.55 1.35 3.6 1.25 3.75 1.1 3.8 1.05 5.3 1.65 4.65 0.95 4.7 0.8 4.7 0.6 4.75 0.35 4.75 0.25 4.75 0.2 6.15 0.45 Q8.4 3.9 9.55 7.9 L9.9 9.1 Q9.65 5.4 8.7 1.8 L8.5 0.05 9.9 0.25 Q10.85 2.95 11.2 5.85 11.55 3.8 12.25 1.8 L12.6 0.05 14.1 0.35 14.1 0.4 13.45 2.4 14.1 1.75 15.35 2.05 15.35 2.3\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-hair-McHead2-shape1\">\n      <path d=\"M-3.35 -21.15 Q-2.4 -21.15 -1.25 -20.55 -0.1 -19.9 -0.2 -19.5 L-0.15 -19.45 Q-0.05 -20.15 1.15 -20.85 L2.6 -21.5\" fill=\"none\" stroke=\"#ffcc00\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [
+        {
+          "id": "clothes-hair-McHead2-mcColor",
+          "kind": "multiply",
+          "percent": 100
+        }
+      ],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    }
+  },
+  "rasterSource": false
+}

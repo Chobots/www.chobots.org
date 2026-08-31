@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sourceName": "glasses_nose.swf",
+  "sha256": "cd6b8ac71ab75fb54e7e3e65c205da07e5c2de13a928a9e2c92e706fc4003dff",
+  "parts": {
+    "McHead2": {
+      "width": 17.3,
+      "height": 13.15,
+      "registrationX": -8.7,
+      "registrationY": -12.5,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 8.7, 12.5)\">\n    <use height=\"4.7\" id=\"clothes-glasses_nose-McHead2-mcColor\" transform=\"matrix(1.2778, 0.0, 0.0, 1.2778, -12.8, -14.0)\" width=\"12.4\" href=\"#clothes-glasses_nose-McHead2-sprite0\"></use>\n    <use height=\"5.75\" id=\"clothes-glasses_nose-McHead2-mcBorder\" transform=\"matrix(1.2778, 0.0, 0.0, 1.2778, -12.8, -14.0)\" width=\"13.55\" href=\"#clothes-glasses_nose-McHead2-sprite1\"></use>\n    <use height=\"11.1\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"14.25\" href=\"#clothes-glasses_nose-McHead2-shape2\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-glasses_nose-McHead2-sprite0\">\n      <use height=\"4.7\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"12.4\" href=\"#clothes-glasses_nose-McHead2-shape0\"></use>\n    </g>\n    <g id=\"clothes-glasses_nose-McHead2-shape0\">\n      <path d=\"M16.15 4.6 Q15.85 6.15 14.85 6.3 L12.25 6.3 Q11.35 6.25 10.9 5.15 10.4 4.15 10.5 2.95 L10.55 2.55 Q10.9 1.95 12.4 1.75 L15.05 1.8 Q16.3 2.0 16.3 3.1 L16.15 4.6 M5.15 1.85 L7.8 1.8 Q9.25 2.0 9.6 2.6 L9.7 3.0 Q9.75 4.2 9.3 5.2 8.8 6.3 7.95 6.35 L5.35 6.35 Q4.35 6.2 4.0 4.7 L3.9 3.2 Q3.9 2.05 5.15 1.85\" fill=\"#ffffff\" fill-opacity=\"0.6\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-glasses_nose-McHead2-sprite1\">\n      <use height=\"5.75\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"13.55\" href=\"#clothes-glasses_nose-McHead2-shape1\"></use>\n    </g>\n    <g id=\"clothes-glasses_nose-McHead2-shape1\">\n      <path d=\"M9.5 2.6 L9.6 2.95 Q9.65 4.2 9.2 5.2 8.7 6.35 7.8 6.35 L5.15 6.35 Q4.15 6.25 3.8 4.65 L3.7 3.15 Q3.7 2.0 4.95 1.8 L7.65 1.75 Q9.1 1.95 9.5 2.6 L10.45 2.5 Q10.8 1.9 12.3 1.7 L15.0 1.75 Q16.25 1.95 16.25 3.1 L16.15 4.6 Q15.8 6.15 14.8 6.3 L12.15 6.3 Q11.25 6.25 10.8 5.15 10.3 4.15 10.35 2.9 L10.45 2.5\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n    <g id=\"clothes-glasses_nose-McHead2-shape2\">\n      <path d=\"M6.4 0.15 Q-0.25 -0.9 -6.85 0.15 L-6.85 0.05 Q-6.85 -1.4 -5.05 -2.5 -3.0 -3.6 -0.25 -3.6 2.5 -3.6 4.4 -2.5 6.4 -1.4 6.4 0.05 L6.4 0.15\" fill=\"#993300\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M6.4 0.15 Q-0.25 -0.9 -6.85 0.15 L-6.85 0.05 Q-6.85 -1.4 -5.05 -2.5 -3.0 -3.6 -0.25 -3.6 2.5 -3.6 4.4 -2.5 6.4 -1.4 6.4 0.05 L6.4 0.15 Z\" fill=\"none\" stroke=\"#4f1a00\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n      <path d=\"M-0.05 -9.95 Q0.75 -9.95 1.45 -7.15 2.15 -4.4 1.7 -3.65 1.0 -2.25 -0.05 -2.25 -1.15 -2.25 -1.9 -3.65 -2.35 -4.45 -1.75 -7.15 -1.15 -9.95 -0.05 -9.95\" fill=\"#ff0000\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-0.05 -9.95 Q-1.15 -9.95 -1.75 -7.15 -2.35 -4.45 -1.9 -3.65 -1.15 -2.25 -0.05 -2.25 1.0 -2.25 1.7 -3.65 2.15 -4.4 1.45 -7.15 0.75 -9.95 -0.05 -9.95 Z\" fill=\"none\" stroke=\"#b30000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [
+        {
+          "id": "clothes-glasses_nose-McHead2-mcColor",
+          "kind": "multiply",
+          "percent": 100
+        },
+        {
+          "id": "clothes-glasses_nose-McHead2-mcBorder",
+          "kind": "border",
+          "percent": 50
+        }
+      ],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    }
+  },
+  "rasterSource": false
+}

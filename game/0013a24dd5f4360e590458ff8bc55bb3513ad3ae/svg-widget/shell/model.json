@@ -1,0 +1,133 @@
+{
+  "version": 1,
+  "exportName": "ModelStay2",
+  "parts": [
+    {
+      "instanceName": "_ChLeg2_right",
+      "assetClass": "McLeg2",
+      "matrix": [
+        1,
+        0.0046,
+        -0.0046,
+        1,
+        -4,
+        -8
+      ]
+    },
+    {
+      "instanceName": "_ChLeg2_left",
+      "assetClass": "McLeg2",
+      "matrix": [
+        -1,
+        0.0046,
+        0.0046,
+        1,
+        4,
+        -8
+      ]
+    },
+    {
+      "instanceName": "_ChBody2",
+      "assetClass": "McBody2",
+      "matrix": [
+        1,
+        0,
+        0,
+        1,
+        0.15,
+        -3.55
+      ]
+    },
+    {
+      "instanceName": "_ChArmTop_right",
+      "assetClass": "McArmTop",
+      "matrix": [
+        -0.9996,
+        -0.0262,
+        -0.0225,
+        0.9996,
+        -2.45,
+        -26.5
+      ]
+    },
+    {
+      "instanceName": "_ChArmBottom_right",
+      "assetClass": "McArmBottom",
+      "matrix": [
+        -0.9996,
+        -0.0262,
+        -0.0225,
+        0.9996,
+        -6.8,
+        -16.75
+      ]
+    },
+    {
+      "instanceName": "_ChArmTop_left",
+      "assetClass": "McArmTop",
+      "matrix": [
+        0.9996,
+        -0.0262,
+        0.0225,
+        0.9996,
+        2.4,
+        -26.4
+      ]
+    },
+    {
+      "instanceName": "_ChArmBottom_left",
+      "assetClass": "McArmBottom",
+      "matrix": [
+        0.9996,
+        -0.0262,
+        0.0225,
+        0.9996,
+        6.75,
+        -16.6
+      ]
+    },
+    {
+      "instanceName": "_ChUpper2",
+      "assetClass": "McUpper2",
+      "matrix": [
+        1.0019,
+        0,
+        0,
+        1,
+        0.25,
+        -25.55
+      ]
+    },
+    {
+      "instanceName": "_ChHead2",
+      "assetClass": "McHead2",
+      "matrix": [
+        1,
+        0,
+        0,
+        1,
+        -0.1,
+        -25.2
+      ]
+    },
+    {
+      "instanceName": "_ChPimpa",
+      "assetClass": "McPimpa",
+      "matrix": [
+        1.2404,
+        0,
+        0,
+        1.2413,
+        -6.45,
+        -45.55
+      ]
+    }
+  ],
+  "characterClip": {
+    "x": 9,
+    "y": 40,
+    "width": 217,
+    "height": 220
+  },
+  "scale": 2.3
+}

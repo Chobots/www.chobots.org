@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "sourceName": "shirt_ball.swf",
+  "sha256": "45314107bf61f653465bf43e6dc3ae55f60ac56f83318146742c1346e9288a57",
+  "parts": {
+    "McArmBottom": {
+      "width": 6.7,
+      "height": 9.7,
+      "registrationX": -0.7,
+      "registrationY": -2,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.7, 2.0)\">\n    <use height=\"9.7\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"6.7\" href=\"#clothes-shirt_ball-McArmBottom-shape0\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-shirt_ball-McArmBottom-shape0\">\n      <path d=\"M3.75 -1.5 L5.1 -0.65 4.6 0.3 5.1 2.1 5.45 3.7 Q5.65 4.5 5.25 7.15 2.05 7.4 0.45 6.05 L0.35 5.3 -0.2 -0.1 Q2.55 -1.45 3.75 -1.5\" fill=\"#000000\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M5.25 7.15 Q2.05 7.4 0.45 6.05\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n      <path d=\"M3.75 -1.5 L5.1 -0.65 4.6 0.3 5.1 2.1 5.45 3.7 Q5.65 4.5 5.25 7.15 M0.45 6.05 L0.35 5.3 -0.2 -0.1\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McArmTop": {
+      "width": 9.75,
+      "height": 13.35,
+      "registrationX": -0.75,
+      "registrationY": -2.3,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.75, 2.3)\">\n    <use height=\"2.45\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"3.9\" href=\"#clothes-shirt_ball-McArmTop-shape0\"></use>\n    <use height=\"11.6\" id=\"clothes-shirt_ball-McArmTop-mcColor\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 4.1, 4.0)\" width=\"8.75\" href=\"#clothes-shirt_ball-McArmTop-sprite0\"></use>\n    <use height=\"12.6\" id=\"clothes-shirt_ball-McArmTop-mcBorder\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 4.1, 4.0)\" width=\"9.75\" href=\"#clothes-shirt_ball-McArmTop-sprite1\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-shirt_ball-McArmTop-shape0\">\n      <path d=\"M3.9 9.8 L7.75 8.6 7.75 8.75 Q8.0 9.9 7.15 10.6 6.3 11.35 5.0 10.85 4.25 10.6 3.9 9.8\" fill=\"#000000\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-shirt_ball-McArmTop-sprite0\">\n      <use height=\"11.6\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"8.75\" href=\"#clothes-shirt_ball-McArmTop-shape1\"></use>\n    </g>\n    <g id=\"clothes-shirt_ball-McArmTop-shape1\">\n      <path d=\"M-4.35 -5.8 L-1.2 -3.45 Q0.35 -2.2 1.15 -0.95 L3.3 2.55 4.4 3.8 4.05 4.2 3.65 4.6 -0.2 5.8 -0.4 4.8 -0.6 3.65 Q-1.4 1.05 -4.05 -3.1 L-4.35 -5.8\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-shirt_ball-McArmTop-sprite1\">\n      <use height=\"12.6\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"9.75\" href=\"#clothes-shirt_ball-McArmTop-shape2\"></use>\n    </g>\n    <g id=\"clothes-shirt_ball-McArmTop-shape2\">\n      <path d=\"M-4.35 -5.8 L-1.2 -3.45 Q0.35 -2.2 1.15 -0.95 L3.3 2.55 4.4 3.8 4.05 4.2 3.65 4.6 M-0.2 5.8 L-0.4 4.8 -0.6 3.65 Q-1.4 1.05 -4.05 -3.1\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [
+        {
+          "id": "clothes-shirt_ball-McArmTop-mcColor",
+          "kind": "multiply",
+          "percent": 100
+        },
+        {
+          "id": "clothes-shirt_ball-McArmTop-mcBorder",
+          "kind": "border",
+          "percent": 50
+        }
+      ],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McBody2": {
+      "width": 18.55,
+      "height": 25.2,
+      "registrationX": -9.5,
+      "registrationY": -27,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 9.5, 27.0)\">\n    <use height=\"24.2\" id=\"clothes-shirt_ball-McBody2-mcColor\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -0.2, -14.4)\" width=\"17.55\" href=\"#clothes-shirt_ball-McBody2-sprite0\"></use>\n    <use height=\"12.4\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"13.65\" href=\"#clothes-shirt_ball-McBody2-shape1\"></use>\n    <use height=\"25.2\" id=\"clothes-shirt_ball-McBody2-mcBorder\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -0.2, -14.4)\" width=\"18.55\" href=\"#clothes-shirt_ball-McBody2-sprite1\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-shirt_ball-McBody2-sprite0\">\n      <use height=\"24.2\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"17.55\" href=\"#clothes-shirt_ball-McBody2-shape0\"></use>\n    </g>\n    <g id=\"clothes-shirt_ball-McBody2-shape0\">\n      <path d=\"M5.65 -4.7 Q7.75 -0.4 8.25 3.1 8.45 4.45 8.3 6.9 L8.2 9.3 Q8.9 10.45 8.7 10.75 -0.65 13.45 -8.8 10.65 L-8.55 9.85 -8.25 9.05 Q-9.35 3.9 -6.95 -1.7 -5.05 -6.15 -1.95 -12.1 L1.8 -12.1 5.65 -4.7\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-shirt_ball-McBody2-shape1\">\n      <path d=\"M-1.45 -16.1 L1.25 -15.95 1.4 -14.1 1.25 -14.05 -1.1 -13.0 -2.8 -14.4 -1.45 -16.1 M3.2 -10.1 L3.1 -10.2 Q3.7 -11.3 3.55 -12.55 L5.3 -13.15 6.05 -11.3 Q5.6 -9.7 4.6 -9.25 L3.2 -10.1 M3.6 -7.3 L3.9 -6.95 Q2.4 -5.9 0.55 -5.75 L1.1 -6.2 3.6 -7.3 M-5.7 -14.15 L-5.3 -13.75 -4.9 -13.4 Q-5.6 -12.15 -5.55 -10.9 L-5.45 -10.8 -6.3 -10.2 -6.4 -11.7 Q-6.35 -13.05 -5.7 -14.15 M-3.65 -9.45 L-1.55 -10.55 0.55 -9.05 -0.45 -7.15 Q-1.75 -6.75 -3.0 -7.45 -3.85 -8.4 -3.65 -9.45\" fill=\"#000000\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M2.85 -16.5 L2.05 -16.2 2.85 -16.5 4.55 -15.3 5.05 -14.75 5.3 -13.55 5.05 -14.75 Q6.3 -13.25 6.25 -11.25 L6.05 -11.3 6.25 -11.25 6.25 -11.15 Q6.1 -8.8 4.2 -7.2 L3.9 -6.95 3.6 -7.3 4.15 -8.3 3.6 -7.3 1.1 -6.2 0.55 -5.75 -0.4 -5.75 Q-2.35 -5.8 -3.85 -6.8 L-4.8 -7.6 Q-5.95 -8.75 -6.3 -10.2 L-5.45 -10.8 -5.1 -10.45 Q-5.0 -8.55 -3.3 -7.2 L-3.85 -6.8 -3.3 -7.2 -3.0 -7.45 Q-1.75 -6.75 -0.45 -7.15 L-0.2 -7.0 Q2.25 -6.75 4.15 -8.3 L4.6 -9.25 Q5.6 -9.7 6.05 -11.3 L5.3 -13.15 5.3 -13.55 2.05 -16.2 1.25 -15.95 -1.45 -16.1 -1.65 -16.5 -1.9 -16.9 -1.65 -16.5 Q-3.75 -15.45 -5.3 -13.75 L-5.7 -14.15 -4.4 -15.65 Q-3.3 -16.55 -1.9 -16.9 L0.2 -17.15 2.85 -16.5 M1.1 -6.2 L-0.2 -7.0 1.1 -6.2\" fill=\"#cccccc\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-1.65 -16.5 L-1.45 -16.1 -2.8 -14.4 Q-5.5 -12.05 -3.65 -9.45 -3.85 -8.4 -3.0 -7.45 L-3.3 -7.2 Q-5.0 -8.55 -5.1 -10.45 L-5.45 -10.8 -5.55 -10.9 Q-5.6 -12.15 -4.9 -13.4 L-5.3 -13.75 Q-3.75 -15.45 -1.65 -16.5 M1.25 -15.95 L2.05 -16.2 5.3 -13.55 5.3 -13.15 3.55 -12.55 Q3.7 -11.3 3.1 -10.2 L3.2 -10.1 0.55 -9.05 3.2 -10.1 4.6 -9.25 4.15 -8.3 Q2.25 -6.75 -0.2 -7.0 L-0.45 -7.15 0.55 -9.05 Q3.0 -11.45 1.25 -14.05 L1.4 -14.1 3.55 -12.55 1.4 -14.1 1.25 -15.95 M-2.8 -14.4 Q-3.9 -14.15 -4.9 -13.4 -3.9 -14.15 -2.8 -14.4 M-5.1 -10.45 L-3.65 -9.45 -5.1 -10.45\" fill=\"#e1e1e1\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M1.25 -14.05 Q3.0 -11.45 0.55 -9.05 L-1.55 -10.55 -3.65 -9.45 Q-5.5 -12.05 -2.8 -14.4 L-1.1 -13.0 -1.55 -10.55 -1.1 -13.0 1.25 -14.05\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M2.05 -16.2 L2.85 -16.5 0.2 -17.15 -1.9 -16.9 -1.65 -16.5 -1.45 -16.1 M1.25 -15.95 L2.05 -16.2 M5.3 -13.55 L5.05 -14.75 4.55 -15.3 2.85 -16.5 M1.4 -14.1 L1.25 -14.05 M0.55 -9.05 L3.2 -10.1 3.1 -10.2 M3.55 -12.55 L1.4 -14.1 M5.3 -13.55 L5.3 -13.15 M6.05 -11.3 L6.25 -11.25 Q6.3 -13.25 5.05 -14.75 M4.6 -9.25 L4.15 -8.3 3.6 -7.3 3.9 -6.95 4.2 -7.2 Q6.1 -8.8 6.25 -11.15 L6.25 -11.25 M0.55 -5.75 Q2.4 -5.9 3.9 -6.95 M-1.9 -16.9 Q-3.3 -16.55 -4.4 -15.65 L-5.7 -14.15 Q-6.35 -13.05 -6.4 -11.7 L-6.3 -10.2 Q-5.95 -8.75 -4.8 -7.6 L-3.85 -6.8 -3.3 -7.2 -3.0 -7.45 M-1.55 -10.55 L-1.1 -13.0 M-5.45 -10.8 L-5.55 -10.9 M-5.1 -10.45 L-5.45 -10.8 M-0.2 -7.0 L-0.45 -7.15 M-3.65 -9.45 L-5.1 -10.45 M-4.9 -13.4 Q-3.9 -14.15 -2.8 -14.4 M-3.85 -6.8 Q-2.35 -5.8 -0.4 -5.75 L0.55 -5.75 M-0.2 -7.0 L1.1 -6.2\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n    </g>\n    <g id=\"clothes-shirt_ball-McBody2-sprite1\">\n      <use height=\"25.2\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"18.55\" href=\"#clothes-shirt_ball-McBody2-shape2\"></use>\n    </g>\n    <g id=\"clothes-shirt_ball-McBody2-shape2\">\n      <path d=\"M5.65 -4.7 Q7.75 -0.4 8.25 3.1 8.45 4.45 8.3 6.9 L8.2 9.3 Q8.9 10.45 8.7 10.75 -0.65 13.45 -8.8 10.65 L-8.55 9.85 -8.25 9.05 Q-9.35 3.9 -6.95 -1.7 -5.05 -6.15 -1.95 -12.1 L1.8 -12.1 5.65 -4.7 Z\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [
+        {
+          "id": "clothes-shirt_ball-McBody2-mcColor",
+          "kind": "multiply",
+          "percent": 100
+        },
+        {
+          "id": "clothes-shirt_ball-McBody2-mcBorder",
+          "kind": "border",
+          "percent": 50
+        }
+      ],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    }
+  },
+  "rasterSource": false
+}

@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sourceName": "bant_1_test.swf",
+  "sha256": "47b4abce968150a4e92dbfaa1ef21e63edc24a8cd5fab1a87636f103f5a9462e",
+  "parts": {
+    "McUpper2": {
+      "width": 24.4,
+      "height": 18.65,
+      "registrationX": -11.85,
+      "registrationY": -4.85,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 11.85, 4.85)\">\n    <use height=\"18.65\" id=\"clothes-bant_1_test-McUpper2-mcColor\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.3, 4.45)\" width=\"24.4\" href=\"#clothes-bant_1_test-McUpper2-sprite0\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-bant_1_test-McUpper2-sprite0\">\n      <use height=\"18.65\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"24.4\" href=\"#clothes-bant_1_test-McUpper2-shape0\"></use>\n    </g>\n    <g id=\"clothes-bant_1_test-McUpper2-shape0\">\n      <path d=\"M-7.45 -4.9 L-8.65 -5.85 Q-9.85 -2.7 -9.85 -2.05 L-2.65 -3.55 -5.35 -4.25 Q-7.25 -4.7 -7.45 -4.9 M7.55 -5.8 L1.45 -3.6 5.3 -3.05 7.65 -2.9 9.0 -2.85 9.0 -2.9 Q8.25 -4.45 8.5 -6.0 L7.55 -5.8 M9.65 -8.7 Q10.4 -7.95 10.4 -6.95 10.45 -5.2 11.45 -1.7 L11.45 -1.75 Q11.85 -0.5 11.15 0.1 L9.2 0.2 5.0 -0.85 3.1 -1.35 6.25 0.9 Q8.35 2.55 9.25 3.85 L12.2 7.95 Q12.6 8.5 8.75 9.35 6.95 5.1 3.5 1.25 L0.85 -1.35 Q0.6 -0.95 -0.45 -0.95 -1.5 -0.95 -1.9 -1.5 L-5.25 2.3 -9.25 6.9 Q-10.1 8.0 -12.05 4.25 -10.25 4.1 -8.45 2.6 L-6.15 0.15 -4.9 -0.8 Q-3.8 -1.55 -3.6 -1.75 -6.25 -1.3 -6.95 -0.8 L-7.0 -0.8 Q-9.95 1.0 -11.05 0.25 L-11.0 0.25 Q-12.05 -0.3 -12.15 -1.2 L-12.1 -1.15 Q-12.55 -2.35 -10.3 -8.0 -9.3 -9.25 -7.0 -7.35 -6.7 -7.1 -5.55 -6.6 L-4.0 -6.0 -3.95 -6.0 -1.85 -5.2 Q-1.55 -5.6 -0.6 -5.65 L0.65 -5.45 2.8 -6.55 7.15 -8.85 Q8.6 -9.8 9.65 -8.7\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [
+        {
+          "id": "clothes-bant_1_test-McUpper2-mcColor",
+          "kind": "multiply",
+          "percent": 100
+        }
+      ],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    }
+  },
+  "rasterSource": false
+}

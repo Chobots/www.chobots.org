@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "sourceName": "feather.swf",
+  "sha256": "fdb80c6feb7e0470ff5766b9d203bc74788a1f32c0f57ad4452d2cc62a5a0324",
+  "parts": {
+    "McArmBottom": {
+      "width": 11.75,
+      "height": 38.3,
+      "registrationX": -2.25,
+      "registrationY": -24.75,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 2.25, 24.75)\">\n    <use height=\"38.3\" id=\"clothes-feather-McArmBottom-oneHand\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 3.6, -5.6)\" width=\"11.75\" href=\"#clothes-feather-McArmBottom-sprite0\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-feather-McArmBottom-sprite0\">\n      <use height=\"38.3\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"11.75\" href=\"#clothes-feather-McArmBottom-shape0\"></use>\n    </g>\n    <g id=\"clothes-feather-McArmBottom-shape0\">\n      <path d=\"M-3.15 11.65 L-4.25 10.5 Q-5.35 9.1 -5.35 8.1 -3.8 10.35 -2.0 11.05 -2.65 11.2 -2.95 11.45 L-3.15 11.65 M-2.1 10.95 Q0.5 10.6 5.2 8.8 3.65 9.75 0.7 10.8 L-1.9 11.65 -1.8 11.45 Q-1.7 11.2 -2.1 10.95\" fill=\"#d7e3ff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-3.15 11.65 L-4.25 10.5 Q-5.35 9.1 -5.35 8.1 -3.8 10.35 -2.0 11.05 -2.65 11.2 -2.95 11.45 L-3.15 11.65 M-2.1 10.95 Q-1.7 11.2 -1.8 11.45 L-1.9 11.65 0.7 10.8 Q3.65 9.75 5.2 8.8 0.5 10.6 -2.1 10.95 Z\" fill=\"none\" stroke=\"#83a2e2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n      <path d=\"M2.3 5.45 Q0.9 8.2 -1.0 9.85 L-2.15 10.75 -2.6 11.05 -3.7 9.0 Q-4.9 6.3 -4.9 3.05 -5.4 -7.25 4.4 -18.65 5.4 -12.5 5.4 -7.9 5.35 -2.85 4.05 -0.85 L2.7 1.2 1.15 2.8 2.1 2.05 4.25 0.6 Q3.5 3.25 2.3 5.45\" fill=\"#d7e3ff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M2.3 5.45 Q0.9 8.2 -1.0 9.85 L-2.15 10.75 -2.6 11.05 -3.7 9.0 Q-4.9 6.3 -4.9 3.05 -5.4 -7.25 4.4 -18.65 5.4 -12.5 5.4 -7.9 5.35 -2.85 4.05 -0.85 L2.7 1.2 1.15 2.8 2.1 2.05 4.25 0.6 Q3.5 3.25 2.3 5.45 Z\" fill=\"none\" stroke=\"#83a2e2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n      <path d=\"M3.9 -18.1 L3.2 -16.45\" fill=\"none\" stroke=\"#ab6927\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n      <path d=\"M-2.1 15.6 Q-2.45 16.25 -2.9 15.95 -3.05 12.25 -2.65 7.3 -1.6 -5.45 3.2 -16.45 0.8 -10.5 -0.85 -2.15 -2.9 8.35 -2.1 15.6\" fill=\"#ffcc66\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-2.1 15.6 Q-2.9 8.35 -0.85 -2.15 0.8 -10.5 3.2 -16.45 -1.6 -5.45 -2.65 7.3 -3.05 12.25 -2.9 15.95\" fill=\"none\" stroke=\"#ab6927\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n      <path d=\"M-2.65 18.65 L-2.9 15.95 Q-2.45 16.25 -2.1 15.6 L-1.95 16.25 -2.5 17.65 -2.65 18.65\" fill=\"#333333\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-2.65 18.65 L-2.9 15.95 Q-2.45 16.25 -2.1 15.6 L-1.95 16.25 -2.5 17.65 -2.65 18.65 Z\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [],
+      "hasOneHand": true,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    }
+  },
+  "rasterSource": false
+}

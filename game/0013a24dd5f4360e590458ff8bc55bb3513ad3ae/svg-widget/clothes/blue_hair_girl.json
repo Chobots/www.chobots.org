@@ -1,0 +1,118 @@
+{
+  "version": 1,
+  "sourceName": "blue_hair_girl.swf",
+  "sha256": "8c282bc750773e652c5cfdc5a05ef2ab8f5accdd00c70eb0692b26bd9178d014",
+  "parts": {
+    "McArmBottom": {
+      "width": 7.85,
+      "height": 9.9,
+      "registrationX": -0.95,
+      "registrationY": -3.25,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.95, 3.25)\">\n    <use height=\"8.6\" id=\"clothes-blue_hair_girl-McArmBottom-mcColor\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -0.45, -3.25)\" width=\"6.45\" href=\"#clothes-blue_hair_girl-McArmBottom-sprite0\"></use>\n    <use height=\"8.85\" id=\"clothes-blue_hair_girl-McArmBottom-mcBorder\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -0.45, -2.5)\" width=\"7.45\" href=\"#clothes-blue_hair_girl-McArmBottom-sprite1\"></use>\n    <use height=\"5.3\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"7.0\" href=\"#clothes-blue_hair_girl-McArmBottom-shape2\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-blue_hair_girl-McArmBottom-sprite0\">\n      <use height=\"8.6\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"6.45\" href=\"#clothes-blue_hair_girl-McArmBottom-shape0\"></use>\n    </g>\n    <g id=\"clothes-blue_hair_girl-McArmBottom-shape0\">\n      <path d=\"M0.0 3.1 Q1.25 -1.5 4.7 0.75 5.9 2.95 6.25 4.7 L6.45 7.75 1.25 8.6 Q1.1 6.7 0.0 3.1\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-blue_hair_girl-McArmBottom-sprite1\">\n      <use height=\"8.85\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"7.45\" href=\"#clothes-blue_hair_girl-McArmBottom-shape1\"></use>\n    </g>\n    <g id=\"clothes-blue_hair_girl-McArmBottom-shape1\">\n      <path d=\"M4.7 0.0 Q5.9 2.2 6.25 3.95 L6.45 7.0 1.25 7.85 Q1.1 5.95 0.0 2.35\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n    <g id=\"clothes-blue_hair_girl-McArmBottom-shape2\">\n      <path d=\"M6.35 4.65 Q4.15 6.7 1.15 5.95 0.25 4.65 0.45 3.1 3.45 4.35 5.75 1.85 6.65 3.1 6.35 4.65\" fill=\"#febf00\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M6.35 4.65 Q6.65 3.1 5.75 1.85 3.45 4.35 0.45 3.1 0.25 4.65 1.15 5.95 4.15 6.7 6.35 4.65 Z\" fill=\"none\" stroke=\"#9b4a02\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [
+        {
+          "id": "clothes-blue_hair_girl-McArmBottom-mcColor",
+          "kind": "multiply",
+          "percent": 100
+        },
+        {
+          "id": "clothes-blue_hair_girl-McArmBottom-mcBorder",
+          "kind": "border",
+          "percent": 50
+        }
+      ],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McArmTop": {
+      "width": 9.65,
+      "height": 12.5,
+      "registrationX": -0.5,
+      "registrationY": -0.6,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.5, 0.6)\">\n    <use height=\"11.5\" id=\"clothes-blue_hair_girl-McArmTop-mcColor\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, -0.1)\" width=\"8.65\" href=\"#clothes-blue_hair_girl-McArmTop-sprite0\"></use>\n    <use height=\"12.5\" id=\"clothes-blue_hair_girl-McArmTop-mcBorder\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, -0.1)\" width=\"9.65\" href=\"#clothes-blue_hair_girl-McArmTop-sprite1\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-blue_hair_girl-McArmTop-sprite0\">\n      <use height=\"11.5\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"8.65\" href=\"#clothes-blue_hair_girl-McArmTop-shape0\"></use>\n    </g>\n    <g id=\"clothes-blue_hair_girl-McArmTop-shape0\">\n      <path d=\"M5.5 3.85 Q7.2 5.65 8.5 7.75 9.15 9.9 6.9 11.05 4.6 12.25 3.8 10.1 2.65 6.25 0.1 1.75 -0.45 -0.8 1.8 0.4 L5.5 3.85\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-blue_hair_girl-McArmTop-sprite1\">\n      <use height=\"12.5\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"9.65\" href=\"#clothes-blue_hair_girl-McArmTop-shape1\"></use>\n    </g>\n    <g id=\"clothes-blue_hair_girl-McArmTop-shape1\">\n      <path d=\"M5.5 3.85 Q7.2 5.65 8.5 7.75 9.15 9.9 6.9 11.05 4.6 12.25 3.8 10.1 2.65 6.25 0.1 1.75 -0.45 -0.8 1.8 0.4 L5.5 3.85 Z\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [
+        {
+          "id": "clothes-blue_hair_girl-McArmTop-mcColor",
+          "kind": "multiply",
+          "percent": 100
+        },
+        {
+          "id": "clothes-blue_hair_girl-McArmTop-mcBorder",
+          "kind": "border",
+          "percent": 50
+        }
+      ],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McBody2": {
+      "width": 20.15,
+      "height": 23.45,
+      "registrationX": -10.4,
+      "registrationY": -22.9,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 10.4, 22.9)\">\n    <use height=\"9.55\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"17.5\" href=\"#clothes-blue_hair_girl-McBody2-shape0\"></use>\n    <use height=\"19.0\" id=\"clothes-blue_hair_girl-McBody2-mcColor\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -10.05, -22.05)\" width=\"19.15\" href=\"#clothes-blue_hair_girl-McBody2-sprite0\"></use>\n    <use height=\"20.0\" id=\"clothes-blue_hair_girl-McBody2-mcBorder\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -9.9, -22.4)\" width=\"20.15\" href=\"#clothes-blue_hair_girl-McBody2-sprite1\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-blue_hair_girl-McBody2-shape0\">\n      <path d=\"M7.85 -8.5 Q8.3 -5.85 7.9 -4.5 6.5 0.05 -0.15 0.05 L-0.55 0.05 -1.15 0.05 Q-6.95 -0.3 -8.2 -4.5 -8.6 -5.85 -8.15 -8.5 L-0.55 -8.5 -0.55 0.05 -0.55 -8.5 0.55 -8.5 7.85 -8.5 M0.55 -0.35 L0.55 -8.5 0.55 -0.35\" fill=\"#46c9dd\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-0.55 0.05 L-0.15 0.05 Q6.5 0.05 7.9 -4.5 8.3 -5.85 7.85 -8.5 M-8.15 -8.5 Q-8.6 -5.85 -8.2 -4.5 -6.95 -0.3 -1.15 0.05 L-0.55 0.05\" fill=\"none\" stroke=\"#176984\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n      <path d=\"M0.55 -8.5 L0.55 -0.35 M-0.55 0.05 L-0.55 -8.5\" fill=\"none\" stroke=\"#176984\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n    <g id=\"clothes-blue_hair_girl-McBody2-sprite0\">\n      <use height=\"19.0\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"19.15\" href=\"#clothes-blue_hair_girl-McBody2-shape1\"></use>\n    </g>\n    <g id=\"clothes-blue_hair_girl-McBody2-shape1\">\n      <path d=\"M13.1 0.2 Q16.0 4.4 17.25 8.3 18.0 10.45 18.75 14.85 L19.15 17.75 Q9.2 20.2 0.0 17.85 L0.45 15.6 Q1.4 10.35 2.25 8.1 3.05 5.95 6.2 0.0 7.15 1.75 8.95 2.25 11.25 2.85 13.1 0.2\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-blue_hair_girl-McBody2-sprite1\">\n      <use height=\"20.0\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"20.15\" href=\"#clothes-blue_hair_girl-McBody2-shape2\"></use>\n    </g>\n    <g id=\"clothes-blue_hair_girl-McBody2-shape2\">\n      <path d=\"M12.6 11.4 Q12.75 13.8 13.9 14.95 14.65 15.6 16.05 15.45 L18.75 14.85 Q18.0 10.45 17.25 8.3 16.0 4.4 13.1 0.2 11.25 2.85 8.95 2.25 7.15 1.75 6.2 0.0 3.05 5.95 2.25 8.1 1.4 10.35 0.45 15.6 3.55 16.3 4.9 15.0 L6.0 13.55 6.35 11.5 M0.45 15.6 L0.0 17.85 Q9.2 20.2 19.15 17.75 L18.75 14.85\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n      <path d=\"M6.35 11.5 L12.6 11.4\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [
+        {
+          "id": "clothes-blue_hair_girl-McBody2-mcColor",
+          "kind": "multiply",
+          "percent": 100
+        },
+        {
+          "id": "clothes-blue_hair_girl-McBody2-mcBorder",
+          "kind": "border",
+          "percent": 50
+        }
+      ],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McHead2": {
+      "width": 28.9,
+      "height": 26.05,
+      "registrationX": -14.85,
+      "registrationY": -31.7,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 14.85, 31.7)\">\n    <use height=\"26.05\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"28.9\" href=\"#clothes-blue_hair_girl-McHead2-shape0\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-blue_hair_girl-McHead2-shape0\">\n      <path d=\"M-5.7 -7.35 L-8.15 -7.1 Q-10.65 -7.3 -11.0 -9.75 -13.1 -10.55 -13.95 -12.0 -15.0 -13.9 -12.85 -15.85 -14.45 -17.3 -14.35 -19.55 -14.3 -22.35 -10.5 -23.25 -11.45 -25.55 -10.6 -27.35 -9.5 -29.55 -6.2 -28.8 -5.5 -30.95 -2.85 -31.2 -0.15 -31.4 0.8 -28.95 2.15 -30.15 4.1 -29.9 6.4 -29.6 6.85 -26.85 8.6 -26.85 9.75 -25.9 11.35 -24.5 10.1 -21.8 12.2 -20.75 13.1 -19.1 14.4 -16.8 11.95 -14.85 13.2 -13.7 13.15 -12.2 13.1 -10.5 11.1 -10.05 10.9 -8.15 9.8 -7.05 8.3 -5.55 5.75 -6.5 4.85 -8.95 6.65 -13.9 4.05 -14.75 5.4 -18.6 1.25 -18.0 0.2 -20.55 -2.4 -19.6 -3.65 -20.5 -2.95 -19.7 -3.1 -18.75 -3.3 -17.65 -4.6 -16.8 -4.25 -15.35 -5.55 -14.1 L-6.95 -13.2 Q-5.3 -10.25 -5.7 -7.35 M-3.65 -20.5 L-3.85 -20.7 -4.35 -21.4 Q-5.45 -23.55 -3.55 -24.25 -5.45 -23.55 -4.35 -21.4 L-3.85 -20.7 -3.65 -20.5\" fill=\"#2968cc\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-5.7 -7.35 L-8.15 -7.1 Q-10.65 -7.3 -11.0 -9.75 -13.1 -10.55 -13.95 -12.0 -15.0 -13.9 -12.85 -15.85 -14.45 -17.3 -14.35 -19.55 -14.3 -22.35 -10.5 -23.25 -11.45 -25.55 -10.6 -27.35 -9.5 -29.55 -6.2 -28.8 -5.5 -30.95 -2.85 -31.2 -0.15 -31.4 0.8 -28.95 2.15 -30.15 4.1 -29.9 6.4 -29.6 6.85 -26.85 8.6 -26.85 9.75 -25.9 11.35 -24.5 10.1 -21.8 12.2 -20.75 13.1 -19.1 14.4 -16.8 11.95 -14.85 13.2 -13.7 13.15 -12.2 13.1 -10.5 11.1 -10.05 10.9 -8.15 9.8 -7.05 8.3 -5.55 5.75 -6.5 M6.65 -13.9 Q4.05 -14.75 5.4 -18.6 1.25 -18.0 0.2 -20.55 -2.4 -19.6 -3.65 -20.5 -2.95 -19.7 -3.1 -18.75 -3.3 -17.65 -4.6 -16.8 -4.25 -15.35 -5.55 -14.1 L-6.95 -13.2 M-3.55 -24.25 Q-5.45 -23.55 -4.35 -21.4 L-3.85 -20.7 -3.65 -20.5\" fill=\"none\" stroke=\"#160046\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McLeg2": {
+      "width": 13.15,
+      "height": 14.1,
+      "registrationX": -8,
+      "registrationY": -1.7,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 8.0, 1.7)\">\n    <use height=\"14.1\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"13.15\" href=\"#clothes-blue_hair_girl-McLeg2-shape0\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-blue_hair_girl-McLeg2-shape0\">\n      <path d=\"M-6.5 9.65 Q-6.8 8.85 -6.7 8.15 L-6.15 6.7 -4.2 6.0 -2.65 5.7 -1.55 5.65 0.25 5.95 1.4 6.35 1.7 6.5 3.1 7.25 3.8 8.75 Q3.85 9.45 3.15 10.15 L0.3 10.0 -1.0 9.95 -1.35 9.95 -2.3 9.9 -6.5 9.65 -2.3 9.9 -1.35 9.95 -1.0 9.95 0.3 10.0 3.15 10.15 Q4.2 11.05 3.1 11.65 -1.6 12.4 -6.55 11.1 -7.3 10.35 -6.5 9.65\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M3.15 10.15 Q3.85 9.45 3.8 8.75 L3.1 7.25 1.7 6.5 1.4 6.35 0.25 5.95 -1.55 5.65 -2.65 5.7 -4.2 6.0 -6.15 6.7 -6.7 8.15 Q-6.8 8.85 -6.5 9.65 L-2.3 9.9 -1.35 9.95 -1.0 9.95 0.3 10.0 3.15 10.15 Q4.2 11.05 3.1 11.65 -1.6 12.4 -6.55 11.1 -7.3 10.35 -6.5 9.65\" fill=\"none\" stroke=\"#333333\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n      <path d=\"M-4.95 7.25 L-6.3 7.25 -6.2 6.1 -5.4 2.75 -4.95 0.8 -4.55 -1.1 -4.6 -1.2 -3.2 -1.1 -3.6 0.85 -4.05 2.8 -4.85 6.15 -4.95 7.25 -4.85 6.15 -4.05 2.8 -3.6 0.85 -3.2 -1.1 -0.7 -0.9 -0.65 -0.9 4.55 -0.9 Q4.75 0.0 4.45 1.55 L3.75 4.25 3.05 6.2 2.55 7.25 1.0 7.3 -4.95 7.25\" fill=\"#46c9dd\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-3.2 -1.1 L-4.6 -1.2 -4.55 -1.1 -4.95 0.8 -5.4 2.75 -6.2 6.1 -6.3 7.25 -4.95 7.25 1.0 7.3 2.55 7.25 3.05 6.2 3.75 4.25 4.45 1.55 Q4.75 0.0 4.55 -0.9 L-0.65 -0.9 -0.7 -0.9 -3.2 -1.1\" fill=\"none\" stroke=\"#176984\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n      <path d=\"M-4.95 7.25 L-4.85 6.15 -4.05 2.8 -3.6 0.85 -3.2 -1.1\" fill=\"none\" stroke=\"#176984\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n      <path d=\"M-6.85 0.1 L-7.25 2.15 Q-7.55 4.1 -7.45 5.0 L-4.9 5.75 -4.3 0.7 -6.85 0.1\" fill=\"#46c9dd\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-6.85 0.1 L-4.3 0.7 -4.9 5.75 -7.45 5.0 Q-7.55 4.1 -7.25 2.15 L-6.85 0.1 Z\" fill=\"none\" stroke=\"#176984\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McUpper2": {
+      "width": 18.6,
+      "height": 11.7,
+      "registrationX": -9.5,
+      "registrationY": -3,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 9.5, 3.0)\">\n    <use height=\"6.1\" id=\"clothes-blue_hair_girl-McUpper2-mcColor\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -9.0, -2.4)\" width=\"17.6\" href=\"#clothes-blue_hair_girl-McUpper2-sprite0\"></use>\n    <use height=\"7.1\" id=\"clothes-blue_hair_girl-McUpper2-mcBorder\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -9.0, -2.5)\" width=\"18.6\" href=\"#clothes-blue_hair_girl-McUpper2-sprite1\"></use>\n    <use height=\"9.0\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"10.4\" href=\"#clothes-blue_hair_girl-McUpper2-shape2\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-blue_hair_girl-McUpper2-sprite0\">\n      <use height=\"6.1\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"17.6\" href=\"#clothes-blue_hair_girl-McUpper2-shape0\"></use>\n    </g>\n    <g id=\"clothes-blue_hair_girl-McUpper2-shape0\">\n      <path d=\"M8.75 5.05 Q10.05 1.75 13.8 0.05 14.95 -0.4 16.95 2.1 19.0 4.55 14.8 5.45 10.9 6.3 8.95 5.5 L8.95 5.55 Q7.0 6.55 2.8 5.65 -1.4 4.75 0.65 2.3 2.65 -0.2 3.8 0.25 7.4 1.9 8.75 5.05\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-blue_hair_girl-McUpper2-sprite1\">\n      <use height=\"7.1\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"18.6\" href=\"#clothes-blue_hair_girl-McUpper2-shape1\"></use>\n    </g>\n    <g id=\"clothes-blue_hair_girl-McUpper2-shape1\">\n      <path d=\"M16.95 2.1 Q14.95 -0.4 13.8 0.05 10.05 1.75 8.75 5.05 L8.65 5.35 8.95 5.5 Q10.9 6.3 14.8 5.45 19.0 4.55 16.95 2.1 M8.95 5.5 L8.95 5.55 Q7.0 6.55 2.8 5.65 -1.4 4.75 0.65 2.3 2.65 -0.2 3.8 0.25 7.4 1.9 8.75 5.05\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n    <g id=\"clothes-blue_hair_girl-McUpper2-shape2\">\n      <path d=\"M-4.85 2.4 Q-5.25 2.0 -5.25 1.4 -5.25 0.8 -4.85 0.35 -4.4 -0.05 -3.8 -0.05 -3.2 -0.05 -2.8 0.35 -2.35 0.8 -2.35 1.4 -2.35 2.0 -2.8 2.4 L-3.8 2.65 -4.85 2.4\" fill=\"#febf00\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-4.85 2.4 Q-5.25 2.0 -5.25 1.4 -5.25 0.8 -4.85 0.35 -4.4 -0.05 -3.8 -0.05 -3.2 -0.05 -2.8 0.35 -2.35 0.8 -2.35 1.4 -2.35 2.0 -2.8 2.4 L-3.8 2.65 -4.85 2.4 Z\" fill=\"none\" stroke=\"#9b4a02\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n      <path d=\"M-4.2 1.5 Q-3.7 0.8 -3.25 1.5 -3.5 2.3 -2.95 3.85 -2.45 5.45 -3.3 8.1 L-3.25 8.25 -3.55 8.45 Q-3.85 8.55 -4.2 8.25 -3.45 6.1 -3.85 4.3 -4.35 2.25 -4.2 1.5\" fill=\"#febf00\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-4.2 1.5 Q-3.7 0.8 -3.25 1.5 -3.5 2.3 -2.95 3.85 -2.45 5.45 -3.3 8.1 L-3.25 8.25 -3.55 8.45 Q-3.85 8.55 -4.2 8.25 -3.45 6.1 -3.85 4.3 -4.35 2.25 -4.2 1.5 Z\" fill=\"none\" stroke=\"#9b4a02\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n      <path d=\"M2.15 2.4 Q1.75 2.0 1.75 1.4 1.75 0.8 2.15 0.35 2.6 -0.05 3.2 -0.05 3.8 -0.05 4.2 0.35 4.65 0.8 4.65 1.4 4.65 2.0 4.2 2.4 L3.2 2.65 2.15 2.4\" fill=\"#febf00\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M2.15 2.4 Q1.75 2.0 1.75 1.4 1.75 0.8 2.15 0.35 2.6 -0.05 3.2 -0.05 3.8 -0.05 4.2 0.35 4.65 0.8 4.65 1.4 4.65 2.0 4.2 2.4 L3.2 2.65 2.15 2.4 Z\" fill=\"none\" stroke=\"#9b4a02\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n      <path d=\"M3.6 8.0 L3.65 8.15 3.35 8.35 Q3.05 8.45 2.7 8.15 2.35 5.05 2.35 4.05 2.35 3.1 2.7 1.4 3.2 0.7 3.65 1.4 2.85 3.95 3.6 8.0\" fill=\"#febf00\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M3.6 8.0 L3.65 8.15 3.35 8.35 Q3.05 8.45 2.7 8.15 2.35 5.05 2.35 4.05 2.35 3.1 2.7 1.4 3.2 0.7 3.65 1.4 2.85 3.95 3.6 8.0 Z\" fill=\"none\" stroke=\"#9b4a02\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [
+        {
+          "id": "clothes-blue_hair_girl-McUpper2-mcColor",
+          "kind": "multiply",
+          "percent": 100
+        },
+        {
+          "id": "clothes-blue_hair_girl-McUpper2-mcBorder",
+          "kind": "border",
+          "percent": 50
+        }
+      ],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    }
+  },
+  "rasterSource": false
+}

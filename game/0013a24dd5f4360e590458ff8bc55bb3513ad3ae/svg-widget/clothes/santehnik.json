@@ -1,0 +1,116 @@
+{
+  "version": 1,
+  "sourceName": "santehnik.swf",
+  "sha256": "c6d1dc1ef6ca250924c02a230088b431f65e00a909271ff1ce7617067c9ca02b",
+  "parts": {
+    "McArmBottom": {
+      "width": 6.35,
+      "height": 8,
+      "registrationX": -0.3,
+      "registrationY": -1.95,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.3, 1.95)\">\n    <use height=\"7.1\" id=\"clothes-santehnik-McArmBottom-mcColor\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.2, -1.55)\" width=\"5.35\" href=\"#clothes-santehnik-McArmBottom-sprite0\"></use>\n    <use height=\"8.0\" id=\"clothes-santehnik-McArmBottom-mcBorder\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.2, -1.45)\" width=\"6.35\" href=\"#clothes-santehnik-McArmBottom-sprite1\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-santehnik-McArmBottom-sprite0\">\n      <use height=\"7.1\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"5.35\" href=\"#clothes-santehnik-McArmBottom-shape0\"></use>\n    </g>\n    <g id=\"clothes-santehnik-McArmBottom-shape0\">\n      <path d=\"M3.45 0.1 L3.7 0.5 Q5.0 3.65 5.35 5.85 3.0 7.65 0.8 6.9 0.55 3.3 0.0 1.45 L3.45 0.0 3.45 0.1\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-santehnik-McArmBottom-sprite1\">\n      <use height=\"8.0\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"6.35\" href=\"#clothes-santehnik-McArmBottom-shape1\"></use>\n    </g>\n    <g id=\"clothes-santehnik-McArmBottom-shape1\">\n      <path d=\"M3.45 0.0 L3.7 0.4 Q5.0 3.55 5.35 5.75 M0.8 6.8 Q0.55 3.2 0.0 1.35\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n      <path d=\"M5.35 5.75 Q3.0 7.55 0.8 6.8\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [
+        {
+          "id": "clothes-santehnik-McArmBottom-mcColor",
+          "kind": "multiply",
+          "percent": 100
+        },
+        {
+          "id": "clothes-santehnik-McArmBottom-mcBorder",
+          "kind": "border",
+          "percent": 50
+        }
+      ],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McArmTop": {
+      "width": 9.25,
+      "height": 13.45,
+      "registrationX": -0.65,
+      "registrationY": -1.85,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.65, 1.85)\">\n    <use height=\"10.35\" id=\"clothes-santehnik-McArmTop-mcColor\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.4, 0.75)\" width=\"7.7\" href=\"#clothes-santehnik-McArmTop-sprite0\"></use>\n    <use height=\"4.05\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"5.4\" href=\"#clothes-santehnik-McArmTop-shape1\"></use>\n    <use height=\"13.45\" id=\"clothes-santehnik-McArmTop-mcBorder\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -0.15, -1.35)\" width=\"9.25\" href=\"#clothes-santehnik-McArmTop-sprite1\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-santehnik-McArmTop-sprite0\">\n      <use height=\"10.35\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"7.7\" href=\"#clothes-santehnik-McArmTop-shape0\"></use>\n    </g>\n    <g id=\"clothes-santehnik-McArmTop-shape0\">\n      <path d=\"M3.85 1.95 Q5.9 4.35 7.35 7.35 7.7 7.75 7.7 8.5 7.7 9.25 7.2 9.8 6.65 10.4 5.85 10.35 5.1 10.35 4.45 9.75 L4.05 9.05 4.0 9.05 Q2.2 3.55 0.2 0.75 L0.15 0.65 0.0 0.0 1.35 1.2 Q2.35 1.85 3.35 1.95 L3.85 1.95\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-santehnik-McArmTop-shape1\">\n      <path d=\"M1.3 -1.35 Q2.25 -1.3 3.3 -0.7 4.4 -0.05 4.9 0.85 5.45 1.7 5.1 2.25 L4.25 2.7 3.75 2.7 Q2.75 2.6 1.75 1.95 L0.4 0.75 0.2 0.45 Q-0.35 -0.45 -0.05 -0.95 0.3 -1.45 1.3 -1.35\" fill=\"#ffcc00\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-santehnik-McArmTop-sprite1\">\n      <use height=\"13.45\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"9.25\" href=\"#clothes-santehnik-McArmTop-shape2\"></use>\n    </g>\n    <g id=\"clothes-santehnik-McArmTop-shape2\">\n      <path d=\"M4.4 4.05 Q5.0 4.0 5.25 3.6 5.6 3.05 5.05 2.2 4.55 1.3 3.45 0.65 2.4 0.05 1.45 0.0 0.45 -0.1 0.1 0.4 -0.2 0.9 0.35 1.8 L0.55 2.1\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n      <path d=\"M4.4 4.05 Q6.45 6.45 7.9 9.45 8.25 9.85 8.25 10.6 8.25 11.35 7.75 11.9 7.2 12.5 6.4 12.45 5.65 12.45 5.0 11.85 4.65 11.5 4.6 11.15 2.75 5.65 0.75 2.85\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [
+        {
+          "id": "clothes-santehnik-McArmTop-mcColor",
+          "kind": "multiply",
+          "percent": 100
+        },
+        {
+          "id": "clothes-santehnik-McArmTop-mcBorder",
+          "kind": "border",
+          "percent": 50
+        }
+      ],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McBody2": {
+      "width": 20.9,
+      "height": 29.05,
+      "registrationX": -10.7,
+      "registrationY": -28.5,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 10.7, 28.5)\">\n    <use height=\"26.2\" id=\"clothes-santehnik-McBody2-mcColor\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -8.55, -26.15)\" width=\"16.5\" href=\"#clothes-santehnik-McBody2-sprite0\"></use>\n    <use height=\"1.0\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"4.6\" href=\"#clothes-santehnik-McBody2-shape1\"></use>\n    <use height=\"27.2\" id=\"clothes-santehnik-McBody2-mcBorder\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -8.55, -26.15)\" width=\"17.5\" href=\"#clothes-santehnik-McBody2-sprite1\"></use>\n    <use height=\"25.25\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"8.45\" href=\"#clothes-santehnik-McBody2-shape3\"></use>\n    <use height=\"8.1\" transform=\"matrix(0.9878, -0.1527, 0.1527, 0.9878, 5.2, -13.85)\" width=\"4.35\" href=\"#clothes-santehnik-McBody2-sprite2\"></use>\n    <use height=\"8.1\" transform=\"matrix(-0.9878, -0.1527, -0.1527, 0.9878, -5.7, -13.35)\" width=\"4.35\" href=\"#clothes-santehnik-McBody2-sprite5\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-santehnik-McBody2-sprite0\">\n      <use height=\"27.4\" transform=\"matrix(0.8189, 0.0, 0.0, 0.9562, 0.0, 0.0)\" width=\"20.15\" href=\"#clothes-santehnik-McBody2-shape0\"></use>\n    </g>\n    <g id=\"clothes-santehnik-McBody2-shape0\">\n      <path d=\"M7.9 0.0 L12.25 0.0 16.45 9.2 Q18.25 12.7 19.3 16.4 20.6 20.75 19.9 22.65 18.25 27.4 10.05 27.4 1.9 27.4 0.25 22.65 -0.45 20.75 0.85 16.4 1.9 12.7 3.7 9.2 L7.9 0.0\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-santehnik-McBody2-shape1\">\n      <path d=\"M1.5 -26.15 L-2.1 -26.15\" fill=\"none\" stroke=\"#000033\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n    <g id=\"clothes-santehnik-McBody2-sprite1\">\n      <use height=\"27.2\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"17.5\" href=\"#clothes-santehnik-McBody2-shape2\"></use>\n    </g>\n    <g id=\"clothes-santehnik-McBody2-shape2\">\n      <path d=\"M6.45 0.0 L3.05 8.8 Q1.55 12.15 0.7 15.65 -0.35 19.8 0.2 21.65 1.55 26.2 8.25 26.2 14.9 26.2 16.3 21.65 16.85 19.8 15.8 15.65 14.9 12.15 13.45 8.8 L10.05 0.0\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n    <g id=\"clothes-santehnik-McBody2-shape3\">\n      <path d=\"M1.15 -27.5 Q3.0 -18.85 3.15 -10.25 L2.85 -9.55 Q2.55 -9.25 2.15 -9.25 L-2.7 -9.25 Q-3.1 -9.25 -3.4 -9.55 L-3.7 -10.25 Q-4.0 -18.85 -1.7 -27.5 L-1.4 -28.2 -0.7 -28.5 0.15 -28.5 Q0.55 -28.5 0.85 -28.2 L1.15 -27.5\" fill=\"#33cccc\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M0.95 -26.85 L0.95 -27.2 1.25 -27.45 1.65 -27.45 1.9 -27.15 Q3.7 -21.15 3.9 -15.75 L4.05 -10.65 4.05 -10.75 Q4.05 -9.35 3.25 -9.0 L3.2 -9.0 2.25 -8.0 Q2.2 -7.45 2.45 -5.65 2.7 -3.7 1.95 -3.55 L0.0 -3.25 -0.2 -3.25 -2.3 -3.55 -2.25 -3.55 Q-3.05 -3.65 -2.8 -5.65 L-2.6 -8.0 Q-2.7 -8.45 -3.55 -9.0 L-3.6 -9.0 Q-4.4 -9.35 -4.4 -10.75 L-4.35 -10.65 -4.25 -15.75 Q-4.05 -21.15 -2.2 -27.15 L-1.95 -27.45 -1.6 -27.45 -1.3 -27.2 -1.25 -26.85 Q-3.05 -20.95 -3.25 -15.7 L-3.4 -10.85 -3.4 -10.75 -3.2 -9.95 -3.0 -9.95 -1.25 -9.6 2.0 -9.85 2.55 -10.0 2.9 -10.0 2.95 -10.1 Q3.6 -10.3 3.05 -10.2 L3.0 -10.2 3.05 -10.75 3.1 -10.85 2.9 -15.7 Q2.7 -20.95 0.95 -26.85\" fill=\"#ffcc00\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-santehnik-McBody2-sprite2\">\n      <use height=\"6.2\" id=\"clothes-santehnik-McBody2-mcColor-2\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 1.4)\" width=\"3.35\" href=\"#clothes-santehnik-McBody2-sprite3\"></use>\n      <use height=\"2.65\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"3.35\" href=\"#clothes-santehnik-McBody2-shape5\"></use>\n      <use height=\"7.3\" id=\"clothes-santehnik-McBody2-mcBorder-2\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 1.3)\" width=\"4.35\" href=\"#clothes-santehnik-McBody2-sprite4\"></use>\n    </g>\n    <g id=\"clothes-santehnik-McBody2-sprite3\">\n      <use height=\"6.2\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"3.35\" href=\"#clothes-santehnik-McBody2-shape4\"></use>\n    </g>\n    <g id=\"clothes-santehnik-McBody2-shape4\">\n      <path d=\"M2.8 0.85 Q3.35 0.5 3.35 0.0 L3.35 4.9 3.15 5.55 2.8 5.8 Q2.4 6.2 1.65 6.2 0.95 6.2 0.4 5.8 0.0 5.45 0.0 4.85 L0.0 4.75 0.0 0.0 Q0.0 0.5 0.4 0.85 0.95 1.25 1.65 1.25 2.4 1.25 2.8 0.85\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-santehnik-McBody2-shape5\">\n      <path d=\"M3.35 1.4 Q3.35 1.9 2.8 2.25 2.4 2.65 1.65 2.65 0.95 2.65 0.4 2.25 0.0 1.9 0.0 1.4 L0.0 1.3 Q0.0 0.75 0.4 0.35 0.95 0.0 1.65 0.0 2.4 0.0 2.8 0.35 3.35 0.75 3.35 1.3 L3.35 1.4\" fill=\"#ffcc00\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-santehnik-McBody2-sprite4\">\n      <use height=\"7.3\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"4.35\" href=\"#clothes-santehnik-McBody2-shape6\"></use>\n    </g>\n    <g id=\"clothes-santehnik-McBody2-shape6\">\n      <path d=\"M3.35 0.0 L3.35 5.0 3.15 5.65 2.8 5.9 Q2.4 6.3 1.65 6.3 0.95 6.3 0.4 5.9 0.0 5.55 0.0 4.95\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0005028830255147\"></path>\n    </g>\n    <g id=\"clothes-santehnik-McBody2-sprite5\">\n      <use height=\"6.2\" id=\"clothes-santehnik-McBody2-mcColor-3\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 1.4)\" width=\"3.35\" href=\"#clothes-santehnik-McBody2-sprite3\"></use>\n      <use height=\"2.65\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"3.35\" href=\"#clothes-santehnik-McBody2-shape7\"></use>\n      <use height=\"7.3\" id=\"clothes-santehnik-McBody2-mcBorder-3\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 1.3)\" width=\"4.35\" href=\"#clothes-santehnik-McBody2-sprite6\"></use>\n    </g>\n    <g id=\"clothes-santehnik-McBody2-shape7\">\n      <path d=\"M3.35 1.4 Q3.35 1.9 2.8 2.25 2.4 2.65 1.65 2.65 0.95 2.65 0.4 2.25 0.0 1.9 0.0 1.4 L0.0 1.3 Q0.0 0.75 0.4 0.35 0.95 0.0 1.65 0.0 2.4 0.0 2.8 0.35 3.35 0.75 3.35 1.3 L3.35 1.4\" fill=\"#ffcc00\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-santehnik-McBody2-sprite6\">\n      <use height=\"7.3\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"4.35\" href=\"#clothes-santehnik-McBody2-shape8\"></use>\n    </g>\n    <g id=\"clothes-santehnik-McBody2-shape8\">\n      <path d=\"M3.35 0.0 L3.35 5.0 3.15 5.65 2.8 5.9 Q2.4 6.3 1.65 6.3 0.95 6.3 0.4 5.9 0.0 5.55 0.0 4.95\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0005028830255147\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [
+        {
+          "id": "clothes-santehnik-McBody2-mcColor",
+          "kind": "multiply",
+          "percent": 100
+        },
+        {
+          "id": "clothes-santehnik-McBody2-mcBorder",
+          "kind": "border",
+          "percent": 50
+        },
+        {
+          "id": "clothes-santehnik-McBody2-mcColor-2",
+          "kind": "multiply",
+          "percent": 100
+        },
+        {
+          "id": "clothes-santehnik-McBody2-mcBorder-2",
+          "kind": "border",
+          "percent": 50
+        },
+        {
+          "id": "clothes-santehnik-McBody2-mcColor-3",
+          "kind": "multiply",
+          "percent": 100
+        },
+        {
+          "id": "clothes-santehnik-McBody2-mcBorder-3",
+          "kind": "border",
+          "percent": 50
+        }
+      ],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McLeg2": {
+      "width": 10.6,
+      "height": 9,
+      "registrationX": -6.45,
+      "registrationY": -1.1,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 6.45, 1.1)\">\n    <use height=\"8.15\" id=\"clothes-santehnik-McLeg2-mcColor\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -4.65, -0.75)\" width=\"8.2\" href=\"#clothes-santehnik-McLeg2-sprite0\"></use>\n    <use height=\"6.5\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"6.85\" href=\"#clothes-santehnik-McLeg2-shape1\"></use>\n    <use height=\"9.0\" id=\"clothes-santehnik-McLeg2-mcBorder\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -4.65, -0.6)\" width=\"9.3\" href=\"#clothes-santehnik-McLeg2-sprite1\"></use>\n    <use height=\"5.45\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"7.25\" href=\"#clothes-santehnik-McLeg2-shape3\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-santehnik-McLeg2-sprite0\">\n      <use height=\"8.15\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"8.2\" href=\"#clothes-santehnik-McLeg2-shape0\"></use>\n    </g>\n    <g id=\"clothes-santehnik-McLeg2-shape0\">\n      <path d=\"M1.5 0.0 L8.2 1.75 8.2 2.75 8.05 4.4 7.95 6.5 7.95 6.55 7.9 7.2 6.85 7.85 3.7 7.95 Q2.1 7.7 0.9 6.85 0.2 6.25 0.0 5.55 L0.75 2.95 Q1.35 1.55 1.45 0.15 L1.5 0.0\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-santehnik-McLeg2-shape1\">\n      <path d=\"M-3.2 -0.75 L-3.15 -0.75 -3.2 -0.6 -3.2 -0.75 M3.55 2.15 L3.45 3.65 3.5 4.95 3.45 5.6 3.3 5.75 3.4 3.65 3.55 2.0 3.65 1.3 3.55 2.15\" fill=\"#7eaaec\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-santehnik-McLeg2-sprite1\">\n      <use height=\"9.0\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"9.3\" href=\"#clothes-santehnik-McLeg2-shape2\"></use>\n    </g>\n    <g id=\"clothes-santehnik-McLeg2-shape2\">\n      <path d=\"M8.2 1.65 L8.3 1.9 8.2 2.6 8.05 4.25 7.95 6.35 7.95 6.4 7.9 7.05 6.85 7.7 3.7 7.8 Q2.1 7.55 0.9 6.7 0.2 6.1 0.0 5.4 L0.75 2.8 Q1.35 1.4 1.45 0.0\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n    <g id=\"clothes-santehnik-McLeg2-shape3\">\n      <path d=\"M-3.3 5.45 Q-4.6 5.15 -5.35 4.35 -6.1 3.55 -5.9 2.7 -5.7 1.8 -4.65 1.35 L-2.35 1.3 Q-1.1 1.6 -0.3 2.35 0.45 3.2 0.25 4.1 0.05 4.95 -1.0 5.35 L-3.3 5.45\" fill=\"#ffcc00\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-3.3 5.45 L-1.0 5.35 Q0.05 4.95 0.25 4.1 0.45 3.2 -0.3 2.35 -1.1 1.6 -2.35 1.3 L-4.65 1.35 Q-5.7 1.8 -5.9 2.7 -6.1 3.55 -5.35 4.35 -4.6 5.15 -3.3 5.45 Z\" fill=\"none\" stroke=\"#cc6600\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [
+        {
+          "id": "clothes-santehnik-McLeg2-mcColor",
+          "kind": "multiply",
+          "percent": 100
+        },
+        {
+          "id": "clothes-santehnik-McLeg2-mcBorder",
+          "kind": "border",
+          "percent": 50
+        }
+      ],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    }
+  },
+  "rasterSource": false
+}

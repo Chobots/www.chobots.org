@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sourceName": "hair_obruch.swf",
+  "sha256": "c68e8a962e66b19520acbc4c067823f0244a4f404cdb00b2966cc4a257997b70",
+  "parts": {
+    "McHead2": {
+      "width": 28.55,
+      "height": 27.75,
+      "registrationX": -14.65,
+      "registrationY": -29.2,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 14.65, 29.2)\">\n    <use height=\"27.75\" id=\"clothes-hair_obruch-McHead2-mcColor\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -0.35, -15.3)\" width=\"28.55\" href=\"#clothes-hair_obruch-McHead2-sprite0\"></use>\n    <use height=\"6.15\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"19.7\" href=\"#clothes-hair_obruch-McHead2-shape1\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-hair_obruch-McHead2-sprite0\">\n      <use height=\"27.75\" id=\"clothes-hair_obruch-McHead2-mcColor-2\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"28.55\" href=\"#clothes-hair_obruch-McHead2-sprite1\"></use>\n    </g>\n    <g id=\"clothes-hair_obruch-McHead2-sprite1\">\n      <use height=\"27.75\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"28.55\" href=\"#clothes-hair_obruch-McHead2-shape0\"></use>\n    </g>\n    <g id=\"clothes-hair_obruch-McHead2-shape0\">\n      <path d=\"M8.95 -3.45 L8.55 -2.25 Q7.75 -0.25 6.75 1.35 7.75 -0.25 8.55 -2.25 L8.95 -3.45 Q9.25 2.85 13.75 11.6 11.35 10.95 10.05 8.35 9.35 10.75 10.95 12.85 8.95 11.45 7.5 8.7 6.85 11.3 8.3 12.95 6.85 12.25 5.95 9.35 4.75 11.3 6.05 13.35 L4.3 12.2 Q6.15 6.8 6.75 1.35 L5.4 2.85 Q4.0 0.4 5.0 -2.4 2.9 0.3 2.75 2.95 0.55 -0.15 1.3 -3.3 -1.65 -0.35 -0.95 2.6 -2.85 -0.1 -2.15 -2.8 -3.75 -0.1 -3.35 2.2 -5.25 0.75 -5.05 -2.3 -6.95 -0.1 -5.85 2.7 L-6.3 2.25 -5.95 4.5 -4.4 11.2 Q-5.35 13.15 -6.6 13.35 -5.7 11.8 -7.15 10.2 -7.45 12.6 -10.65 12.95 -9.2 11.6 -9.35 8.65 -9.9 10.0 -13.8 11.35 -8.2 2.8 -8.35 -3.5 L-8.4 -3.6 Q-8.35 -11.7 -2.8 -13.0 2.7 -14.3 6.05 -11.35 9.3 -8.45 9.0 -3.8 L8.95 -3.55 8.95 -3.45 M-6.3 2.25 L-6.6 1.9 Q-8.0 -0.3 -8.35 -3.5 -8.0 -0.3 -6.6 1.9 L-6.3 2.25\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M6.75 1.35 Q7.75 -0.25 8.55 -2.25 L8.95 -3.45 8.95 -3.55 9.0 -3.8 Q9.3 -8.45 6.05 -11.35 2.7 -14.3 -2.8 -13.0 -8.35 -11.7 -8.4 -3.6 L-8.35 -3.5 Q-8.0 -0.3 -6.6 1.9 L-6.3 2.25 -5.85 2.7 Q-6.95 -0.1 -5.05 -2.3 -5.25 0.75 -3.35 2.2 -3.75 -0.1 -2.15 -2.8 -2.85 -0.1 -0.95 2.6 -1.65 -0.35 1.3 -3.3 0.55 -0.15 2.75 2.95 2.9 0.3 5.0 -2.4 4.0 0.4 5.4 2.85 L6.75 1.35 Q6.15 6.8 4.3 12.2 L6.05 13.35 Q4.75 11.3 5.95 9.35 6.85 12.25 8.3 12.95 6.85 11.3 7.5 8.7 8.95 11.45 10.95 12.85 9.35 10.75 10.05 8.35 11.35 10.95 13.75 11.6 9.25 2.85 8.95 -3.45 M-6.3 2.25 L-5.95 4.5 -4.4 11.2 Q-5.35 13.15 -6.6 13.35 -5.7 11.8 -7.15 10.2 -7.45 12.6 -10.65 12.95 -9.2 11.6 -9.35 8.65 -9.9 10.0 -13.8 11.35 -8.2 2.8 -8.35 -3.5\" fill=\"none\" stroke=\"#999999\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n    </g>\n    <g id=\"clothes-hair_obruch-McHead2-shape1\">\n      <path d=\"M8.5 -19.1 Q-1.2 -24.05 -8.75 -18.9 -10.2 -19.9 -8.65 -21.6 -0.35 -26.55 8.45 -21.45 10.05 -20.4 8.5 -19.1\" fill=\"url(#clothes-hair_obruch-McHead2-gradient0)\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M8.5 -19.1 Q-1.2 -24.05 -8.75 -18.9 -10.2 -19.9 -8.65 -21.6 -0.35 -26.55 8.45 -21.45 10.05 -20.4 8.5 -19.1 Z\" fill=\"none\" stroke=\"#339900\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n    </g>\n    <radialGradient cx=\"0\" cy=\"0\" gradientTransform=\"matrix(0.0117, 0.0, 0.0, 0.0117, -0.15, -21.25)\" gradientUnits=\"userSpaceOnUse\" id=\"clothes-hair_obruch-McHead2-gradient0\" r=\"819.2\" spreadMethod=\"pad\">\n      <stop offset=\"0.0\" stop-color=\"#4efe4e\"></stop>\n      <stop offset=\"0.0\" stop-color=\"#4efe4e\"></stop>\n      <stop offset=\"1.0\" stop-color=\"#028f01\"></stop>\n    </radialGradient>\n  </defs>\n",
+      "tintTargets": [
+        {
+          "id": "clothes-hair_obruch-McHead2-mcColor",
+          "kind": "multiply",
+          "percent": 100
+        },
+        {
+          "id": "clothes-hair_obruch-McHead2-mcColor-2",
+          "kind": "multiply",
+          "percent": 100
+        }
+      ],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    }
+  },
+  "rasterSource": false
+}

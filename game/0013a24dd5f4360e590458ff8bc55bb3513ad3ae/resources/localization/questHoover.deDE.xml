@@ -1,0 +1,9 @@
+<messages>
+  <caption>Leprechaun</caption>
+  <firstItem>Hallo! Ich bin Leprechaun! Das Fest kommt und ich habe all mein Geld verloren! Kannst du mir helfen es zu finden? Hier ist mein Topf. Wenn du 10 Munzen findest, komm zuruck und du kriegst eine Belohnung!</firstItem>
+  <idleMessage>Danke. Patrick wird sehr glucklich sein!</idleMessage>
+  <noItem>Du musst noch {0} Munzen finden!</noItem>
+  <npcName>Leprechaun</npcName>
+  <questComplete>Danke vielmals! Du hast das Fest gerettet! Hier ist deine Belohnung!</questComplete>
+  <questTask>Nun kannst du losgehen und die Munzen einsammeln!</questTask>
+</messages>

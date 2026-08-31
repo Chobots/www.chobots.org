@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "sourceName": "ball.swf",
+  "sha256": "4dfa5711c08d10e0f21d08796e9da1deb4613dfa33b434b5c84fa8a6ccb9cf75",
+  "parts": {
+    "McArmTop": {
+      "width": 9.1,
+      "height": 13.05,
+      "registrationX": -0.75,
+      "registrationY": -1.55,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.75, 1.55)\">\n    <use height=\"12.05\" id=\"body-ball-McArmTop-mcColor\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -0.25, -1.05)\" width=\"8.1\" href=\"#body-ball-McArmTop-sprite0\"></use>\n    <use height=\"13.05\" id=\"body-ball-McArmTop-mcBorder\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -0.25, -1.05)\" width=\"9.1\" href=\"#body-ball-McArmTop-sprite1\"></use>\n  </g>\n  <defs>\n    <g id=\"body-ball-McArmTop-sprite0\">\n      <use height=\"12.05\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"8.1\" href=\"#body-ball-McArmTop-shape0\"></use>\n    </g>\n    <g id=\"body-ball-McArmTop-shape0\">\n      <path d=\"M0.55 2.35 L0.0 0.0 2.6 2.0 Q5.8 4.95 7.75 9.05 8.1 9.45 8.1 10.2 8.1 10.95 7.6 11.5 7.05 12.1 6.25 12.05 5.5 12.05 4.85 11.45 4.5 11.1 4.45 10.75 L4.4 10.75 Q2.6 5.25 0.6 2.45 L0.55 2.35\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"body-ball-McArmTop-sprite1\">\n      <use height=\"13.05\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"9.1\" href=\"#body-ball-McArmTop-shape1\"></use>\n    </g>\n    <g id=\"body-ball-McArmTop-shape1\">\n      <path d=\"M0.0 0.0 L2.6 2.0 Q5.8 4.95 7.75 9.05 8.1 9.45 8.1 10.2 8.1 10.95 7.6 11.5 7.05 12.1 6.25 12.05 5.5 12.05 4.85 11.45 4.5 11.1 4.45 10.75 2.6 5.25 0.6 2.45\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [
+        {
+          "id": "body-ball-McArmTop-mcColor",
+          "kind": "multiply",
+          "percent": 100
+        },
+        {
+          "id": "body-ball-McArmTop-mcBorder",
+          "kind": "border",
+          "percent": 50
+        }
+      ],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McBody2": {
+      "width": 16.5,
+      "height": 16.5,
+      "registrationX": -8.5,
+      "registrationY": -26.95,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 8.5, 26.95)\">\n    <use height=\"15.3\" id=\"body-ball-McBody2-mcColor\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -8.4, -26.15)\" width=\"15.5\" href=\"#body-ball-McBody2-sprite0\"></use>\n    <use height=\"16.5\" id=\"body-ball-McBody2-mcBorder\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -8.4, -26.15)\" width=\"16.5\" href=\"#body-ball-McBody2-sprite1\"></use>\n  </g>\n  <defs>\n    <g id=\"body-ball-McBody2-sprite0\">\n      <use height=\"15.3\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"15.5\" href=\"#body-ball-McBody2-shape0\"></use>\n    </g>\n    <g id=\"body-ball-McBody2-shape0\">\n      <path d=\"M13.7 2.0 Q16.0 4.3 16.0 7.5 16.0 9.9 14.7 11.8 L13.7 12.95 Q11.45 15.25 8.25 15.25 5.05 15.25 2.75 12.95 L1.9 12.0 Q0.5 10.05 0.5 7.5 0.5 4.3 2.75 2.0 4.4 0.4 6.55 -0.05 L10.2 0.0 Q12.15 0.45 13.7 2.0\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"body-ball-McBody2-sprite1\">\n      <use height=\"16.5\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"16.5\" href=\"#body-ball-McBody2-shape1\"></use>\n    </g>\n    <g id=\"body-ball-McBody2-shape1\">\n      <path d=\"M6.45 -0.1 Q4.3 0.35 2.65 1.95 0.4 4.25 0.4 7.45 0.4 10.0 1.8 11.95 L2.65 12.9 Q4.95 15.2 8.15 15.2 11.35 15.2 13.6 12.9 L14.6 11.75 Q15.9 9.85 15.9 7.45 15.9 4.25 13.6 1.95 12.05 0.4 10.1 -0.05 L6.45 -0.1 8.15 -0.3 10.1 -0.05\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [
+        {
+          "id": "body-ball-McBody2-mcColor",
+          "kind": "multiply",
+          "percent": 100
+        },
+        {
+          "id": "body-ball-McBody2-mcBorder",
+          "kind": "border",
+          "percent": 50
+        }
+      ],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    }
+  },
+  "rasterSource": false
+}

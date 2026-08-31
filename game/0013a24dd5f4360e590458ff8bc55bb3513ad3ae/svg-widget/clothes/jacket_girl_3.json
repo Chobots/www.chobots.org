@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "sourceName": "jacket_girl_3.swf",
+  "sha256": "532a4002e8c2b8f6905af2ac2f6a503287875688b4d5b4dc9ecd9bcd4eedd497",
+  "parts": {
+    "McArmBottom": {
+      "width": 12.7,
+      "height": 11.15,
+      "registrationX": -3.55,
+      "registrationY": -1.6,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 3.55, 1.6)\">\n    <use height=\"7.6\" id=\"clothes-jacket_girl_3-McArmBottom-mcColor\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.45, 1.45)\" width=\"4.75\" href=\"#clothes-jacket_girl_3-McArmBottom-sprite0\"></use>\n    <use height=\"8.6\" id=\"clothes-jacket_girl_3-McArmBottom-mcBorder\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.45, 1.45)\" width=\"5.75\" href=\"#clothes-jacket_girl_3-McArmBottom-sprite1\"></use>\n    <use height=\"6.55\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -5.95, -2.6)\" width=\"12.7\" href=\"#clothes-jacket_girl_3-McArmBottom-shape2\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-jacket_girl_3-McArmBottom-sprite0\">\n      <use height=\"7.6\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"4.75\" href=\"#clothes-jacket_girl_3-McArmBottom-shape0\"></use>\n    </g>\n    <g id=\"clothes-jacket_girl_3-McArmBottom-shape0\">\n      <path d=\"M4.55 5.1 Q4.15 6.95 3.1 7.45 2.35 7.8 1.4 7.2 0.55 6.75 0.3 6.2 0.1 5.8 0.15 5.1 L0.25 3.85 0.0 0.7 4.0 0.0 4.6 2.25 Q4.9 3.45 4.55 5.1\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-jacket_girl_3-McArmBottom-sprite1\">\n      <use height=\"8.6\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"5.75\" href=\"#clothes-jacket_girl_3-McArmBottom-shape1\"></use>\n    </g>\n    <g id=\"clothes-jacket_girl_3-McArmBottom-shape1\">\n      <path d=\"M4.55 5.1 Q4.15 6.95 3.1 7.45 2.35 7.8 1.4 7.2 0.55 6.75 0.3 6.2 0.1 5.8 0.15 5.1 L0.25 3.85 0.0 0.7 4.0 0.0 4.6 2.25 Q4.9 3.45 4.55 5.1 Z\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n    </g>\n    <g id=\"clothes-jacket_girl_3-McArmBottom-shape2\">\n      <path d=\"M8.6 3.05 L11.05 1.5 Q10.3 2.9 10.6 3.3 10.95 2.65 13.4 2.15 L12.2 3.25 14.6 3.3 12.95 4.0 Q14.1 4.0 14.4 4.7 L11.7 5.0 12.4 6.25 Q10.15 6.65 9.0 5.5 8.75 6.3 7.6 7.05 6.35 6.55 6.15 5.9 5.3 6.65 3.65 6.95 5.0 6.05 5.1 5.3 L2.9 4.95 Q4.35 3.95 5.6 4.25 L4.4 3.1 Q6.45 2.95 6.7 3.45 6.45 2.95 7.45 2.45 L8.65 3.1 8.6 3.05\" fill=\"#fc58aa\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M8.6 3.05 L11.05 1.5 Q10.3 2.9 10.6 3.3 10.95 2.65 13.4 2.15 L12.2 3.25 14.6 3.3 12.95 4.0 Q14.1 4.0 14.4 4.7 L11.7 5.0 12.4 6.25 Q10.15 6.65 9.0 5.5 8.75 6.3 7.6 7.05 6.35 6.55 6.15 5.9 5.3 6.65 3.65 6.95 5.0 6.05 5.1 5.3 L2.9 4.95 Q4.35 3.95 5.6 4.25 L4.4 3.1 Q6.45 2.95 6.7 3.45 6.45 2.95 7.45 2.45 L8.65 3.1\" fill=\"none\" stroke=\"#cc0066\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [
+        {
+          "id": "clothes-jacket_girl_3-McArmBottom-mcColor",
+          "kind": "multiply",
+          "percent": 100
+        },
+        {
+          "id": "clothes-jacket_girl_3-McArmBottom-mcBorder",
+          "kind": "border",
+          "percent": 50
+        }
+      ],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McArmTop": {
+      "width": 9,
+      "height": 9.45,
+      "registrationX": -0.4,
+      "registrationY": -2.1,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.4, 2.1)\">\n    <use height=\"8.45\" id=\"clothes-jacket_girl_3-McArmTop-mcColor\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.1, -1.6)\" width=\"8.0\" href=\"#clothes-jacket_girl_3-McArmTop-sprite0\"></use>\n    <use height=\"9.45\" id=\"clothes-jacket_girl_3-McArmTop-mcBorder\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.1, -1.6)\" width=\"9.0\" href=\"#clothes-jacket_girl_3-McArmTop-sprite1\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-jacket_girl_3-McArmTop-sprite0\">\n      <use height=\"8.45\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"8.0\" href=\"#clothes-jacket_girl_3-McArmTop-shape0\"></use>\n    </g>\n    <g id=\"clothes-jacket_girl_3-McArmTop-shape0\">\n      <path d=\"M0.0 0.0 L3.4 1.65 Q4.8 2.4 8.0 6.65 4.65 6.7 2.7 8.45 1.25 3.85 0.5 2.7 L0.0 0.0\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-jacket_girl_3-McArmTop-sprite1\">\n      <use height=\"9.45\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"9.0\" href=\"#clothes-jacket_girl_3-McArmTop-shape1\"></use>\n    </g>\n    <g id=\"clothes-jacket_girl_3-McArmTop-shape1\">\n      <path d=\"M0.5 2.7 Q1.25 3.85 2.7 8.45 4.65 6.7 8.0 6.65 4.8 2.4 3.4 1.65 L0.0 0.0\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [
+        {
+          "id": "clothes-jacket_girl_3-McArmTop-mcColor",
+          "kind": "multiply",
+          "percent": 100
+        },
+        {
+          "id": "clothes-jacket_girl_3-McArmTop-mcBorder",
+          "kind": "border",
+          "percent": 50
+        }
+      ],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McBody2": {
+      "width": 25,
+      "height": 19.9,
+      "registrationX": -12.4,
+      "registrationY": -25,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 12.4, 25.0)\">\n    <use height=\"14.65\" id=\"clothes-jacket_girl_3-McBody2-mcColor\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -8.7, -24.5)\" width=\"16.8\" href=\"#clothes-jacket_girl_3-McBody2-sprite0\"></use>\n    <use height=\"15.65\" id=\"clothes-jacket_girl_3-McBody2-mcBorder\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -8.7, -24.5)\" width=\"17.8\" href=\"#clothes-jacket_girl_3-McBody2-sprite1\"></use>\n    <use height=\"17.0\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.75, -15.65)\" width=\"25.0\" href=\"#clothes-jacket_girl_3-McBody2-shape2\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-jacket_girl_3-McBody2-sprite0\">\n      <use height=\"14.65\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"16.8\" href=\"#clothes-jacket_girl_3-McBody2-shape0\"></use>\n    </g>\n    <g id=\"clothes-jacket_girl_3-McBody2-shape0\">\n      <path d=\"M12.35 0.6 L16.8 13.55 Q11.65 14.85 7.35 14.6 L0.0 13.55 0.75 11.0 1.55 8.4 4.85 0.1 6.6 0.0 Q6.6 6.0 8.5 11.65 10.15 6.2 10.15 0.0 L12.35 0.6\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-jacket_girl_3-McBody2-sprite1\">\n      <use height=\"15.65\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"17.8\" href=\"#clothes-jacket_girl_3-McBody2-shape1\"></use>\n    </g>\n    <g id=\"clothes-jacket_girl_3-McBody2-shape1\">\n      <path d=\"M12.35 0.6 L16.8 13.55 Q11.65 14.85 7.35 14.6 L0.0 13.55 0.75 11.0 1.55 8.4 4.85 0.1 6.6 0.0 Q6.6 6.0 8.5 11.65 10.15 6.2 10.15 0.0 L12.35 0.6 Z\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n    </g>\n    <g id=\"clothes-jacket_girl_3-McBody2-shape2\">\n      <path d=\"M6.5 7.55 Q7.0 8.6 6.85 9.6 4.7 8.6 3.95 7.6 L3.95 9.85 Q2.25 9.25 1.55 8.3 1.7 9.2 0.85 10.05 -1.15 9.6 -2.05 8.2 -2.25 9.3 -4.0 9.65 -4.85 8.7 -4.65 7.75 -5.45 8.8 -7.7 9.7 -8.8 9.05 -8.65 8.15 -8.8 9.05 -10.95 9.35 L-9.9 7.05 Q-11.05 7.9 -12.65 6.6 -11.5 5.35 -10.55 5.3 -10.75 4.05 -12.25 2.75 -10.55 2.9 -9.55 4.0 -9.45 2.75 -8.0 2.3 L-7.0 4.45 Q-6.6 3.15 -4.15 2.6 -3.15 4.0 -3.75 4.85 -2.4 4.05 -2.35 2.65 -1.2 3.2 -0.5 4.6 -0.8 3.45 0.3 2.6 2.3 2.95 2.45 4.8 4.15 3.95 4.45 2.55 5.35 3.65 5.0 4.7 6.1 3.2 8.35 2.85 L7.3 4.6 Q8.9 3.65 10.9 4.2 10.7 5.6 9.55 5.8 L11.35 6.65 Q10.6 7.8 8.9 7.35 10.2 8.2 10.3 8.95 7.75 8.8 6.5 7.55\" fill=\"#fd2491\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M6.5 7.55 Q7.75 8.8 10.3 8.95 10.2 8.2 8.9 7.35 10.6 7.8 11.35 6.65 L9.55 5.8 Q10.7 5.6 10.9 4.2 8.9 3.65 7.3 4.6 L8.35 2.85 Q6.1 3.2 5.0 4.7 5.35 3.65 4.45 2.55 4.15 3.95 2.45 4.8 2.3 2.95 0.3 2.6 -0.8 3.45 -0.5 4.6 -1.2 3.2 -2.35 2.65 -2.4 4.05 -3.75 4.85 -3.15 4.0 -4.15 2.6 -6.6 3.15 -7.0 4.45 L-8.0 2.3 Q-9.45 2.75 -9.55 4.0 -10.55 2.9 -12.25 2.75 -10.75 4.05 -10.55 5.3 -11.5 5.35 -12.65 6.6 -11.05 7.9 -9.9 7.05 L-10.95 9.35 Q-8.8 9.05 -8.65 8.15 -8.8 9.05 -7.7 9.7 -5.45 8.8 -4.65 7.75 -4.85 8.7 -4.0 9.65 -2.25 9.3 -2.05 8.2 -1.15 9.6 0.85 10.05 1.7 9.2 1.55 8.3 2.25 9.25 3.95 9.85 L3.95 7.6 Q4.7 8.6 6.85 9.6 7.0 8.6 6.5 7.55 Z\" fill=\"none\" stroke=\"#cc0066\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n      <path d=\"M3.1 -3.3 Q0.75 -2.35 1.7 -0.15 -0.95 -1.95 -3.75 -0.15 -2.1 -2.4 -5.25 -3.1 -2.5 -3.25 -3.85 -5.95 -1.05 -4.15 1.45 -5.75 0.2 -3.8 3.1 -3.3\" fill=\"#ffff00\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M3.1 -3.3 Q0.75 -2.35 1.7 -0.15 -0.95 -1.95 -3.75 -0.15 -2.1 -2.4 -5.25 -3.1 -2.5 -3.25 -3.85 -5.95 -1.05 -4.15 1.45 -5.75 0.2 -3.8 3.1 -3.3 Z\" fill=\"none\" stroke=\"#ffffff\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [
+        {
+          "id": "clothes-jacket_girl_3-McBody2-mcColor",
+          "kind": "multiply",
+          "percent": 100
+        },
+        {
+          "id": "clothes-jacket_girl_3-McBody2-mcBorder",
+          "kind": "border",
+          "percent": 50
+        }
+      ],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    }
+  },
+  "rasterSource": false
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sourceName": "skirt_red.swf",
+  "sha256": "dc70711d5dd660941cc64a64f1f2070685e54a2e0481500a43e6adbb040f9ebb",
+  "parts": {
+    "McArmTop": {
+      "width": 9.4,
+      "height": 14.6,
+      "registrationX": -0.8,
+      "registrationY": -2.3,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.8, 2.3)\">\n    <use height=\"14.6\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"9.4\" href=\"#clothes-skirt_red-McArmTop-shape0\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-skirt_red-McArmTop-shape0\">\n      <path d=\"M-0.3 -0.1 Q2.1 5.85 3.4 11.8 L8.1 8.95 Q5.5 1.75 1.55 -1.8 L-0.3 -0.1\" fill=\"#ff0000\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-0.3 -0.1 Q2.1 5.85 3.4 11.8 L8.1 8.95 Q5.5 1.75 1.55 -1.8 L-0.3 -0.1 Z\" fill=\"none\" stroke=\"#000033\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McBody2": {
+      "width": 26.8,
+      "height": 30.7,
+      "registrationX": -13.85,
+      "registrationY": -26.3,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 13.85, 26.3)\">\n    <use height=\"30.7\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"26.8\" href=\"#clothes-skirt_red-McBody2-shape0\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-skirt_red-McBody2-shape0\">\n      <path d=\"M-4.45 -20.0 L-1.3 -25.75 2.7 -25.8 5.55 -18.85 4.75 -17.95 4.7 -17.8 1.0 -17.5 -2.65 -18.0 -2.7 -18.1 -4.45 -20.0 M9.05 -9.65 L12.45 0.75 9.1 2.15 9.05 -9.65 M7.1 2.8 L3.45 3.6 3.35 -12.7 Q4.65 -12.4 4.85 -11.75 5.1 -10.8 7.15 -10.1 L7.1 2.8 M1.4 3.85 L-1.9 3.9 -2.0 -12.6 1.0 -12.95 1.4 -12.9 1.4 3.85 M-3.95 3.75 L-7.3 3.15 -7.4 -9.95 -6.3 -10.15 Q-4.75 -10.45 -3.9 -10.85 L-3.95 3.75 M-9.35 2.6 L-13.35 1.15 Q-11.6 -4.7 -9.3 -10.0 L-9.35 2.6\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M9.05 -9.7 L9.05 -9.65 9.1 2.15 7.1 2.8 7.15 -10.1 8.2 -9.85 9.05 -9.7 M3.45 3.6 L1.4 3.85 1.4 -12.9 3.35 -12.7 3.45 3.6 M-1.9 3.9 L-3.95 3.75 -3.9 -10.85 Q-3.05 -11.3 -2.85 -11.9 L-2.0 -12.6 -1.9 3.9 M-7.3 3.15 L-9.35 2.6 -9.3 -10.0 -9.25 -10.1 -7.4 -9.95 -7.3 3.15\" fill=\"#c10000\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M5.55 -18.85 L7.8 -20.9 Q11.0 -23.1 11.45 -18.75 11.95 -14.4 11.75 -12.3 L11.35 -10.15 Q11.2 -9.35 9.05 -9.7 L8.2 -9.85 7.15 -10.1 Q5.1 -10.8 4.85 -11.75 4.65 -12.4 3.35 -12.7 L1.4 -12.9 1.0 -12.95 -2.0 -12.6 -2.85 -11.9 Q-3.05 -11.3 -3.9 -10.85 -4.75 -10.45 -6.3 -10.15 L-7.4 -9.95 -9.25 -10.1 Q-9.5 -10.25 -9.55 -10.55 L-10.0 -12.75 Q-10.2 -14.8 -9.75 -19.15 -9.2 -23.45 -5.9 -21.15 L-4.45 -20.0 -2.7 -18.1 -2.65 -18.0 1.0 -17.5 4.7 -17.8 4.75 -17.95 5.55 -18.85\" fill=\"#ff0404\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-4.45 -20.0 L-1.3 -25.75 2.7 -25.8 5.55 -18.85 M9.05 -9.7 L9.05 -9.65 12.45 0.75 9.1 2.15 7.1 2.8 3.45 3.6 1.4 3.85 -1.9 3.9 -3.95 3.75 -7.3 3.15 M-9.35 2.6 L-13.35 1.15 Q-11.6 -4.7 -9.3 -10.0 L-9.25 -10.1 M-2.0 -12.6 L-1.9 3.9 M-3.9 -10.85 L-3.95 3.75\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    }
+  },
+  "rasterSource": false
+}

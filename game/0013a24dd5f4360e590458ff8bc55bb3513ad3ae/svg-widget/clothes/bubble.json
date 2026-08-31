@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "sourceName": "bubble.swf",
+  "sha256": "e54e991a556ce69b1e7ae3c1df9802c299c14bfb5aa394a4c315c8db0b0f48b7",
+  "parts": {
+    "McArmBottom": {
+      "width": 14.85,
+      "height": 14.8,
+      "registrationX": -3.1,
+      "registrationY": -3.4,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 3.1, 3.4)\">\n    <use height=\"14.8\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"14.85\" href=\"#clothes-bubble-McArmBottom-shape0\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-bubble-McArmBottom-shape0\">\n      <path d=\"M10.5 1.0 Q11.75 3.55 10.85 6.25 9.9 8.95 7.35 10.2 4.75 11.45 2.1 10.5 -0.65 9.6 -1.85 7.05 -3.15 4.5 -2.2 1.8 -1.3 -0.9 1.3 -2.15 3.8 -3.4 6.55 -2.5 9.2 -1.55 10.5 1.0\" fill=\"url(#clothes-bubble-McArmBottom-gradient0)\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M10.5 1.0 Q11.75 3.55 10.85 6.25 9.9 8.95 7.35 10.2 4.75 11.45 2.1 10.5 -0.65 9.6 -1.85 7.05 -3.15 4.5 -2.2 1.8 -1.3 -0.9 1.3 -2.15 3.8 -3.4 6.55 -2.5 9.2 -1.55 10.5 1.0 Z\" fill=\"none\" stroke=\"#9191ff\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-opacity=\"0.49803922\" stroke-width=\"1.0\"></path>\n      <path d=\"M10.5 1.0 Q9.35 -0.15 7.7 -0.75 4.9 -1.7 2.2 -0.4 -0.55 0.95 -1.5 3.8 -1.95 5.2 -1.85 6.55 -2.85 4.2 -2.0 1.7 -1.1 -0.95 1.4 -2.15 3.9 -3.4 6.55 -2.5 9.25 -1.6 10.45 0.95 L10.5 1.0\" fill=\"#ff0099\" fill-opacity=\"0.09803922\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M8.7 7.45 Q8.25 8.7 7.15 9.3 L4.75 9.4 Q3.55 9.0 3.0 7.85 2.35 6.7 2.8 5.45 3.2 4.2 4.4 3.65 L6.75 3.5 Q8.0 3.95 8.55 5.1 9.1 6.2 8.7 7.45\" fill=\"#ffffff\" fill-opacity=\"0.49803922\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <radialGradient cx=\"0\" cy=\"0\" gradientTransform=\"matrix(-0.1443, 0.4239, -0.4239, -0.1443, 139.1, -142.75)\" gradientUnits=\"userSpaceOnUse\" id=\"clothes-bubble-McArmBottom-gradient0\" r=\"819.2\" spreadMethod=\"pad\">\n      <stop offset=\"0.0\" stop-color=\"#ffffff\" stop-opacity=\"0.0\"></stop>\n      <stop offset=\"1.0\" stop-color=\"#9191ff\" stop-opacity=\"0.49803922\"></stop>\n    </radialGradient>\n  </defs>\n",
+      "tintTargets": [],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McArmTop": {
+      "width": 13.2,
+      "height": 13.25,
+      "registrationX": -0.75,
+      "registrationY": -2.8,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.75, 2.8)\">\n    <use height=\"13.25\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"13.2\" href=\"#clothes-bubble-McArmTop-shape0\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-bubble-McArmTop-shape0\">\n      <path d=\"M4.8 -2.2 Q7.25 -2.6 9.35 -1.15 11.4 0.25 11.85 2.75 12.3 5.25 10.85 7.3 9.4 9.4 6.9 9.85 4.45 10.25 2.4 8.85 0.3 7.4 -0.15 4.9 -0.6 2.45 0.85 0.35 2.3 -1.7 4.8 -2.2\" fill=\"url(#clothes-bubble-McArmTop-gradient0)\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M4.8 -2.2 Q7.25 -2.6 9.35 -1.15 11.4 0.25 11.85 2.75 12.3 5.25 10.85 7.3 9.4 9.4 6.9 9.85 4.45 10.25 2.4 8.85 0.3 7.4 -0.15 4.9 -0.6 2.45 0.85 0.35 2.3 -1.7 4.8 -2.2 Z\" fill=\"none\" stroke=\"#9191ff\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-opacity=\"0.49803922\" stroke-width=\"1.0\"></path>\n      <path d=\"M4.8 -2.2 Q3.5 -1.5 2.65 -0.25 1.1 1.95 1.6 4.55 2.05 7.2 4.2 8.7 5.3 9.45 6.45 9.7 4.2 10.0 2.3 8.65 0.3 7.25 -0.15 4.8 -0.6 2.35 0.85 0.35 2.3 -1.75 4.7 -2.15 L4.8 -2.2\" fill=\"#ff0099\" fill-opacity=\"0.09803922\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M9.85 0.9 Q10.8 1.55 11.0 2.65 11.2 3.85 10.55 4.8 9.9 5.75 8.75 5.9 7.65 6.1 6.7 5.45 5.75 4.8 5.55 3.7 5.35 2.6 6.0 1.65 6.65 0.7 7.8 0.45 8.9 0.25 9.85 0.9\" fill=\"#ffffff\" fill-opacity=\"0.49803922\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <radialGradient cx=\"0\" cy=\"0\" gradientTransform=\"matrix(0.3256, 0.2268, -0.2268, 0.3256, -86.1, -146.95)\" gradientUnits=\"userSpaceOnUse\" id=\"clothes-bubble-McArmTop-gradient0\" r=\"819.2\" spreadMethod=\"pad\">\n      <stop offset=\"0.0\" stop-color=\"#ffffff\" stop-opacity=\"0.0\"></stop>\n      <stop offset=\"1.0\" stop-color=\"#9191ff\" stop-opacity=\"0.49803922\"></stop>\n    </radialGradient>\n  </defs>\n",
+      "tintTargets": [],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McBody2": {
+      "width": 25.9,
+      "height": 25.9,
+      "registrationX": -12.95,
+      "registrationY": -24.8,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 12.95, 24.8)\">\n    <use height=\"25.9\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"25.9\" href=\"#clothes-bubble-McBody2-shape0\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-bubble-McBody2-shape0\">\n      <path d=\"M12.45 -11.85 Q12.45 -6.65 8.85 -3.05 5.2 0.6 0.0 0.6 -5.15 0.65 -8.8 -3.0 -12.5 -6.7 -12.45 -11.85 -12.4 -17.0 -8.75 -20.65 -5.15 -24.25 0.0 -24.3 5.15 -24.35 8.85 -20.65 12.5 -17.0 12.45 -11.85\" fill=\"url(#clothes-bubble-McBody2-gradient0)\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M12.45 -11.85 Q12.45 -6.65 8.85 -3.05 5.2 0.6 0.0 0.6 -5.15 0.65 -8.8 -3.0 -12.5 -6.7 -12.45 -11.85 -12.4 -17.0 -8.75 -20.65 -5.15 -24.25 0.0 -24.3 5.15 -24.35 8.85 -20.65 12.5 -17.0 12.45 -11.85 Z\" fill=\"none\" stroke=\"#9191ff\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-opacity=\"0.49803922\" stroke-width=\"1.0\"></path>\n      <path d=\"M12.55 -11.85 Q11.6 -14.6 9.35 -16.85 5.5 -20.7 0.1 -20.7 -5.3 -20.7 -9.15 -16.85 -11.05 -14.95 -12.05 -12.75 -11.8 -17.3 -8.4 -20.7 -4.85 -24.25 0.25 -24.25 5.35 -24.25 8.9 -20.7 12.55 -17.05 12.55 -11.95 L12.55 -11.85\" fill=\"#ff0099\" fill-opacity=\"0.09803922\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M4.45 -2.75 Q2.75 -1.05 0.45 -1.05 -1.9 -1.1 -3.55 -2.75 -5.2 -4.4 -5.2 -6.7 -5.25 -9.05 -3.55 -10.75 -1.9 -12.4 0.45 -12.35 2.75 -12.35 4.4 -10.7 6.05 -9.05 6.1 -6.7 6.1 -4.4 4.45 -2.75\" fill=\"#ffffff\" fill-opacity=\"0.49803922\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <radialGradient cx=\"0\" cy=\"0\" gradientTransform=\"matrix(-0.5735, 0.5735, -0.5735, -0.5735, 336.5, -142.6)\" gradientUnits=\"userSpaceOnUse\" id=\"clothes-bubble-McBody2-gradient0\" r=\"819.2\" spreadMethod=\"pad\">\n      <stop offset=\"0.0\" stop-color=\"#ffffff\" stop-opacity=\"0.0\"></stop>\n      <stop offset=\"1.0\" stop-color=\"#9191ff\" stop-opacity=\"0.49803922\"></stop>\n    </radialGradient>\n  </defs>\n",
+      "tintTargets": [],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McHead2": {
+      "width": 25.7,
+      "height": 25.7,
+      "registrationX": -12.7,
+      "registrationY": -23.95,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 12.7, 23.95)\">\n    <use height=\"25.7\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"25.7\" href=\"#clothes-bubble-McHead2-shape0\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-bubble-McHead2-shape0\">\n      <path d=\"M-8.6 -19.85 Q-4.95 -23.45 0.15 -23.45 5.25 -23.45 8.85 -19.85 12.5 -16.2 12.5 -11.1 12.5 -5.95 8.85 -2.35 5.25 1.25 0.15 1.25 -4.95 1.25 -8.6 -2.35 -12.2 -5.95 -12.2 -11.1 -12.2 -16.2 -8.6 -19.85\" fill=\"url(#clothes-bubble-McHead2-gradient0)\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-8.6 -19.85 Q-4.95 -23.45 0.15 -23.45 5.25 -23.45 8.85 -19.85 12.5 -16.2 12.5 -11.1 12.5 -5.95 8.85 -2.35 5.25 1.25 0.15 1.25 -4.95 1.25 -8.6 -2.35 -12.2 -5.95 -12.2 -11.1 -12.2 -16.2 -8.6 -19.85 Z\" fill=\"none\" stroke=\"#9191ff\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-opacity=\"0.49803922\" stroke-width=\"1.0\"></path>\n      <path d=\"M-8.65 -19.85 Q-9.9 -17.25 -9.9 -14.1 -9.9 -8.75 -6.15 -4.95 -2.3 -1.1 3.1 -1.1 5.7 -1.1 7.95 -2.0 4.55 1.05 -0.15 1.05 -5.15 1.05 -8.7 -2.55 -12.3 -6.1 -12.3 -11.15 -12.3 -16.25 -8.7 -19.8 L-8.65 -19.85\" fill=\"#ff0099\" fill-opacity=\"0.09803922\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M3.45 -20.55 Q5.75 -20.55 7.4 -18.95 9.05 -17.3 9.05 -14.95 9.05 -12.65 7.4 -11.0 5.75 -9.35 3.45 -9.35 1.1 -9.35 -0.55 -11.0 -2.15 -12.65 -2.15 -14.95 -2.15 -17.3 -0.55 -18.95 1.1 -20.55 3.45 -20.55\" fill=\"#ffffff\" fill-opacity=\"0.49803922\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <radialGradient cx=\"0\" cy=\"0\" gradientTransform=\"matrix(0.8046, 0.0, 0.0, 0.8046, -327.6, -155.4)\" gradientUnits=\"userSpaceOnUse\" id=\"clothes-bubble-McHead2-gradient0\" r=\"819.2\" spreadMethod=\"pad\">\n      <stop offset=\"0.0\" stop-color=\"#ffffff\" stop-opacity=\"0.0\"></stop>\n      <stop offset=\"1.0\" stop-color=\"#9191ff\" stop-opacity=\"0.49803922\"></stop>\n    </radialGradient>\n  </defs>\n",
+      "tintTargets": [],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McLeg2": {
+      "width": 13.3,
+      "height": 13.3,
+      "registrationX": -8.3,
+      "registrationY": -0.95,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 8.3, 0.95)\">\n    <use height=\"13.3\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"13.3\" href=\"#clothes-bubble-McLeg2-shape0\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-bubble-McLeg2-shape0\">\n      <path d=\"M1.4 11.05 Q-0.8 12.3 -3.25 11.65 -5.7 11.0 -7.0 8.8 -8.25 6.55 -7.6 4.1 -6.95 1.6 -4.75 0.4 -2.5 -0.9 -0.05 -0.25 2.4 0.4 3.65 2.65 4.95 4.8 4.3 7.3 3.65 9.75 1.4 11.05\" fill=\"url(#clothes-bubble-McLeg2-gradient0)\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M1.4 11.05 Q-0.8 12.3 -3.25 11.65 -5.7 11.0 -7.0 8.8 -8.25 6.55 -7.6 4.1 -6.95 1.6 -4.75 0.4 -2.5 -0.9 -0.05 -0.25 2.4 0.4 3.65 2.65 4.95 4.8 4.3 7.3 3.65 9.75 1.4 11.05 Z\" fill=\"none\" stroke=\"#9191ff\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-opacity=\"0.49803922\" stroke-width=\"1.0\"></path>\n      <path d=\"M1.45 11.05 Q2.4 9.95 2.8 8.45 3.5 5.85 2.2 3.55 0.85 1.2 -1.75 0.55 L-4.25 0.3 Q-2.2 -0.7 0.05 -0.1 2.45 0.55 3.7 2.75 5.0 4.9 4.35 7.3 3.7 9.75 1.5 11.0 L1.45 11.05\" fill=\"#ff0099\" fill-opacity=\"0.09803922\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-4.45 9.85 Q-5.55 9.55 -6.1 8.55 -6.7 7.5 -6.4 6.4 -6.1 5.3 -5.1 4.75 -4.15 4.15 -3.05 4.45 -1.9 4.75 -1.3 5.75 -0.75 6.75 -1.05 7.85 -1.35 8.95 -2.3 9.55 -3.3 10.15 -4.45 9.85\" fill=\"#ffffff\" fill-opacity=\"0.49803922\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <radialGradient cx=\"0\" cy=\"0\" gradientTransform=\"matrix(-0.387, -0.1037, 0.1037, -0.387, 137.4, 117.35)\" gradientUnits=\"userSpaceOnUse\" id=\"clothes-bubble-McLeg2-gradient0\" r=\"819.2\" spreadMethod=\"pad\">\n      <stop offset=\"0.0\" stop-color=\"#ffffff\" stop-opacity=\"0.0\"></stop>\n      <stop offset=\"1.0\" stop-color=\"#9191ff\" stop-opacity=\"0.49803922\"></stop>\n    </radialGradient>\n  </defs>\n",
+      "tintTargets": [],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    }
+  },
+  "rasterSource": false
+}

@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "sourceName": "kostium_luckyluke.swf",
+  "sha256": "03cb7f6185f63083a9df5b1c2d8cb469e7517cddb7676b42b699f7787e30ea8c",
+  "parts": {
+    "McArmTop": {
+      "width": 9.6,
+      "height": 11.45,
+      "registrationX": 0.35,
+      "registrationY": -1.7,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, -0.35, 1.7)\">\n    <use height=\"11.45\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"9.6\" href=\"#clothes-kostium_luckyluke-McArmTop-shape0\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-kostium_luckyluke-McArmTop-shape0\">\n      <path d=\"M0.85 -1.2 Q3.8 1.1 5.7 4.1 L6.1 4.7 6.65 4.45 7.75 3.75 9.45 6.95 6.7 8.1 5.9 8.4 2.9 9.25 1.75 6.55 2.5 6.25 2.4 6.1 0.85 2.7 0.85 -1.2 M2.5 6.25 L6.1 4.7 2.5 6.25\" fill=\"#ffff33\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M0.85 -1.2 Q3.8 1.1 5.7 4.1 L6.1 4.7 6.65 4.45 7.75 3.75 9.45 6.95 6.7 8.1 5.9 8.4 2.9 9.25 1.75 6.55 2.5 6.25 2.4 6.1 0.85 2.7 M6.1 4.7 L2.5 6.25\" fill=\"none\" stroke=\"#ff9900\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McBody2": {
+      "width": 27.35,
+      "height": 31,
+      "registrationX": -17.3,
+      "registrationY": -30.45,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 17.3, 30.45)\">\n    <use height=\"31.0\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"27.35\" href=\"#clothes-kostium_luckyluke-McBody2-shape0\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-kostium_luckyluke-McBody2-shape0\">\n      <path d=\"M7.7 -9.7 L1.6 -8.8 2.8 -23.0 2.8 -23.15 Q8.0 -17.15 10.05 -9.9 L7.7 -9.7 M-3.3 -23.25 Q-3.8 -16.35 -2.45 -8.85 L-8.25 -10.0 -9.6 -10.1 Q-7.85 -17.3 -3.4 -23.25 L-3.3 -23.25\" fill=\"#000000\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M2.8 -23.15 L2.8 -23.0 1.6 -8.8 7.7 -9.7 7.9 -8.8 Q8.0 -8.2 8.6 -7.95 L-9.3 -7.95 Q-8.5 -8.85 -8.25 -10.0 L-2.45 -8.85 Q-3.8 -16.35 -3.3 -23.25 0.5 -21.15 2.75 -23.25 L2.8 -23.15\" fill=\"#ffff33\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-9.3 -7.95 L8.6 -7.95 Q9.0 -5.8 8.5 -4.3 L-9.1 -4.3 Q-10.05 -6.45 -9.3 -7.95\" fill=\"#663300\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M8.5 -4.3 L7.7 -4.05 Q6.85 -1.8 4.05 -0.7 2.75 -0.2 1.25 0.0 L-1.35 0.0 -2.1 -0.1 Q-5.1 -0.45 -6.5 -1.5 L-9.1 -4.3 8.5 -4.3 M1.25 0.0 L1.5 -3.7 1.25 0.0 M-1.35 0.0 L-1.35 -3.7 -1.35 0.0\" fill=\"#0b91c6\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-8.25 -10.0 Q-8.5 -8.85 -9.3 -7.95 M8.6 -7.95 Q8.0 -8.2 7.9 -8.8 L7.7 -9.7\" fill=\"none\" stroke=\"#ff9900\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n      <path d=\"M8.5 -4.3 L7.7 -4.05 Q6.85 -1.8 4.05 -0.7 2.75 -0.2 1.25 0.0 L-1.35 0.0 -2.1 -0.1 Q-5.1 -0.45 -6.5 -1.5 L-9.1 -4.3 M1.5 -3.7 L1.25 0.0 M-1.35 -3.7 L-1.35 0.0\" fill=\"none\" stroke=\"#076981\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n      <path d=\"M5.15 -22.4 Q4.5 -17.65 -1.15 -12.9 -2.0 -18.5 -5.85 -23.3 L-7.5 -23.4 Q-9.65 -21.95 -11.45 -18.5 -11.5 -26.35 -7.2 -24.3 -9.9 -27.75 -16.8 -24.65 -8.95 -34.4 -6.5 -26.25 L-6.3 -26.9 -4.3 -26.05 -5.05 -24.7 Q-2.65 -23.1 -0.35 -22.6 1.95 -22.1 4.9 -24.9 L5.15 -22.4 M-5.05 -24.7 L-5.85 -23.3 -5.05 -24.7 M-7.5 -23.4 L-7.2 -24.3 -6.5 -26.25 -7.2 -24.3 -7.5 -23.4\" fill=\"#ff0000\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M5.15 -22.4 Q4.5 -17.65 -1.15 -12.9 -2.0 -18.5 -5.85 -23.3 L-7.5 -23.4 Q-9.65 -21.95 -11.45 -18.5 -11.5 -26.35 -7.2 -24.3 -9.9 -27.75 -16.8 -24.65 -8.95 -34.4 -6.5 -26.25 L-6.3 -26.9 -4.3 -26.05 -5.05 -24.7 Q-2.65 -23.1 -0.35 -22.6 1.95 -22.1 4.9 -24.9 L5.15 -22.4 M-6.5 -26.25 L-7.2 -24.3 -7.5 -23.4 M-5.85 -23.3 L-5.05 -24.7\" fill=\"none\" stroke=\"#cc0000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n      <path d=\"M-3.5 -6.7 L-3.5 -4.6 2.75 -4.6 2.75 -6.7 -3.5 -6.7 M-5.25 -7.95 L4.4 -7.95 4.4 -3.7 -5.25 -3.7 -5.25 -7.95\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McHead2": {
+      "width": 41.3,
+      "height": 20.15,
+      "registrationX": -20.25,
+      "registrationY": -25.35,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 20.25, 25.35)\">\n    <use height=\"20.15\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"41.3\" href=\"#clothes-kostium_luckyluke-McHead2-shape0\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-kostium_luckyluke-McHead2-shape0\">\n      <path d=\"M-3.4 -24.7 L-2.7 -24.75 Q-0.65 -24.95 1.45 -24.75 L1.65 -24.75 2.25 -19.25 Q-0.75 -19.5 -3.45 -19.2 L-3.4 -24.7\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M6.55 -18.4 L6.65 -16.4 Q-0.25 -17.85 -7.2 -16.4 L-7.2 -18.55 -3.45 -19.2 Q-0.75 -19.5 2.25 -19.25 L6.55 -18.4\" fill=\"#000000\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-7.2 -18.55 L-6.05 -24.25 -3.4 -24.7 -3.45 -19.2 -7.2 -18.55 M1.65 -24.75 L4.9 -24.3 6.55 -18.4 2.25 -19.25 1.65 -24.75\" fill=\"#cccccc\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M6.55 -18.4 L6.65 -16.4 Q-0.25 -17.85 -7.2 -16.4 L-7.2 -18.55 -6.05 -24.25 -3.4 -24.7 -2.7 -24.75 Q-0.65 -24.95 1.45 -24.75 L1.65 -24.75 4.9 -24.3 6.55 -18.4 Z\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n      <path d=\"M7.5 -5.2 Q7.7 -12.0 -0.15 -14.2 L4.85 -17.85 Q12.5 -10.8 7.5 -5.2\" fill=\"#000000\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M6.85 -16.6 L7.9 -17.2 Q14.2 -22.75 19.95 -17.65 L20.5 -17.15 Q21.5 -15.15 7.35 -15.1 0.35 -11.9 -6.85 -14.5 L-6.95 -14.55 Q-21.25 -15.75 -19.6 -18.35 -14.05 -21.8 -8.65 -17.45 L-7.6 -16.75 Q-0.6 -18.35 6.85 -16.6 -0.15 -13.15 -7.6 -16.75 -0.15 -13.15 6.85 -16.6 M-6.85 -14.5 Q-10.8 -16.4 -11.7 -17.05 -10.8 -16.4 -6.85 -14.5 M11.9 -18.2 Q8.35 -15.6 7.35 -15.1 8.35 -15.6 11.9 -18.2\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M6.85 -16.6 L7.9 -17.2 Q14.2 -22.75 19.95 -17.65 L20.5 -17.15 Q21.5 -15.15 7.35 -15.1 0.35 -11.9 -6.85 -14.5 L-6.95 -14.55 Q-21.25 -15.75 -19.6 -18.35 -14.05 -21.8 -8.65 -17.45 L-7.6 -16.75 Q-0.15 -13.15 6.85 -16.6\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n      <path d=\"M7.35 -15.1 Q8.35 -15.6 11.9 -18.2 M-11.7 -17.05 Q-10.8 -16.4 -6.85 -14.5\" fill=\"none\" stroke=\"#666666\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McLeg2": {
+      "width": 11.25,
+      "height": 14.3,
+      "registrationX": -7.45,
+      "registrationY": 0.2,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 7.45, -0.2)\">\n    <use height=\"14.3\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"11.25\" href=\"#clothes-kostium_luckyluke-McLeg2-shape0\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-kostium_luckyluke-McLeg2-shape0\">\n      <path d=\"M-6.4 8.8 L-6.15 10.1 -4.75 11.85 Q-3.75 12.8 -2.3 12.9 -0.85 13.0 0.75 12.25 2.3 11.45 2.7 10.4 L2.6 12.6 Q-0.3 14.1 -2.65 14.5 -5.2 13.9 -7.0 10.75 L-6.4 8.8\" fill=\"#000000\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M2.85 8.45 L-5.6 6.7 -6.95 6.7 Q-5.65 5.7 -5.55 4.2 L-4.85 4.2 Q-1.3 5.9 2.8 5.85 L3.3 5.85 2.85 8.45\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M2.7 10.4 Q2.3 11.45 0.75 12.25 -0.85 13.0 -2.3 12.9 -3.75 12.8 -4.75 11.85 L-6.15 10.1 -6.4 8.8 -6.4 8.6 -5.8 7.15 -5.6 6.7 2.85 8.45 2.85 9.55 2.7 10.4\" fill=\"#660000\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-4.85 4.2 L-4.15 0.7 3.15 2.5 Q2.75 4.0 2.8 5.85 -1.3 5.9 -4.85 4.2\" fill=\"#0b91c6\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M2.85 8.45 L-5.6 6.7 -6.95 6.7 Q-5.65 5.7 -5.55 4.2 L-4.85 4.2 Q-1.3 5.9 2.8 5.85 L3.3 5.85 2.85 8.45\" fill=\"none\" stroke=\"#076981\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n      <path d=\"M2.7 10.4 L2.85 9.55 2.85 8.45 M-5.6 6.7 L-5.8 7.15 -6.4 8.6 -6.4 8.8\" fill=\"none\" stroke=\"#4b0101\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n      <path d=\"M-4.85 4.2 L-4.15 0.7 3.15 2.5 Q2.75 4.0 2.8 5.85\" fill=\"none\" stroke=\"#076981\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n      <path d=\"M-5.6 6.6 Q-5.2 7.0 -4.95 7.65 -4.75 8.35 -4.9 8.85 L-5.55 9.3 -6.4 8.95 -7.05 7.85 -7.1 6.75 Q-6.9 6.3 -6.5 6.2 -6.05 6.15 -5.6 6.6\" fill=\"#ffff00\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    }
+  },
+  "rasterSource": false
+}

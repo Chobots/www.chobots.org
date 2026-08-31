@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "sourceName": "shirt_boy_music.swf",
+  "sha256": "73a56cf68c9530c1f9c11e97432c6b2993bff1c7ddad37f77f38bbcf9299f278",
+  "parts": {
+    "McArmBottom": {
+      "width": 6.3,
+      "height": 4.75,
+      "registrationX": -0.3,
+      "registrationY": 0.75,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.3, -0.75)\">\n    <use height=\"4.75\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"6.3\" href=\"#clothes-shirt_boy_music-McArmBottom-shape0\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-shirt_boy_music-McArmBottom-shape0\">\n      <path d=\"M5.25 3.3 L5.35 3.75 5.5 4.95 Q4.15 3.5 0.4 5.0 L0.4 3.65 Q3.4 2.8 5.25 3.3 M0.3 2.8 L0.2 1.95 4.7 1.25 4.95 2.1 Q2.75 1.85 0.3 2.8\" fill=\"#993399\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M0.4 3.65 L0.3 2.8 Q2.75 1.85 4.95 2.1 L5.25 3.3 Q3.4 2.8 0.4 3.65\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M5.25 3.3 L5.35 3.75 5.5 4.95 Q4.15 3.5 0.4 5.0 L0.4 3.65 0.3 2.8 0.2 1.95 4.7 1.25 4.95 2.1 5.25 3.3 Z\" fill=\"none\" stroke=\"#660066\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McArmTop": {
+      "width": 8.8,
+      "height": 11.7,
+      "registrationX": -0.4,
+      "registrationY": -2.1,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.4, 2.1)\">\n    <use height=\"11.7\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"8.8\" href=\"#clothes-shirt_boy_music-McArmTop-shape0\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-shirt_boy_music-McArmTop-shape0\">\n      <path d=\"M0.1 -1.6 Q3.2 0.55 5.75 3.6 7.45 5.6 7.9 7.05 5.25 7.65 3.65 9.1 L2.35 5.9 Q1.25 2.8 0.1 1.45 L0.1 -1.6\" fill=\"#6633ff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M0.1 -1.6 Q3.2 0.55 5.75 3.6 7.45 5.6 7.9 7.05 5.25 7.65 3.65 9.1 L2.35 5.9 Q1.25 2.8 0.1 1.45\" fill=\"none\" stroke=\"#660066\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McBody2": {
+      "width": 18.6,
+      "height": 22.3,
+      "registrationX": -9.6,
+      "registrationY": -25.8,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 9.6, 25.8)\">\n    <use height=\"22.3\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"18.6\" href=\"#clothes-shirt_boy_music-McBody2-shape0\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-shirt_boy_music-McBody2-shape0\">\n      <path d=\"M4.05 -21.65 Q7.8 -11.95 8.3 -9.0 L8.5 -6.1 Q-0.7 -1.85 -9.1 -6.3 -9.3 -10.0 -6.75 -16.1 L-4.3 -22.25 Q-3.75 -19.35 -0.1 -17.45 3.2 -19.35 4.05 -21.65\" fill=\"#6633ff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-4.3 -22.25 L-3.15 -25.3 Q-3.7 -22.35 -0.15 -18.9 2.8 -22.05 2.8 -24.8 L4.05 -21.65 Q3.2 -19.35 -0.1 -17.45 -3.75 -19.35 -4.3 -22.25\" fill=\"#990099\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M4.05 -21.65 Q7.8 -11.95 8.3 -9.0 L8.5 -6.1 Q-0.7 -1.85 -9.1 -6.3 -9.3 -10.0 -6.75 -16.1 L-4.3 -22.25 -3.15 -25.3 Q-3.7 -22.35 -0.15 -18.9 2.8 -22.05 2.8 -24.8 L4.05 -21.65 Z\" fill=\"none\" stroke=\"#660066\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n      <path d=\"M7.8 -9.1 Q3.45 -5.4 -8.0 -8.7 -8.3 -12.65 -6.6 -16.5 2.6 -13.65 6.2 -15.85 L7.8 -9.1\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M5.5 -14.25 Q6.35 -13.85 6.3 -12.85 5.65 -12.85 5.2 -11.95 4.8 -11.05 5.75 -10.5 L7.05 -9.9 Q7.4 -9.4 6.5 -8.55 5.6 -8.25 4.55 -9.65 3.9 -10.65 3.9 -11.95 4.0 -14.6 5.5 -14.25 M3.55 -14.5 Q3.3 -11.75 4.25 -9.3 3.6 -8.6 2.6 -9.8 3.05 -11.75 2.5 -14.25 2.85 -15.55 3.55 -14.5 M1.25 -12.65 Q0.55 -11.95 1.0 -11.25 L2.35 -10.4 Q2.7 -9.35 2.2 -8.45 1.6 -7.7 0.65 -7.85 -0.15 -8.15 0.25 -8.9 L1.2 -8.9 Q2.1 -9.4 1.2 -10.25 L0.2 -10.65 Q-0.3 -11.55 0.2 -12.95 0.9 -14.15 1.95 -14.2 2.55 -13.45 1.95 -12.65 L1.25 -12.65 M-4.4 -13.65 Q-3.75 -14.5 -3.5 -13.65 L-3.85 -9.05 Q-4.35 -7.8 -4.85 -8.8 L-4.5 -11.95 -5.5 -10.95 -6.2 -12.7 Q-6.35 -10.95 -6.05 -9.15 -6.5 -8.15 -7.45 -8.9 -6.6 -11.45 -6.9 -14.1 -6.5 -14.75 -6.05 -14.1 L-5.35 -12.45 -4.4 -13.65 M-2.6 -9.15 Q-3.6 -10.0 -3.35 -12.25 -3.15 -14.5 -2.5 -13.75 L-2.25 -10.45 Q-1.15 -10.15 -0.95 -12.25 -0.75 -14.4 -0.25 -13.2 -0.1 -11.85 -0.45 -10.3 -0.9 -8.75 -2.6 -9.15\" fill=\"#993399\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    }
+  },
+  "rasterSource": false
+}

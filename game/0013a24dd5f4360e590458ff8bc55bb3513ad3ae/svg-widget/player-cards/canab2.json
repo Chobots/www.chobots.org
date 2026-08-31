@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sourceName": "canab2.swf",
+  "sha256": "4eff94030be1924488889733fe1b28b4b947b4b443de2db43880eb6ee563d857",
+  "exportName": "McStuff",
+  "posterFrame": 1,
+  "fragment": {
+    "width": 217,
+    "height": 220,
+    "registrationX": 0,
+    "registrationY": 0,
+    "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\">\n    <use height=\"220.0\" id=\"player-card-canab2-mcColor\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 108.5, 110.0)\" width=\"217.0\" href=\"#player-card-canab2-sprite0\"></use>\n    <filter color-interpolation-filters=\"sRGB\" height=\"300%\" id=\"player-card-canab2-filter0\" width=\"300%\" x=\"-100%\" y=\"-100%\">\n      <feOffset dx=\"0.70711599583202\" dy=\"0.7070975664209931\" in=\"SourceGraphic\" result=\"filterResult0\"></feOffset>\n      <feColorMatrix in=\"filterResult0\" result=\"filterResult1\" type=\"matrix\" values=\"0 0 0 0 1.0,0 0 0 0 1.0,0 0 0 0 0.0,0 0 0 1.0 0\"></feColorMatrix>\n      <feGaussianBlur in=\"filterResult1\" result=\"filterResult2\" stdDeviation=\"1.4142135623730951 1.4142135623730951\"></feGaussianBlur>\n      <feColorMatrix in=\"filterResult2\" result=\"filterResult3\" type=\"matrix\" values=\"1 0 0 0 0,0 1 0 0 0,0 0 1 0 0,0 0 0 3.1171875 0\"></feColorMatrix>\n      <feComposite in=\"SourceGraphic\" in2=\"filterResult3\" operator=\"over\" result=\"filterResult4\"></feComposite>\n    </filter>\n    <use filter=\"url(#player-card-canab2-filter0)\" height=\"24.1\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 71.75, 49.9)\" width=\"24.1\" href=\"#player-card-canab2-sprite1\"></use>\n    <use height=\"92.0\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 108.5, 174.0)\" width=\"217.0\" href=\"#player-card-canab2-sprite2\"></use>\n  </g>\n  <defs>\n    <g id=\"player-card-canab2-sprite0\">\n      <use height=\"220.0\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"217.0\" href=\"#player-card-canab2-shape0\"></use>\n    </g>\n    <g id=\"player-card-canab2-shape0\">\n      <path d=\"M108.5 -110.0 L108.5 110.0 -108.5 110.0 -108.5 -110.0 108.5 -110.0\" fill=\"url(#player-card-canab2-gradient0)\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <linearGradient gradientTransform=\"matrix(0.0, 0.1324, -0.1343, 0.0, 0.0, 0.0)\" gradientUnits=\"userSpaceOnUse\" id=\"player-card-canab2-gradient0\" spreadMethod=\"pad\" x1=\"-819.2\" x2=\"819.2\">\n      <stop offset=\"0.0\" stop-color=\"#003399\"></stop>\n      <stop offset=\"1.0\" stop-color=\"#ffffcc\"></stop>\n    </linearGradient>\n    <g id=\"player-card-canab2-sprite1\">\n      <use height=\"24.1\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"24.1\" href=\"#player-card-canab2-shape1\"></use>\n    </g>\n    <g id=\"player-card-canab2-shape1\">\n      <path d=\"M8.5 -8.55 Q12.05 -5.0 12.05 0.0 12.05 5.0 8.5 8.5 5.0 12.05 0.0 12.05 -5.0 12.05 -8.55 8.5 -12.05 5.0 -12.05 0.0 -12.05 -5.0 -8.55 -8.55 -5.0 -12.05 0.0 -12.05 5.0 -12.05 8.5 -8.55\" fill=\"#ffff00\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"player-card-canab2-sprite2\">\n      <use height=\"92.0\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"217.0\" href=\"#player-card-canab2-shape2\"></use>\n    </g>\n    <g id=\"player-card-canab2-shape2\">\n      <path d=\"M108.5 -46.0 L108.5 46.0 -108.5 46.0 -108.5 -46.0 108.5 -46.0\" fill=\"url(#player-card-canab2-gradient1)\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <linearGradient gradientTransform=\"matrix(0.0, 0.0554, -0.1343, 0.0, 0.0, 0.0)\" gradientUnits=\"userSpaceOnUse\" id=\"player-card-canab2-gradient1\" spreadMethod=\"pad\" x1=\"-819.2\" x2=\"819.2\">\n      <stop offset=\"0.0\" stop-color=\"#ffffcc\"></stop>\n      <stop offset=\"1.0\" stop-color=\"#663300\"></stop>\n    </linearGradient>\n  </defs>\n",
+    "tintTargets": [
+      {
+        "id": "player-card-canab2-mcColor",
+        "kind": "multiply",
+        "percent": 100
+      }
+    ],
+    "hasOneHand": false,
+    "rasterImages": [],
+    "unresolvedReferences": []
+  },
+  "rasterSource": false
+}

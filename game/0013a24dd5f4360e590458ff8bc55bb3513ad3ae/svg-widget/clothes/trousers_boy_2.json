@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "sourceName": "trousers_boy_2.swf",
+  "sha256": "88fad8ba8bd79d43fee8288ca4a1688871e58f0398e1f6e4f8c6d63e260e0df3",
+  "parts": {
+    "McBody2": {
+      "width": 19.1,
+      "height": 10.6,
+      "registrationX": -10.05,
+      "registrationY": -10.05,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 10.05, 10.05)\">\n    <use height=\"9.6\" id=\"clothes-trousers_boy_2-McBody2-mcColor\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -9.55, -9.55)\" width=\"18.1\" href=\"#clothes-trousers_boy_2-McBody2-sprite0\"></use>\n    <use height=\"10.6\" id=\"clothes-trousers_boy_2-McBody2-mcBorder\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -9.55, -9.55)\" width=\"19.1\" href=\"#clothes-trousers_boy_2-McBody2-sprite1\"></use>\n    <use height=\"4.2\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"18.85\" href=\"#clothes-trousers_boy_2-McBody2-shape2\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-trousers_boy_2-McBody2-sprite0\">\n      <use height=\"9.6\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"18.1\" href=\"#clothes-trousers_boy_2-McBody2-shape0\"></use>\n    </g>\n    <g id=\"clothes-trousers_boy_2-McBody2-shape0\">\n      <path d=\"M13.85 8.85 L10.5 9.55 8.1 9.55 7.2 9.45 Q4.15 9.1 2.65 8.2 L2.4 8.05 Q0.65 6.8 0.25 4.95 L0.2 4.85 Q-0.05 3.75 0.05 2.35 L0.5 0.0 8.1 1.05 10.05 1.05 17.65 0.3 18.05 2.95 Q18.2 4.0 17.85 5.35 L17.6 6.0 Q17.15 7.25 15.4 8.2 L13.85 8.85\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-trousers_boy_2-McBody2-sprite1\">\n      <use height=\"10.6\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"19.1\" href=\"#clothes-trousers_boy_2-McBody2-shape1\"></use>\n    </g>\n    <g id=\"clothes-trousers_boy_2-McBody2-shape1\">\n      <path d=\"M16.9 5.9 Q14.1 7.2 11.55 7.3 L11.2 5.85 Q13.9 5.65 16.55 4.45 L16.9 5.9 M17.85 5.35 Q18.2 4.0 18.05 2.95 L17.65 0.3 9.95 1.05 10.4 9.55 13.85 8.85 15.4 8.2 Q17.15 7.25 17.6 6.0 L17.85 5.35 M8.1 1.05 L0.5 0.0 0.05 2.35 Q-0.05 3.75 0.2 4.85 L0.25 4.95 Q0.65 6.8 2.4 8.05 L2.65 8.2 Q4.15 9.1 7.2 9.45 L8.0 9.55 8.0 1.05 8.1 1.05 9.95 1.05 M1.4 4.3 Q3.8 5.45 6.7 5.75 L6.3 7.15 Q3.25 6.9 1.0 5.7 L1.4 4.3 M10.4 9.55 L8.0 9.55\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n    </g>\n    <g id=\"clothes-trousers_boy_2-McBody2-shape2\">\n      <path d=\"M8.6 -6.3 Q-0.7 -3.85 -9.75 -6.3 -10.25 -7.45 -9.75 -8.8 -0.6 -6.7 8.6 -8.8 9.1 -7.55 8.6 -6.3\" fill=\"#660000\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-3.95 -6.15 L-3.4 -6.15 -3.2 -5.6 1.35 -5.6 Q1.8 -6.5 1.35 -7.45 L-3.2 -7.45 -3.35 -7.05 -3.95 -7.05 -3.6 -8.0 -5.25 -8.0 Q-5.45 -6.7 -5.25 -5.0 L-3.6 -5.0 -3.95 -6.15 M3.5 -4.6 L-5.4 -4.6 Q-5.85 -6.65 -5.4 -8.2 L-1.05 -8.45 3.5 -8.2 Q3.95 -6.65 3.5 -4.6 M3.5 -7.9 L1.85 -7.9 Q2.6 -6.6 1.85 -4.9 L3.5 -4.9 Q3.15 -6.4 3.5 -7.9\" fill=\"#999999\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-3.95 -6.15 L-3.6 -5.0 -5.25 -5.0 Q-5.45 -6.7 -5.25 -8.0 L-3.6 -8.0 -3.95 -7.05 -3.95 -6.15 M3.5 -7.9 Q3.15 -6.4 3.5 -4.9 L1.85 -4.9 Q2.6 -6.6 1.85 -7.9 L3.5 -7.9\" fill=\"#cccccc\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-1.4 -6.15 L-4.8 -6.15 -4.8 -7.05 -1.4 -7.05 -1.4 -6.15\" fill=\"#999999\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [
+        {
+          "id": "clothes-trousers_boy_2-McBody2-mcColor",
+          "kind": "multiply",
+          "percent": 100
+        },
+        {
+          "id": "clothes-trousers_boy_2-McBody2-mcBorder",
+          "kind": "border",
+          "percent": 50
+        }
+      ],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McLeg2": {
+      "width": 11.3,
+      "height": 8.8,
+      "registrationX": -6.7,
+      "registrationY": -1.25,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 6.7, 1.25)\">\n    <use height=\"7.8\" id=\"clothes-trousers_boy_2-McLeg2-mcColor\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -6.2, -0.75)\" width=\"10.3\" href=\"#clothes-trousers_boy_2-McLeg2-sprite0\"></use>\n    <use height=\"8.8\" id=\"clothes-trousers_boy_2-McLeg2-mcBorder\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -6.2, -0.75)\" width=\"11.3\" href=\"#clothes-trousers_boy_2-McLeg2-sprite1\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-trousers_boy_2-McLeg2-sprite0\">\n      <use height=\"7.8\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"10.3\" href=\"#clothes-trousers_boy_2-McLeg2-shape0\"></use>\n    </g>\n    <g id=\"clothes-trousers_boy_2-McLeg2-shape0\">\n      <path d=\"M1.8 0.0 L10.3 3.05 10.05 6.0 9.85 7.8 5.8 7.6 Q2.75 7.6 0.5 6.4 L0.0 5.95 0.3 4.5 Q0.65 2.95 1.8 0.0\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-trousers_boy_2-McLeg2-sprite1\">\n      <use height=\"8.8\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"11.3\" href=\"#clothes-trousers_boy_2-McLeg2-shape1\"></use>\n    </g>\n    <g id=\"clothes-trousers_boy_2-McLeg2-shape1\">\n      <path d=\"M1.8 0.0 Q0.65 2.95 0.3 4.5 L0.0 5.95 0.5 6.4 Q2.75 7.6 5.8 7.6 L9.85 7.8 10.05 6.0 10.3 3.05 1.8 0.0 Z\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [
+        {
+          "id": "clothes-trousers_boy_2-McLeg2-mcColor",
+          "kind": "multiply",
+          "percent": 100
+        },
+        {
+          "id": "clothes-trousers_boy_2-McLeg2-mcBorder",
+          "kind": "border",
+          "percent": 50
+        }
+      ],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    }
+  },
+  "rasterSource": false
+}

@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "sourceName": "glasses_black.swf",
+  "sha256": "02d2f6fac75f572fa727cbb455968f2f4f257b4ecf0ea6903d7e6d9b3dcc1d08",
+  "parts": {
+    "McHead2": {
+      "width": 12.55,
+      "height": 6,
+      "registrationX": -6.35,
+      "registrationY": -10.95,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 6.35, 10.95)\">\n    <use height=\"6.0\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"12.55\" href=\"#clothes-glasses_black-McHead2-shape0\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-glasses_black-McHead2-shape0\">\n      <path d=\"M0.6 -9.45 L1.05 -10.1 Q2.0 -10.95 3.2 -10.95 4.45 -10.95 5.35 -10.1 6.2 -9.15 6.2 -7.95 6.2 -6.7 5.35 -5.8 4.45 -4.95 3.2 -4.95 2.0 -4.95 1.05 -5.8 0.2 -6.7 0.2 -7.95 0.2 -8.75 0.55 -9.35 L0.6 -9.45 M-0.75 -9.45 L-0.7 -9.35 Q-0.35 -8.75 -0.35 -7.95 -0.35 -6.7 -1.25 -5.8 -2.15 -4.95 -3.35 -4.95 -4.6 -4.95 -5.5 -5.8 -6.35 -6.7 -6.35 -7.95 -6.35 -9.15 -5.5 -10.1 -4.6 -10.95 -3.35 -10.95 -2.15 -10.95 -1.25 -10.1 L-0.75 -9.45\" fill=\"#000000\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M0.6 -9.45 Q-0.1 -9.65 -0.75 -9.45\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    }
+  },
+  "rasterSource": false
+}

@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "sourceName": "one_hand_bag.swf",
+  "sha256": "d4ff00880d9ee0e70c76987c66a0ee7f87bd4ba3ee78fb06a139c45caee23cfa",
+  "parts": {
+    "McArmBottom": {
+      "width": 20.85,
+      "height": 20.6,
+      "registrationX": -3.8,
+      "registrationY": -1.15,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 3.8, 1.15)\">\n    <clipPath id=\"clothes-one_hand_bag-McArmBottom-clipPath0\">\n      <path d=\"M 10.25 -0.65 L 4.95 2.45 L 4.95 2.45 L 4.95 2.45 L 0.7 3.95 L -3.05 5.25 L -3.3 15.6 L 8.8 18.95 L 16.55 11.1 L 10.25 -0.65 Z\"></path>\n    </clipPath>\n    <g clip-path=\"url(#clothes-one_hand_bag-McArmBottom-clipPath0)\">\n      <use height=\"10.5\" id=\"clothes-one_hand_bag-McArmBottom-oneHand\" transform=\"matrix(1.1988, -0.1961, 0.1961, 1.1988, -35.0, 11.1)\" width=\"11.65\" href=\"#clothes-one_hand_bag-McArmBottom-sprite0\"></use>\n    </g>\n  </g>\n  <defs>\n    <g id=\"clothes-one_hand_bag-McArmBottom-sprite0\">\n      <use height=\"10.5\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"11.65\" href=\"#clothes-one_hand_bag-McArmBottom-shape0\"></use>\n    </g>\n    <g id=\"clothes-one_hand_bag-McArmBottom-shape0\">\n      <path d=\"M28.4 2.95 Q27.75 4.4 27.5 5.9 27.05 8.9 29.1 9.0 32.45 9.15 34.9 8.15 38.05 6.85 37.0 4.6\" fill=\"none\" stroke=\"#ffcc00\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n      <path d=\"M38.05 5.0 Q33.65 6.5 29.15 7.4 L28.35 4.55 28.05 4.55 27.4 2.05 Q32.1 1.2 36.9 -0.5 L37.55 2.0 37.25 2.15 38.05 5.0 M37.25 2.15 Q33.1 4.15 28.35 4.55 33.1 4.15 37.25 2.15\" fill=\"#000000\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M38.05 5.0 Q33.65 6.5 29.15 7.4 L28.35 4.55 28.05 4.55 27.4 2.05 Q32.1 1.2 36.9 -0.5 L37.55 2.0 37.25 2.15 38.05 5.0 M28.35 4.55 Q33.1 4.15 37.25 2.15\" fill=\"none\" stroke=\"#666666\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n      <path d=\"M32.35 3.55 Q32.45 3.2 32.7 3.0 L33.35 2.85 33.9 3.25 Q34.15 3.55 34.05 3.9 L33.7 4.45 33.05 4.55 32.5 4.2 Q32.3 3.95 32.35 3.55\" fill=\"#ffe888\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M32.35 3.55 Q32.3 3.95 32.5 4.2 L33.05 4.55 33.7 4.45 34.05 3.9 Q34.15 3.55 33.9 3.25 L33.35 2.85 32.7 3.0 Q32.45 3.2 32.35 3.55 Z\" fill=\"none\" stroke=\"#ffcc00\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\" vector-effect=\"non-scaling-stroke\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [],
+      "hasOneHand": true,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    }
+  },
+  "rasterSource": false
+}

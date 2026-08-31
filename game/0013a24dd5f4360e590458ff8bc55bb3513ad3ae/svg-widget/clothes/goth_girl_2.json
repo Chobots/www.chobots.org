@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "sourceName": "goth_girl_2.swf",
+  "sha256": "c6fcf16ebce60e52a6d89917d6ff586e099fd57554025b1c051c65ffa34aeaf6",
+  "parts": {
+    "McArmBottom": {
+      "width": 5.7,
+      "height": 8.25,
+      "registrationX": -0.4,
+      "registrationY": -1.5,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.4, 1.5)\">\n    <use height=\"8.25\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"5.7\" href=\"#clothes-goth_girl_2-McArmBottom-shape0\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-goth_girl_2-McArmBottom-shape0\">\n      <path d=\"M5.25 3.7 Q5.45 4.45 5.05 6.75 L2.8 6.6 0.55 6.3 Q0.35 3.15 -0.4 -0.1 L3.5 -1.5 Q4.35 0.15 5.25 3.7\" fill=\"#000000\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McArmTop": {
+      "width": 10.05,
+      "height": 7.85,
+      "registrationX": -0.85,
+      "registrationY": -1.4,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.85, 1.4)\">\n    <use height=\"7.85\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"10.05\" href=\"#clothes-goth_girl_2-McArmTop-shape0\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-goth_girl_2-McArmTop-shape0\">\n      <path d=\"M8.6 5.4 Q8.2 5.45 9.2 6.35 1.7 7.0 -0.65 2.05 2.55 5.95 8.6 5.4\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-0.65 2.05 L-0.85 1.65 1.25 -1.4 Q7.85 0.95 8.6 5.4 2.55 5.95 -0.65 2.05\" fill=\"#000000\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McBody2": {
+      "width": 16.25,
+      "height": 15.05,
+      "registrationX": -8.35,
+      "registrationY": -23.5,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 8.35, 23.5)\">\n    <use height=\"15.05\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"16.25\" href=\"#clothes-goth_girl_2-McBody2-shape0\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-goth_girl_2-McBody2-shape0\">\n      <path d=\"M4.55 -19.1 Q7.45 -11.55 7.9 -9.15 -0.15 -7.7 -8.35 -9.25 -7.85 -12.15 -6.2 -16.1 L-3.25 -22.7 Q-0.1 -20.35 3.2 -22.45 L4.55 -19.1\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M0.55 -21.05 Q1.6 -17.9 5.4 -16.35 L5.35 -16.25 Q0.15 -16.8 -0.1 -21.0 -1.0 -16.45 -6.25 -16.3 L-6.3 -16.5 Q-1.7 -18.05 -1.15 -21.25 L0.55 -21.05\" fill=\"#000000\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M5.4 -16.35 Q1.6 -17.9 0.55 -21.05 2.15 -21.35 3.75 -23.2 6.8 -19.65 5.4 -16.35 M-1.15 -21.25 Q-1.7 -18.05 -6.3 -16.5 -7.3 -20.1 -4.05 -23.5 -2.6 -21.75 -1.15 -21.25\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M0.7 -15.4 Q0.3 -14.8 -0.3 -14.8 -0.9 -14.8 -1.35 -15.4 -1.75 -15.95 -1.75 -16.7 -1.75 -17.5 -1.35 -18.05 L-0.3 -18.6 Q0.3 -18.6 0.7 -18.05 1.1 -17.5 1.1 -16.7 1.1 -15.95 0.7 -15.4\" fill=\"#000000\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    }
+  },
+  "rasterSource": false
+}

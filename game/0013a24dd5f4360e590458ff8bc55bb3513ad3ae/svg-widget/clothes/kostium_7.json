@@ -1,0 +1,106 @@
+{
+  "version": 1,
+  "sourceName": "kostium_7.swf",
+  "sha256": "64d8a48a888abc03e550e53463dc3839e562f95826634b717b63c85178226908",
+  "parts": {
+    "McArmBottom": {
+      "width": 9.5,
+      "height": 9.6,
+      "registrationX": -1.2,
+      "registrationY": -4.45,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 1.2, 4.45)\">\n    <use height=\"8.6\" id=\"clothes-kostium_7-McArmBottom-mcColor\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 3.55, 0.35)\" width=\"8.5\" href=\"#clothes-kostium_7-McArmBottom-sprite0\"></use>\n    <use height=\"9.6\" id=\"clothes-kostium_7-McArmBottom-mcBorder\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -0.7, -3.95)\" width=\"9.5\" href=\"#clothes-kostium_7-McArmBottom-sprite1\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-kostium_7-McArmBottom-sprite0\">\n      <use height=\"8.6\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"8.5\" href=\"#clothes-kostium_7-McArmBottom-shape0\"></use>\n    </g>\n    <g id=\"clothes-kostium_7-McArmBottom-shape0\">\n      <path d=\"M-2.1 4.25 L-4.25 -2.4 -0.2 -4.3 4.25 2.4 Q3.1 2.9 -0.3 3.8 L-2.05 4.3 -2.1 4.25\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-kostium_7-McArmBottom-sprite1\">\n      <use height=\"9.6\" id=\"clothes-kostium_7-McArmBottom-mcBorder-2\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"9.5\" href=\"#clothes-kostium_7-McArmBottom-sprite2\"></use>\n    </g>\n    <g id=\"clothes-kostium_7-McArmBottom-sprite2\">\n      <use height=\"9.6\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"9.5\" href=\"#clothes-kostium_7-McArmBottom-shape1\"></use>\n    </g>\n    <g id=\"clothes-kostium_7-McArmBottom-shape1\">\n      <path d=\"M4.05 0.0 L8.5 6.7 3.95 8.1 2.2 8.6 2.15 8.55 0.0 1.9\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [
+        {
+          "id": "clothes-kostium_7-McArmBottom-mcColor",
+          "kind": "multiply",
+          "percent": 100
+        },
+        {
+          "id": "clothes-kostium_7-McArmBottom-mcBorder",
+          "kind": "border",
+          "percent": 50
+        },
+        {
+          "id": "clothes-kostium_7-McArmBottom-mcBorder-2",
+          "kind": "border",
+          "percent": 50
+        }
+      ],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McArmTop": {
+      "width": 7.35,
+      "height": 9.8,
+      "registrationX": 0.9,
+      "registrationY": -0.15,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, -0.9, 0.15)\">\n    <use height=\"8.5\" id=\"clothes-kostium_7-McArmTop-mcColor\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 4.55, 4.9)\" width=\"6.35\" href=\"#clothes-kostium_7-McArmTop-sprite0\"></use>\n    <use height=\"9.8\" id=\"clothes-kostium_7-McArmTop-mcBorder\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 1.4, 0.65)\" width=\"7.35\" href=\"#clothes-kostium_7-McArmTop-sprite1\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-kostium_7-McArmTop-sprite0\">\n      <use height=\"8.5\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"6.35\" href=\"#clothes-kostium_7-McArmTop-shape0\"></use>\n    </g>\n    <g id=\"clothes-kostium_7-McArmTop-shape0\">\n      <path d=\"M-1.0 3.45 Q-3.0 -2.3 -3.15 -3.65 L-1.75 -4.25 Q-0.75 -3.4 2.95 1.35 3.75 2.75 1.9 3.8 0.05 4.85 -1.0 3.45\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-kostium_7-McArmTop-sprite1\">\n      <use height=\"9.8\" id=\"clothes-kostium_7-McArmTop-mcBorder-2\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"7.35\" href=\"#clothes-kostium_7-McArmTop-sprite2\"></use>\n    </g>\n    <g id=\"clothes-kostium_7-McArmTop-sprite2\">\n      <use height=\"9.8\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"7.35\" href=\"#clothes-kostium_7-McArmTop-shape1\"></use>\n    </g>\n    <g id=\"clothes-kostium_7-McArmTop-shape1\">\n      <path d=\"M6.1 5.6 Q6.9 7.0 5.05 8.05 3.2 9.1 2.15 7.7 0.15 1.95 0.0 0.6 0.1 -0.85 1.4 0.0 2.4 0.85 6.1 5.6 Z\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [
+        {
+          "id": "clothes-kostium_7-McArmTop-mcColor",
+          "kind": "multiply",
+          "percent": 100
+        },
+        {
+          "id": "clothes-kostium_7-McArmTop-mcBorder",
+          "kind": "border",
+          "percent": 50
+        },
+        {
+          "id": "clothes-kostium_7-McArmTop-mcBorder-2",
+          "kind": "border",
+          "percent": 50
+        }
+      ],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McBody2": {
+      "width": 24.35,
+      "height": 26.05,
+      "registrationX": -12.4,
+      "registrationY": -23.35,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 12.4, 23.35)\">\n    <use height=\"25.05\" id=\"clothes-kostium_7-McBody2-mcColor\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -0.2, -10.3)\" width=\"23.35\" href=\"#clothes-kostium_7-McBody2-sprite0\"></use>\n    <use height=\"13.3\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"16.65\" href=\"#clothes-kostium_7-McBody2-shape1\"></use>\n    <use height=\"26.05\" id=\"clothes-kostium_7-McBody2-mcBorder\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -11.9, -22.85)\" width=\"24.35\" href=\"#clothes-kostium_7-McBody2-sprite1\"></use>\n    <use height=\"8.8\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"21.05\" href=\"#clothes-kostium_7-McBody2-shape3\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-kostium_7-McBody2-sprite0\">\n      <use height=\"25.05\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"23.35\" href=\"#clothes-kostium_7-McBody2-shape0\"></use>\n    </g>\n    <g id=\"clothes-kostium_7-McBody2-shape0\">\n      <path d=\"M2.3 -11.5 L4.5 -12.55 5.6 -5.9 5.85 -4.55 5.85 -4.45 6.55 -1.6 8.55 5.15 Q9.75 8.35 11.15 10.55 L11.65 11.9 11.2 12.05 10.6 12.05 6.8 11.4 3.45 11.7 0.95 12.05 -1.9 12.5 -9.1 11.9 -11.1 12.35 Q-11.8 12.35 -11.7 11.85 L-10.45 9.2 -9.25 5.4 -7.75 -1.85 -6.75 -4.65 -5.9 -6.8 Q-5.4 -8.25 -5.0 -10.05 L-4.7 -12.4 -2.5 -11.45 2.3 -11.5\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-kostium_7-McBody2-shape1\">\n      <path d=\"M4.2 -4.3 L3.95 -6.75 Q-0.55 -6.35 -4.3 -6.85 -4.65 -6.85 -4.9 -7.2 L-5.15 -7.8 -4.95 -8.35 -4.35 -8.5 -3.65 -8.4 -3.0 -8.35 -2.85 -8.35 Q0.1 -8.1 3.75 -8.45 L3.65 -10.9 3.65 -11.3 3.7 -12.55 3.7 -13.2 Q-0.35 -12.2 -3.55 -12.2 L-5.3 -12.25 -5.1 -11.2 -6.65 -11.35 -6.9 -12.25 -6.65 -13.4 Q-6.25 -13.9 -5.5 -13.85 -1.5 -13.5 3.65 -14.7 4.35 -14.85 4.85 -14.45 5.3 -14.05 5.25 -13.3 L5.2 -11.45 5.2 -11.05 5.25 -8.55 6.75 -8.8 7.3 -8.75 7.45 -8.7 7.65 -8.1 7.6 -7.75 7.45 -7.5 Q7.2 -7.2 6.8 -7.2 L5.45 -6.95 5.95 -4.3 6.05 -3.9 6.1 -3.65 Q6.3 -2.9 5.85 -2.45 5.45 -1.95 4.7 -2.05 L-4.75 -1.5 Q-5.45 -1.3 -5.9 -1.75 -6.4 -2.25 -6.25 -2.95 L-6.25 -3.85 -4.7 -3.9 -4.75 -3.1 1.4 -3.65 4.55 -3.55 4.5 -3.95 4.5 -4.0 4.2 -4.3\" fill=\"#ffcc00\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M4.5 -4.0 L4.1 -4.0 2.85 -4.1 1.65 -4.1 1.3 -4.1 -0.05 -4.1 -3.8 -3.6 -3.8 -3.65 -3.75 -4.3 -4.15 -4.3 Q-1.05 -4.55 4.2 -4.3 L4.5 -4.0 M7.0 -11.35 L7.0 -11.45 7.05 -11.35 7.0 -11.35 M9.75 -12.2 L9.3 -12.1 9.05 -12.0 9.25 -12.1 9.75 -12.2\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-3.75 -4.3 L-4.15 -4.3\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n      <path d=\"M6.55 -11.25 L6.35 -11.9\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n    <g id=\"clothes-kostium_7-McBody2-sprite1\">\n      <use height=\"26.05\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"24.35\" href=\"#clothes-kostium_7-McBody2-shape2\"></use>\n    </g>\n    <g id=\"clothes-kostium_7-McBody2-shape2\">\n      <path d=\"M20.65 18.65 Q21.65 21.25 22.85 23.1 L23.35 24.45 22.9 24.6 22.3 24.6 18.5 23.95 15.15 24.25 12.65 24.6 9.8 25.05 2.6 24.45 0.6 24.9 Q-0.1 24.9 0.0 24.4 L1.25 21.75 2.2 18.95 M18.25 10.95 L17.55 8.1 17.55 8.0 17.3 6.65 16.2 0.0 Q15.55 0.2 14.0 1.05 L14.6 7.95 Q11.8 7.0 8.1 7.9 9.2 2.8 9.2 1.1 L7.0 0.15 6.7 2.5 5.8 5.75 4.95 7.9 3.95 10.7\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n      <path d=\"M3.95 10.7 L3.75 11.8 M9.2 1.1 L14.0 1.05\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n    <g id=\"clothes-kostium_7-McBody2-shape3\">\n      <path d=\"M7.05 -11.35 L7.9 -11.65 Q8.5 -11.75 8.5 -11.25 L8.65 -8.75 Q8.8 -6.65 9.05 -5.6 L9.25 -4.25 9.2 -4.2 9.15 -4.2 8.75 -4.2 8.65 -4.2 5.95 -4.3 5.45 -6.95 6.8 -7.2 Q7.2 -7.2 7.45 -7.5 L7.6 -7.75 7.65 -8.1 7.45 -8.7 7.3 -8.75 6.75 -8.8 5.25 -8.55 5.2 -11.05 6.1 -11.2 6.55 -11.25 7.0 -11.35 7.05 -11.35 M3.65 -10.9 L3.75 -8.45 Q0.1 -8.1 -2.85 -8.35 L-3.0 -8.35 -3.45 -8.4 -3.65 -8.4 -4.35 -8.5 -4.95 -8.35 -5.15 -7.8 -4.9 -7.2 Q-4.65 -6.85 -4.3 -6.85 -0.55 -6.35 3.95 -6.75 L4.2 -4.3 Q-1.05 -4.55 -4.15 -4.3 L-5.15 -4.3 -5.15 -4.25 -6.2 -4.1 -6.45 -4.1 -8.85 -3.85 -9.7 -3.9 -10.0 -4.0 -10.4 -4.1 Q-10.9 -4.2 -10.8 -4.65 L-10.5 -5.65 Q-10.3 -6.15 -10.2 -7.65 L-10.0 -9.55 Q-10.25 -10.5 -10.1 -10.85 -9.95 -11.45 -8.6 -11.15 L-8.55 -11.15 -8.4 -11.1 -6.0 -10.85 -5.55 -10.8 -4.1 -10.75 Q-0.15 -10.55 3.65 -10.9 M-6.2 -4.1 Q-8.7 -5.45 -8.7 -7.25 -8.75 -9.8 -6.0 -10.85 -8.75 -9.8 -8.7 -7.25 -8.7 -5.45 -6.2 -4.1 M-6.95 -6.95 L-6.45 -6.75 -5.9 -6.95 -5.7 -7.45 -5.9 -8.0 -6.45 -8.2 -6.95 -8.0 -7.15 -7.45 -6.95 -6.95\" fill=\"#996600\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M-6.95 -6.95 L-7.15 -7.45 -6.95 -8.0 -6.45 -8.2 -5.9 -8.0 -5.7 -7.45 -5.9 -6.95 -6.45 -6.75 -6.95 -6.95\" fill=\"#543201\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M7.05 -11.35 L7.9 -11.65 Q8.5 -11.75 8.5 -11.25 L8.65 -8.75 Q8.8 -6.65 9.05 -5.6 L9.25 -4.25 9.2 -4.2 M9.15 -4.2 L8.75 -4.2 8.65 -4.2 5.95 -4.3 M5.2 -11.05 L6.1 -11.2 6.55 -11.25 7.0 -11.35 M3.65 -10.9 Q-0.15 -10.55 -4.1 -10.75 L-5.55 -10.8 -6.0 -10.85 Q-8.75 -9.8 -8.7 -7.25 -8.7 -5.45 -6.2 -4.1 L-5.15 -4.25 -5.15 -4.3 -4.15 -4.3 Q-1.05 -4.55 4.2 -4.3 M-6.2 -4.1 L-6.45 -4.1 -8.85 -3.85 -9.7 -3.9 -10.0 -4.0 -10.4 -4.1 Q-10.9 -4.2 -10.8 -4.65 L-10.5 -5.65 Q-10.3 -6.15 -10.2 -7.65 L-10.0 -9.55 Q-10.25 -10.5 -10.1 -10.85 -9.95 -11.45 -8.6 -11.15 M-8.55 -11.15 L-8.4 -11.1 -6.0 -10.85\" fill=\"none\" stroke=\"#543201\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [
+        {
+          "id": "clothes-kostium_7-McBody2-mcColor",
+          "kind": "multiply",
+          "percent": 100
+        },
+        {
+          "id": "clothes-kostium_7-McBody2-mcBorder",
+          "kind": "border",
+          "percent": 50
+        }
+      ],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McUpper2": {
+      "width": 19.15,
+      "height": 7.85,
+      "registrationX": -9.8,
+      "registrationY": -2.1,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 9.8, 2.1)\">\n    <use height=\"6.85\" id=\"clothes-kostium_7-McUpper2-mcColor\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -0.2, 1.8)\" width=\"18.15\" href=\"#clothes-kostium_7-McUpper2-sprite0\"></use>\n    <use height=\"7.85\" id=\"clothes-kostium_7-McUpper2-mcBorder\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -9.3, -1.6)\" width=\"19.15\" href=\"#clothes-kostium_7-McUpper2-sprite1\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-kostium_7-McUpper2-sprite0\">\n      <use height=\"6.85\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"18.15\" href=\"#clothes-kostium_7-McUpper2-shape0\"></use>\n    </g>\n    <g id=\"clothes-kostium_7-McUpper2-shape0\">\n      <path d=\"M-5.6 -3.2 L-4.5 -3.25 -2.05 -1.55 Q-0.55 -0.6 -0.4 0.0 L-0.2 0.7 -0.15 0.6 0.0 -0.05 1.0 -0.95 2.45 -1.75 Q3.8 -2.6 4.4 -3.2 5.35 -3.95 9.0 -0.75 L9.05 -0.7 8.25 -0.6 6.4 -0.15 2.15 0.95 Q0.55 1.55 0.0 2.05 L0.1 3.45 Q-0.75 2.5 -3.0 1.65 L-6.1 0.4 -6.75 0.1 -8.25 -0.4 -8.3 -0.45 -9.1 -0.75 -9.1 -0.8 -5.85 -3.1 -5.6 -3.2\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-kostium_7-McUpper2-sprite1\">\n      <use height=\"7.85\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"19.15\" href=\"#clothes-kostium_7-McUpper2-shape1\"></use>\n    </g>\n    <g id=\"clothes-kostium_7-McUpper2-shape1\">\n      <path d=\"M13.5 0.2 Q14.45 -0.55 18.1 2.65 L18.15 2.7 17.35 2.8 15.5 3.25 11.25 4.35 Q9.65 4.95 9.1 5.45 L9.2 6.85 Q8.35 5.9 6.1 5.05 L3.0 3.8 2.35 3.5 0.85 3.0 0.8 2.95 0.0 2.65 0.0 2.6 Q2.2 0.75 3.25 0.3 L3.5 0.2 4.6 0.15 7.05 1.85 Q8.55 2.8 8.7 3.4 L8.8 3.4 9.1 3.35 10.1 2.45 11.55 1.65 13.5 0.2 M8.7 3.4 L8.9 4.1 8.95 4.0 9.1 3.35 M9.1 5.45 L8.7 5.85 8.9 4.1\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [
+        {
+          "id": "clothes-kostium_7-McUpper2-mcColor",
+          "kind": "multiply",
+          "percent": 100
+        },
+        {
+          "id": "clothes-kostium_7-McUpper2-mcBorder",
+          "kind": "border",
+          "percent": 50
+        }
+      ],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    }
+  },
+  "rasterSource": false
+}

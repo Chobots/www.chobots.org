@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "sourceName": "frak.swf",
+  "sha256": "5d4d49ab59986ea58a6be301dc1993c6bbbd0d85eaff37f3661aade4a7831c83",
+  "parts": {
+    "McArmBottom": {
+      "width": 6.8,
+      "height": 8.95,
+      "registrationX": -0.6,
+      "registrationY": -2.15,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.6, 2.15)\">\n    <use height=\"5.25\" id=\"clothes-frak-McArmBottom-mcColor\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -0.1, -1.65)\" width=\"5.6\" href=\"#clothes-frak-McArmBottom-sprite0\"></use>\n    <use height=\"4.4\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"6.75\" href=\"#clothes-frak-McArmBottom-shape1\"></use>\n    <use height=\"6.25\" id=\"clothes-frak-McArmBottom-mcBorder\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -0.1, -1.65)\" width=\"6.6\" href=\"#clothes-frak-McArmBottom-sprite1\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-frak-McArmBottom-sprite0\">\n      <use height=\"5.25\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"5.6\" href=\"#clothes-frak-McArmBottom-shape0\"></use>\n    </g>\n    <g id=\"clothes-frak-McArmBottom-shape0\">\n      <path d=\"M5.6 4.3 Q5.2 5.35 2.35 5.25 0.8 5.1 0.35 4.5 L0.15 4.1 0.0 1.35 3.5 0.0 Q4.65 1.7 5.35 3.6 L5.55 3.8 5.6 4.05 5.6 4.3\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-frak-McArmBottom-shape1\">\n      <path d=\"M5.45 3.05 L5.7 5.1 Q5.7 6.4 2.5 6.3 0.5 6.15 0.0 5.1 L-0.05 5.05 0.0 4.95 0.1 2.9 Q1.45 3.65 2.8 3.7 L3.4 3.7 5.45 3.05\" fill=\"#fb25fb\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M5.45 3.05 L5.7 5.1 Q5.7 6.4 2.5 6.3 0.5 6.15 0.0 5.1 L-0.05 5.05 0.0 4.95 0.1 2.9\" fill=\"none\" stroke=\"#b7026a\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n    <g id=\"clothes-frak-McArmBottom-sprite1\">\n      <use height=\"6.25\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"6.6\" href=\"#clothes-frak-McArmBottom-shape2\"></use>\n    </g>\n    <g id=\"clothes-frak-McArmBottom-shape2\">\n      <path d=\"M0.0 1.35 L0.15 4.1 0.35 4.5 Q0.8 5.1 2.35 5.25 5.2 5.35 5.6 4.3 L5.6 4.05 5.55 3.8 5.35 3.6 Q4.65 1.7 3.5 0.0 M5.55 3.8 L5.6 4.0 5.6 4.05\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [
+        {
+          "id": "clothes-frak-McArmBottom-mcColor",
+          "kind": "multiply",
+          "percent": 100
+        },
+        {
+          "id": "clothes-frak-McArmBottom-mcBorder",
+          "kind": "border",
+          "percent": 50
+        }
+      ],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McArmTop": {
+      "width": 9.3,
+      "height": 13.4,
+      "registrationX": -0.35,
+      "registrationY": -0.85,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.35, 0.85)\">\n    <use height=\"12.0\" id=\"clothes-frak-McArmTop-mcColor\" transform=\"matrix(0.9968, 0.076, -0.076, 0.9968, 0.55, -0.35)\" width=\"8.45\" href=\"#clothes-frak-McArmTop-sprite0\"></use>\n    <use height=\"13.4\" id=\"clothes-frak-McArmTop-mcBorder\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.55, -0.35)\" width=\"8.6\" href=\"#clothes-frak-McArmTop-sprite1\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-frak-McArmTop-sprite0\">\n      <use height=\"12.0\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"8.45\" href=\"#clothes-frak-McArmTop-shape0\"></use>\n    </g>\n    <g id=\"clothes-frak-McArmTop-shape0\">\n      <path d=\"M8.2 9.3 L8.45 9.95 Q8.45 10.7 7.9 11.35 7.3 11.95 6.5 12.0 5.3 12.0 4.7 10.8 2.75 5.3 0.7 2.45 L0.6 2.35 0.0 0.0 Q1.15 0.7 2.7 1.95 6.1 4.95 8.2 9.3\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-frak-McArmTop-sprite1\">\n      <use height=\"13.4\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"8.6\" href=\"#clothes-frak-McArmTop-shape1\"></use>\n    </g>\n    <g id=\"clothes-frak-McArmTop-shape1\">\n      <path d=\"M0.0 0.0 L2.55 2.15 Q5.7 5.4 7.4 9.85 L7.6 10.5 Q7.55 11.25 7.0 11.9 6.35 12.45 5.55 12.4 4.35 12.35 3.85 11.1 2.3 5.5 0.5 2.5\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [
+        {
+          "id": "clothes-frak-McArmTop-mcColor",
+          "kind": "multiply",
+          "percent": 100
+        },
+        {
+          "id": "clothes-frak-McArmTop-mcBorder",
+          "kind": "border",
+          "percent": 50
+        }
+      ],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McBody2": {
+      "width": 20.6,
+      "height": 20.85,
+      "registrationX": -10.4,
+      "registrationY": -24.5,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 10.4, 24.5)\">\n    <use height=\"19.85\" id=\"clothes-frak-McBody2-mcColor\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -9.9, -24.0)\" width=\"19.6\" href=\"#clothes-frak-McBody2-sprite0\"></use>\n    <use height=\"20.85\" id=\"clothes-frak-McBody2-mcBorder\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -9.9, -24.0)\" width=\"20.6\" href=\"#clothes-frak-McBody2-sprite1\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-frak-McBody2-sprite0\">\n      <use height=\"19.85\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"19.6\" href=\"#clothes-frak-McBody2-shape0\"></use>\n    </g>\n    <g id=\"clothes-frak-McBody2-shape0\">\n      <path d=\"M6.65 1.95 Q8.9 3.5 8.9 4.3 L8.35 5.0 Q7.8 5.65 7.8 6.1 L7.75 6.1 Q7.45 6.8 8.15 8.7 8.85 10.6 6.75 11.05 4.65 11.45 3.45 12.7 L2.0 14.3 1.5 14.9 Q1.35 15.75 1.65 17.1 1.9 18.4 1.45 19.6 -0.1 19.8 0.0 18.4 0.1 17.0 0.85 16.25 L3.0 7.55 Q3.8 4.85 2.7 3.85 2.1 3.25 2.2 2.65 L2.6 2.75 3.05 1.55 Q3.55 0.5 3.85 0.5 4.55 0.5 6.65 1.95 M17.35 2.75 Q17.6 3.4 16.9 4.1 15.8 5.1 16.6 7.85 L18.75 16.5 Q19.5 17.25 19.6 18.65 19.7 20.05 18.15 19.85 17.7 18.65 17.95 17.35 L18.1 15.15 17.6 14.55 16.15 12.95 Q14.95 11.7 12.85 11.3 10.75 10.85 11.45 8.95 12.05 7.3 11.95 6.55 L11.9 6.45 11.9 6.4 11.85 6.35 11.8 6.25 11.45 5.35 Q11.1 4.3 11.1 3.7 11.1 2.95 16.65 0.0 L17.05 1.2 Q17.4 2.2 17.35 2.75\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-frak-McBody2-sprite1\">\n      <use height=\"20.85\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"20.6\" href=\"#clothes-frak-McBody2-shape1\"></use>\n    </g>\n    <g id=\"clothes-frak-McBody2-shape1\">\n      <path d=\"M11.8 6.25 L11.85 6.35 11.75 6.35 11.7 6.3 11.7 6.2 11.7 6.15 11.8 6.25\" fill=\"url(#clothes-frak-McBody2-gradient0)\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M7.8 6.1 L7.85 6.1 7.8 6.1\" fill=\"url(#clothes-frak-McBody2-gradient1)\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M11.85 6.35 L11.9 6.4 11.9 6.45 11.95 6.55 Q12.05 7.3 11.45 8.95 10.75 10.85 12.85 11.3 14.95 11.7 16.15 12.95 L17.6 14.55 18.1 15.15 18.75 16.5 16.6 7.85 Q15.8 5.1 16.9 4.1 17.6 3.4 17.35 2.75 17.4 2.2 17.05 1.2 L16.65 0.0 Q11.1 2.95 11.1 3.7 11.1 4.3 11.45 5.35 L11.8 6.25 11.85 6.35 11.85 6.45 11.75 6.35 11.7 6.3 M18.75 16.5 Q19.5 17.25 19.6 18.65 19.7 20.05 18.15 19.85 M7.8 6.1 Q7.8 5.65 8.35 5.0 L8.9 4.3 Q8.9 3.5 6.65 1.95 4.55 0.5 3.85 0.5 3.55 0.5 3.05 1.55 L2.6 2.75 M2.2 2.65 Q2.1 3.25 2.7 3.85 3.8 4.85 3.0 7.55 L0.85 16.25 1.5 14.9 2.0 14.3 3.45 12.7 Q4.65 11.45 6.75 11.05 8.85 10.6 8.15 8.7 7.45 6.8 7.8 6.1 M1.45 19.6 Q-0.1 19.8 0.0 18.4 0.1 17.0 0.85 16.25\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n    <radialGradient cx=\"0\" cy=\"0\" gradientTransform=\"matrix(-0.0183, 0.0, 0.0, 0.0183, 12.65, 3.05)\" gradientUnits=\"userSpaceOnUse\" id=\"clothes-frak-McBody2-gradient0\" r=\"819.2\" spreadMethod=\"pad\">\n      <stop offset=\"0.0\" stop-color=\"#95f435\"></stop>\n      <stop offset=\"1.0\" stop-color=\"#a4d136\"></stop>\n    </radialGradient>\n    <radialGradient cx=\"0\" cy=\"0\" gradientTransform=\"matrix(0.0183, 0.0, 0.0, 0.0183, 6.95, 2.8)\" gradientUnits=\"userSpaceOnUse\" id=\"clothes-frak-McBody2-gradient1\" r=\"819.2\" spreadMethod=\"pad\">\n      <stop offset=\"0.0\" stop-color=\"#95f435\"></stop>\n      <stop offset=\"1.0\" stop-color=\"#a4d136\"></stop>\n    </radialGradient>\n  </defs>\n",
+      "tintTargets": [
+        {
+          "id": "clothes-frak-McBody2-mcColor",
+          "kind": "multiply",
+          "percent": 100
+        },
+        {
+          "id": "clothes-frak-McBody2-mcBorder",
+          "kind": "border",
+          "percent": 50
+        }
+      ],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    },
+    "McUpper2": {
+      "width": 20.65,
+      "height": 11.3,
+      "registrationX": -10.4,
+      "registrationY": -7,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 10.4, 7.0)\">\n    <use height=\"11.35\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -0.05, 20.9)\" width=\"20.75\" href=\"#clothes-frak-McUpper2-sprite0\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-frak-McUpper2-sprite0\">\n      <use height=\"11.35\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"20.75\" href=\"#clothes-frak-McUpper2-shape0\"></use>\n    </g>\n    <g id=\"clothes-frak-McUpper2-shape0\">\n      <path d=\"M1.65 -17.35 L0.9 -18.35 Q0.45 -19.25 0.45 -20.2 0.45 -21.15 1.15 -22.2 1.75 -23.35 1.75 -24.35 1.75 -26.0 1.05 -26.1 1.7 -27.45 4.5 -27.45 7.85 -27.45 9.85 -25.15 L9.8 -25.15 7.9 -24.25 6.45 -23.1 Q8.3 -21.9 8.85 -20.9 L7.3 -20.75 7.2 -20.75 Q5.65 -20.5 4.95 -20.05 3.65 -19.25 2.65 -18.05 L2.0 -17.1 1.65 -17.35 M-7.85 -20.85 L-8.9 -20.9 Q-8.35 -21.9 -6.5 -23.1 L-7.95 -24.25 -9.85 -25.15 -9.9 -25.15 Q-7.9 -27.45 -4.55 -27.45 -1.75 -27.45 -1.1 -26.1 -1.8 -26.0 -1.8 -24.35 -1.8 -23.35 -1.2 -22.2 -0.5 -21.15 -0.5 -20.2 -0.5 -19.25 -0.95 -18.35 -1.3 -17.55 -2.05 -17.1 L-2.2 -17.35 -2.2 -17.4 -2.7 -18.05 Q-3.7 -19.25 -5.0 -20.05 -5.7 -20.5 -7.25 -20.75 L-7.85 -20.85\" fill=\"#fa22fa\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n      <path d=\"M7.3 -20.75 L8.85 -20.9 Q8.3 -21.9 6.45 -23.1 L7.9 -24.25 9.8 -25.15 9.85 -25.15 Q7.85 -27.45 4.5 -27.45 1.7 -27.45 1.05 -26.1 1.75 -26.0 1.75 -24.35 1.75 -23.35 1.15 -22.2 0.45 -21.15 0.45 -20.2 0.45 -19.25 0.9 -18.35 L1.65 -17.35 M-7.85 -20.85 L-8.9 -20.9 Q-8.35 -21.9 -6.5 -23.1 L-7.95 -24.25 -9.85 -25.15 -9.9 -25.15 Q-7.9 -27.45 -4.55 -27.45 -1.75 -27.45 -1.1 -26.1 -1.8 -26.0 -1.8 -24.35 -1.8 -23.35 -1.2 -22.2 -0.5 -21.15 -0.5 -20.2 -0.5 -19.25 -0.95 -18.35 -1.3 -17.55 -2.05 -17.1 L-2.2 -17.35 -2.2 -17.4\" fill=\"none\" stroke=\"#b7026a\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0000152590218967\"></path>\n      <path d=\"M1.65 -17.35 L2.0 -17.1 2.65 -18.05 Q3.65 -19.25 4.95 -20.05 5.65 -20.5 7.2 -20.75 L7.3 -20.75 M-2.2 -17.4 L-2.7 -18.05 Q-3.7 -19.25 -5.0 -20.05 -5.7 -20.5 -7.25 -20.75 L-7.85 -20.85\" fill=\"none\" stroke=\"#b7026a\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0000152590218967\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    }
+  },
+  "rasterSource": false
+}

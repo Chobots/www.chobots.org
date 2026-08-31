@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sourceName": "hair_johnny_bravo.swf",
+  "sha256": "8853a7d6ad3a208250511e279d93f8c324fa324c804c041d7cb19eae8a54bf3a",
+  "parts": {
+    "McHead2": {
+      "width": 22.5,
+      "height": 33.3,
+      "registrationX": -12.2,
+      "registrationY": -41.35,
+      "markup": "\n  <g transform=\"matrix(1.0, 0.0, 0.0, 1.0, 12.2, 41.35)\">\n    <use height=\"32.3\" id=\"clothes-hair_johnny_bravo-McHead2-mcColor\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -11.7, -40.85)\" width=\"21.5\" href=\"#clothes-hair_johnny_bravo-McHead2-sprite0\"></use>\n    <use height=\"33.3\" id=\"clothes-hair_johnny_bravo-McHead2-mcBorder\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, -11.7, -40.85)\" width=\"22.5\" href=\"#clothes-hair_johnny_bravo-McHead2-sprite1\"></use>\n  </g>\n  <defs>\n    <g id=\"clothes-hair_johnny_bravo-McHead2-sprite0\">\n      <use height=\"32.3\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"21.5\" href=\"#clothes-hair_johnny_bravo-McHead2-shape0\"></use>\n    </g>\n    <g id=\"clothes-hair_johnny_bravo-McHead2-shape0\">\n      <path d=\"M20.15 10.2 Q21.35 11.5 21.5 14.2 21.6 15.85 19.9 20.1 L18.05 24.3 19.75 24.5 17.3 32.3 18.0 24.4 Q11.7 23.35 5.4 24.25 L5.8 32.15 3.25 24.65 5.4 24.2 5.4 24.15 Q2.55 19.35 0.8 13.1 -0.65 7.8 0.45 5.2 1.55 2.45 5.35 2.95 5.25 -0.75 8.2 0.2 11.05 1.15 12.05 4.25 14.65 4.2 16.45 6.0 18.0 7.45 18.3 9.3 19.25 9.25 20.15 10.2 M18.0 24.35 L18.05 24.3 18.0 24.3 18.0 24.35\" fill=\"#ffffff\" fill-rule=\"evenodd\" stroke=\"none\"></path>\n    </g>\n    <g id=\"clothes-hair_johnny_bravo-McHead2-sprite1\">\n      <use height=\"33.3\" transform=\"matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)\" width=\"22.5\" href=\"#clothes-hair_johnny_bravo-McHead2-shape1\"></use>\n    </g>\n    <g id=\"clothes-hair_johnny_bravo-McHead2-shape1\">\n      <path d=\"M20.15 10.2 Q21.35 11.5 21.5 14.2 21.6 15.85 19.9 20.1 L18.05 24.3 19.75 24.5 17.3 32.3 18.0 24.4 Q11.7 23.35 5.4 24.25 L5.8 32.15 3.25 24.65 5.4 24.2 5.4 24.15 Q2.55 19.35 0.8 13.1 -0.65 7.8 0.45 5.2 1.55 2.45 5.35 2.95 5.25 -0.75 8.2 0.2 11.05 1.15 12.05 4.25 14.65 4.2 16.45 6.0 18.0 7.45 18.3 9.3 19.25 9.25 20.15 10.2 M5.4 24.25 L5.4 24.2 M8.2 21.75 Q6.1 17.65 5.5 13.15 4.95 9.25 5.35 2.95 M18.0 24.35 L18.05 24.3 18.0 24.3 18.0 24.35 18.0 24.4 M11.15 19.15 Q9.75 13.85 10.0 10.6 10.2 7.5 12.05 4.25 M18.3 9.3 Q16.65 18.15 15.4 20.7\" fill=\"none\" stroke=\"#000000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.0\"></path>\n    </g>\n  </defs>\n",
+      "tintTargets": [
+        {
+          "id": "clothes-hair_johnny_bravo-McHead2-mcColor",
+          "kind": "multiply",
+          "percent": 100
+        },
+        {
+          "id": "clothes-hair_johnny_bravo-McHead2-mcBorder",
+          "kind": "border",
+          "percent": 50
+        }
+      ],
+      "hasOneHand": false,
+      "rasterImages": [],
+      "unresolvedReferences": []
+    }
+  },
+  "rasterSource": false
+}
